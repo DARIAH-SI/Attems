@@ -356,12 +356,439 @@
          </listChange>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <graphic xml:id="facs-01-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file115"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_01_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-01-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file116"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_01_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-01-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file117"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_01_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-02-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file118"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_02_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-02-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file119"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_02_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-02-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file120"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_02_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-03-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file121"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_03_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-03-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file122"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_03_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-03-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file123"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_03_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-03-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file124"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_03_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-04-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file125"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_04_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-04-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file126"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_04_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-04-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file127"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_04_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-04-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file128"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_04_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-05-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file129"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_05_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-05-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file130"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_05_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-05-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file131"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_05_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-05-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file132"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_05_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-06-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file133"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_06_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-06-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file134"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_06_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-06-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file135"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_06_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-06-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file136"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_06_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-07-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file137"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_07_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-07-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file138"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_07_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-07-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file139"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_07_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-07-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file140"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_07_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-08-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file141"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_08_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-08-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file142"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_08_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-08-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file143"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_08_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-08-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file144"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_08_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-08-3_re"
+               corresp="http://hdl.handle.net/20.500.12325/file145"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_08_page_03-re.jpg/info.json"/>
+      <graphic xml:id="facs-08-3_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file146"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_08_page_03-ve.jpg/info.json"/>
+      <graphic xml:id="facs-09-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file147"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-09-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file148"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-09-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file149"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-09-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file150"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-09-3_re"
+               corresp="http://hdl.handle.net/20.500.12325/file151"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_03-re.jpg/info.json"/>
+      <graphic xml:id="facs-09-3_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file152"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_03-ve.jpg/info.json"/>
+      <graphic xml:id="facs-09-4_re"
+               corresp="http://hdl.handle.net/20.500.12325/file153"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_04-re.jpg/info.json"/>
+      <graphic xml:id="facs-09-4_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file154"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_09_page_04-ve.jpg/info.json"/>
+      <graphic xml:id="facs-10-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file155"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_10_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-10-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file156"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_10_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-10-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file157"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_10_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-10-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file158"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_10_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-10-3_re"
+               corresp="http://hdl.handle.net/20.500.12325/file159"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_10_page_03-re.jpg/info.json"/>
+      <graphic xml:id="facs-10-3_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file160"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_10_page_03-ve.jpg/info.json"/>
+      <graphic xml:id="facs-11-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file161"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_11_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-11-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file162"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_11_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-11-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file163"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_11_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-11-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file164"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_11_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-12-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file165"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_12_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-12-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file166"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_12_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-12-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file167"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_12_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-12-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file168"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_12_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-13-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file169"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_13_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-13-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file170"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_13_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-13-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file171"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_13_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-13-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file172"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_13_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-14-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file173"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_14_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-14-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file174"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_14_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-14-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file175"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_14_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-14-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file176"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_14_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-15-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file177"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_15_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-15-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file178"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_15_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-15-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file179"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_15_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-15-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file180"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_15_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-16-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file181"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_16_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-16-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file182"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_16_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-16-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file183"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_16_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-16-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file184"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_16_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-17-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file185"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_17_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-17-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file186"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_17_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-17-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file187"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_17_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-17-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file188"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_17_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-18-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file189"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_18_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-18-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file190"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_18_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-18-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file191"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_18_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-18-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file192"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_18_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-19-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file193"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_19_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-19-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file194"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_19_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-19-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file195"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_19_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-19-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file196"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_19_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-20-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file197"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_20_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-20-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file198"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_20_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-20-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file199"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_20_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-20-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file200"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_20_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-21-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file201"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_21_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-21-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file202"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_21_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-21-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file203"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_21_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-21-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file204"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_21_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-22-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file205"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_22_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-22-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file206"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_22_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-22-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file207"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_22_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-23-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file208"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_23_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-23-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file209"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_23_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-23-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file210"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_23_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-23-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file211"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_23_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-24-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file212"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_24_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-24-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file213"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_24_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-24-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file214"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_24_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-24-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file215"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_24_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-25-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file216"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_25_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-25-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file217"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_25_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-25-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file218"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_25_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-26-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file219"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_26_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-26-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file220"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_26_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-26-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file221"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_26_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-26-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file222"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_26_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-27-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file223"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_27_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-27-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file224"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_27_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-27-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file225"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_27_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-27-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file226"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_27_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-28-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file227"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_28_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-28-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file228"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_28_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-28-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file229"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_28_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-28-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file230"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_28_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-29-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file231"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_29_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-29-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file232"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_29_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-29-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file233"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_29_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-29-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file234"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_29_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-30-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file235"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_30_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-30-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file236"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_30_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-30-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file237"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_30_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-30-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file238"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_30_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-30-3_re"
+               corresp="http://hdl.handle.net/20.500.12325/file239"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_30_page_03-re.jpg/info.json"/>
+      <graphic xml:id="facs-31-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file240"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_31_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-31-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file241"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_31_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-31-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file242"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_31_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-31-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file243"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_31_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-32-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file244"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_32_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-32-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file245"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_32_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-32-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file246"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_32_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-32-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file247"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_32_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-33-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file248"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_33_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-33-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file249"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_33_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-33-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file250"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_33_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-33-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file251"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_33_page_02-ve.jpg/info.json"/>
+      <graphic xml:id="facs-34-1_re"
+               corresp="http://hdl.handle.net/20.500.12325/file252"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_34_page_01-re.jpg/info.json"/>
+      <graphic xml:id="facs-34-1_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file253"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_34_page_01-ve.jpg/info.json"/>
+      <graphic xml:id="facs-34-2_re"
+               corresp="http://hdl.handle.net/20.500.12325/file254"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_34_page_02-re.jpg/info.json"/>
+      <graphic xml:id="facs-34-2_ve"
+               corresp="http://hdl.handle.net/20.500.12325/file255"
+               url="https://sidih.si/iiif/2/entity|1-1000|4|Attems_letter_34_page_02-ve.jpg/info.json"/>
+   </facsimile>
    <text>
       <front>
          <titlePage>
-            <titlePart>The Letters of Count Ignaz Maria von Attems-Heiligenkreuz to his father
-                    (1734–1738)</titlePart>
-            <titlePart>A digital edition (a work in progress)</titlePart>
+            <docTitle>
+               <titlePart>The Letters of Count Ignaz Maria von Attems-Heiligenkreuz to his father
+                  (1734–1738)</titlePart>
+               <titlePart>A digital edition (a work in progress)</titlePart>
+            </docTitle>
             <byline>Diplomatic transcription by <name>Željko Oset</name> and <name>Florian
                         Zeilinger</name>
             </byline>
@@ -390,7 +817,7 @@
                     (1734–1738)</head>-->
          <div type="letter" xml:id="attems.l.01" n="1">
             <head xml:id="attems-head-5">Würzburg, 16. 11. 1734</head>
-            <pb facs="Attems_letter_01_page_01-re" xml:id="attems-pb-1"/>
+            <pb xml:id="attems-dipl-pb-1" facs="#facs-01-1_re"/>
             <opener xml:id="attems-opener-1">
                <salute>
                   <name type="person">Ihro Gnaden <lb/>Hoch- und Wohlgebohrner Reichs
@@ -423,7 +850,7 @@
                   <reg>weil</reg>
                </choice> Er Villeicht <sic xml:space="preserve">einen </sic>
                <hi rend="italic">tour</hi> über <name type="place">Bamberg</name> machen
-                            <pb facs="Attems_letter_01_page_01-ve"/>
+                            <pb xml:id="attems-dipl-pb-2" facs="#facs-01-1_ve"/>
                <lb/>Konte. Es haben alle, so die Reitschulle <hi rend="italic">frequenti</hi>ren, <lb/>so wohl <hi rend="italic">Accademist</hi>en,
                         alß die in der Stadt wohnen, <lb/>auff der Reitschulle Rothe <choice>
                   <orig>
@@ -472,7 +899,7 @@
                             mich, be- <lb/>sonders den <name type="person">franz
                             antonerl</name>.</p>
             </postscript>
-            <pb facs="Attems_letter_01_page_02-re" xml:id="attems-pb-3"/>
+            <pb xml:id="attems-dipl-pb-3" facs="#facs-01-2_re"/>
             <postscript xml:id="attems-postscript-2">
                <label>P. S.</label>
                <p>Es ist ein Kloster <hi rend="italic">Benedictin</hi>er hier, so der <hi rend="italic">Nation</hi>
@@ -516,7 +943,7 @@
          </div>
          <div type="letter" xml:id="attems.l.02" n="2">
             <head xml:id="attems-head-6">Würzburg, 15. 12. 1734</head>
-            <pb facs="Attems_letter_02_page_01-re" xml:id="attems-pb-4"/>
+            <pb xml:id="attems-dipl-pb-4" facs="#facs-02-1_re"/>
             <opener xml:id="attems-opener-2">
                <salute>
                   <name type="person">Ihro Gnaden <lb/>Hoch- und Wohlgebohrner Reichs
@@ -548,7 +975,7 @@
                <name type="person">Ihro Gnaden beyderseits</name> in hochen wohlstand <choice>
                   <orig>Unzehlbah-<lb/>re</orig>
                   <reg>unzählba-<lb/>re</reg>
-               </choice> Jahre hinauß d<expan>a</expan>s gesunde leben Vergelten. <pb facs="Attems_letter_02_page_01-ve"/>
+               </choice> Jahre hinauß d<expan>a</expan>s gesunde leben Vergelten. <pb xml:id="attems-dipl-pb-5" facs="#facs-02-1_ve"/>
                <lb/>
                <name type="person">der
                             fürst</name> hat sich bey meiner genommen empfangungs <lb/>
@@ -591,7 +1018,7 @@
                   <reg>glückselige</reg>
                </choice>
                <lb/>feyertäge, absonderlich den <name type="person">franz antonerl</name>,
-                        mit bitte <lb/>mich noch fernershin in brüderlicher liebe allerseits <pb facs="Attems_letter_02_page_02-re"/>
+                        mit bitte <lb/>mich noch fernershin in brüderlicher liebe allerseits <pb xml:id="attems-dipl-pb-6" facs="#facs-02-2_re"/>
                <lb/>zu erhalten. Mithin mich zu beyderseits hochen <lb/>gnaden die hände
                         Küssend empfehle, und ersterbe </p>
             <closer xml:id="attems-closer-2">
@@ -632,7 +1059,7 @@
          </div>
          <div type="letter" xml:id="attems.l.03" n="3">
             <head xml:id="attems-head-7">Würzburg, 8. 1. 1735</head>
-            <pb facs="Attems_letter_03_page_01-re" xml:id="attems-pb-7"/>
+            <pb xml:id="attems-dipl-pb-7" facs="#facs-03-1_re"/>
             <opener xml:id="attems-opener-3">
                <salute>
                   <name type="person">Ihro Gnaden <lb/>Hoch- und Wohlgebohrner Reichs
@@ -663,7 +1090,7 @@
                   <orig>Unß</orig>
                   <reg>uns</reg>
                </choice>, <lb/>gott lob, gesund, wie dan auch die Seuche, so auff dem land
-                            <pb facs="Attems_letter_03_page_01-ve"/>
+                            <pb xml:id="attems-dipl-pb-8" facs="#facs-03-1_ve"/>
                <lb/>meistens unter denen auß
                         dem feld <choice>
                   <orig>zuruk</orig>
@@ -714,7 +1141,7 @@
                   <orig>außgenohmen</orig>
                   <reg>ausgenommen</reg>
                </choice>, wan Von denen ersteren einer nicht Tanzet, <lb/>so macht Er einem
-                        anderen zum herrn Von hauß, so man <pb facs="Attems_letter_03_page_02-re"/>
+                        anderen zum herrn Von hauß, so man <pb xml:id="attems-dipl-pb-9" facs="#facs-03-2_re"/>
                <lb/>hier <hi rend="italic">Ball</hi> König nennet; alß der domherr <name type="person">
                   <hi rend="italic">Baron</hi> von <hi rend="italic">Fegenbach</hi>
                </name>
@@ -787,7 +1214,7 @@
                <sic>nig</sic> gerathen, haben
                         derohalben alle müssen übermacht werden, <lb/>weillen ich Keines Tragen
                         Konte. Neues aber Kan man <lb/>Von hier gahr nichts berichten, weillen man,
-                        wie ich sehe, <pb facs="Attems_letter_03_page_02-ve"/>
+                        wie ich sehe, <pb xml:id="attems-dipl-pb-10" facs="#facs-03-2_ve"/>
                <lb/>hier gahr keine
                         gute <hi rend="italic">correspondenz</hi> hat. Ihro Gnaden der <lb/>
                <name type="person">frau Mutter</name> Küsse ich Unterthänigst die hände. der
@@ -831,7 +1258,7 @@
          </div>
          <div type="letter" xml:id="attems.l.04" n="4">
             <head xml:id="attems-head-8">Würzburg, 16. 2. 1735</head>
-            <pb facs="Attems_letter_04_page_01-re" xml:id="attems-pb-11"/>
+            <pb xml:id="attems-dipl-pb-11" facs="#facs-04-1_re"/>
             <opener xml:id="attems-opener-4">
                <dateline>
                   <placeName>
@@ -898,7 +1325,7 @@
                         erfreulichste ist jenes, das man allent-<lb/>halben gahr leicht <choice>
                   <orig>urtheillen</orig>
                   <reg>(be-)urteilen</reg>
-               </choice> Kan, wan man ein wenig Tieffer in <pb facs="Attems_letter_04_page_01-ve"/>
+               </choice> Kan, wan man ein wenig Tieffer in <pb xml:id="attems-dipl-pb-12" facs="#facs-04-1_ve"/>
                <lb/>die Staatssachen einsehen will,
                         wie d<expan>a</expan>s diser gegenwärtige Krieg <lb/>entweder gahr bald ein
                         Völliges end nehmen werde, <choice>
@@ -954,7 +1381,7 @@
                   <reg>Abreise</reg>
                </choice> auch zugesaget haben, werden <name type="person">Ihro
                             Gnaden</name>
-               <pb facs="Attems_letter_04_page_02-re"/>
+               <pb xml:id="attems-dipl-pb-13" facs="#facs-04-2_re"/>
                <lb/>nicht ungnädig nehmen, wan es
                         außgegeben werden <lb/>wird, und ist zuweillen die Ursache, wan man sie Vor
                         augen <lb/>sihet, mithin gegenwärtig ist, Vill leichter zu ersehen und
@@ -991,7 +1418,7 @@
                <lb/>
                <name type="person">zwey bereuter</name>, wovon beyde in gleichen <hi rend="italic">Caracte</hi>r, und nur der <lb/>unterscheid,
                             d<expan>a</expan>s einer älter auff der schull ist, mithin den Vorzug
-                            <pb facs="Attems_letter_04_page_02-ve"/>
+                            <pb xml:id="attems-dipl-pb-14" facs="#facs-04-2_ve"/>
                <lb/>hat, <choice>
                   <orig>sye</orig>
                   <reg>sie</reg>
@@ -1059,7 +1486,7 @@
          </div>
          <div type="letter" xml:id="attems.l.05" n="5">
             <head xml:id="attems-head-9">Würzburg, 19. 6. 1735</head>
-            <pb facs="Attems_letter_05_page_01-re" xml:id="attems-pb-15"/>
+            <pb xml:id="attems-dipl-pb-15" facs="#facs-05-1_re"/>
             <opener xml:id="attems-opener-5">
                <dateline>
                   <placeName>
@@ -1101,7 +1528,7 @@
                         so gut überstehen möge, der <lb/>
                <hi rend="italic">termin</hi> des haus <hi rend="italic">Arrest</hi> wird wohl nicht so lang, alß bey den blattern
                         seyn, <lb/>und sich mithin schon bald genediget haben, wan sich nur
-                            <add>nicht</add> eines allererst legt, <pb facs="Attems_letter_05_page_01-ve"/>
+                            <add>nicht</add> eines allererst legt, <pb xml:id="attems-dipl-pb-16" facs="#facs-05-1_ve"/>
                <lb/>wan d<expan>a</expan>s andere
                         schon Völlig gesund ist. <choice>
                   <orig>Vor</orig>
@@ -1131,7 +1558,7 @@
                         seynd lauter <lb/>
                <hi rend="italic">Historien</hi> darauff,
                             d<expan>a</expan>s <hi rend="italic">Cabinet</hi> aber hat ein <hi rend="italic">dessein</hi>, wie die <hi rend="strikeout">an</hi>
-                        gewissen <pb facs="Attems_letter_05_page_02-re"/>
+                        gewissen <pb xml:id="attems-dipl-pb-17" facs="#facs-05-2_re"/>
                <lb/>außschneidbilder, so
                         lauter zugwerk seynd, und in der mitten <lb/>ein feld haben, wo alzeit ein
                         gott, alß <hi rend="italic">Mars</hi>, <hi rend="italic">Jupiter, Vulcan<choice>
@@ -1177,7 +1604,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>en stehet, <lb/>dises aber eines deren sehns würdigen dingen der
-                        welt ist, und wir so <pb facs="Attems_letter_05_page_02-ve"/>
+                        welt ist, und wir so <pb xml:id="attems-dipl-pb-18" facs="#facs-05-2_ve"/>
                <lb/>wenig
                         davon entfernet <choice>
                   <orig>seyn</orig>
@@ -1220,7 +1647,7 @@
          </div>
          <div type="letter" xml:id="attems.l.06" n="6">
             <head xml:id="attems-head-10">Würzburg, 24. 7. 1735</head>
-            <pb facs="Attems_letter_06_page_01-re" xml:id="attems-pb-19"/>
+            <pb xml:id="attems-dipl-pb-19" facs="#facs-06-1_re"/>
             <opener xml:id="attems-opener-6">
                <dateline>
                   <placeName>
@@ -1265,7 +1692,7 @@
                </choice> solche <lb/>zu bestreitten, werde doch möglichsten fleiß anwenden,
                         dises alles mit <lb/>Meinem wohlverhalten widerumen abdienen zu Können. die
                         an-<lb/>kunfft des <name type="person">fürsten</name>, und die darauf
-                        erfolgten <hi rend="italic">Ceremonien</hi> des festtags des <pb facs="Attems_letter_06_page_01-ve"/>
+                        erfolgten <hi rend="italic">Ceremonien</hi> des festtags des <pb xml:id="attems-dipl-pb-20" facs="#facs-06-1_ve"/>
                <lb/>H. <hi rend="italic">Kiliani</hi> schuz, und lands <hi rend="italic">Patron</hi> deren
                         Francken ist eine Neue-<lb/>keit, so man von <name type="place">Würzburg</name> zu berichten in stand ist, der einzug <lb/>in die dom
                         Kirche geschahe mit <hi rend="strikeout">mf</hi> 15 mit 6 pferden bespanten
@@ -1346,7 +1773,7 @@
                             fürsten</name> eine <hi rend="italic">Visite</hi> zu geben, geko<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>en, und <pb facs="Attems_letter_06_page_02-re"/>
+               </choice>en, und <pb xml:id="attems-dipl-pb-21" facs="#facs-06-2_re"/>
                <lb/>auff diser
                         jagd wurden 64 hirschen, dan 9 stuck, nebst etlichen rehen <lb/>und Kälbern
                         geschossen. der fürst hatte sehr Vill gnad <choice>
@@ -1430,7 +1857,7 @@
                <lb/>deß <name type="person">Prinzen</name> auffgeführet. Er hat auch
                         solches <hi rend="strikeout">durch</hi> einen obrist<hi rend="italic">lieutenant</hi>
                <lb/>an <name type="person">seine frau</name> hieher zu schreiben gebetten,
-                        welche mir gestern die dißfahls <pb facs="Attems_letter_06_page_02-ve"/>
+                        welche mir gestern die dißfahls <pb xml:id="attems-dipl-pb-22" facs="#facs-06-2_ve"/>
                <lb/>eingeschlossene <choice>
                   <orig>zettul</orig>
                   <reg>Zettel</reg>
@@ -1502,7 +1929,7 @@
          </div>
          <div type="letter" xml:id="attems.l.07" n="7">
             <head xml:id="attems-head-11">Mainz, 4. 9. 1735</head>
-            <pb facs="Attems_letter_07_page_01-re" xml:id="attems-pb-23"/>
+            <pb xml:id="attems-dipl-pb-23" facs="#facs-07-1_re"/>
             <opener xml:id="attems-opener-7">
                <dateline>
                   <placeName>
@@ -1556,7 +1983,7 @@
                         besten und halten gute <hi rend="italic">ordre</hi>. Als dan Ka<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>en <lb/>drey Sächsische Regimenter <hi rend="italic">Infanterie</hi>, alß erste <hi rend="italic">Garde</hi>, anderte <hi rend="italic">Garde</hi>, und <pb facs="Attems_letter_07_page_01-ve"/>
+               </choice>en <lb/>drey Sächsische Regimenter <hi rend="italic">Infanterie</hi>, alß erste <hi rend="italic">Garde</hi>, anderte <hi rend="italic">Garde</hi>, und <pb xml:id="attems-dipl-pb-24" facs="#facs-07-1_ve"/>
                <lb/>Weissenfels. diese Regimenter Kamen mit fliegenden fahnen, und
                         <lb/>Klingenden spill, gleich denen Vorigen, ihre <hi rend="italic">musique</hi> ist etwas <lb/>besonders, dan die leute rechte <hi rend="italic">Virtuosen</hi> seynd, sie haben anstatt <lb/>deren
                         waldhorn Trompeten. die <hi rend="italic">Infanterie</hi> gleichet der <hi rend="italic">Cavallerie</hi> in <lb/>der guten ansehen. Sie machen
@@ -1630,7 +2057,7 @@
                   <orig>schärpffen</orig>
                   <reg>Schärpen</reg>
                </choice>, die andere aber über <lb/>die achsel. habe vergessen, Vor denen
-                        Preussischen <hi rend="italic">Dragoner</hi> Regimentern <pb facs="Attems_letter_07_page_02-re"/>
+                        Preussischen <hi rend="italic">Dragoner</hi> Regimentern <pb xml:id="attems-dipl-pb-25" facs="#facs-07-2_re"/>
                <lb/>Ritte ein <hi rend="italic">escadron</hi> Preussische <hi rend="italic">Hussarn</hi>, so eben wohl
                         außsehen. <lb/>der <hi rend="italic">marche</hi> endigte sich um 2 uhr
                         nachmittag, der <name type="person">
@@ -1685,7 +2112,7 @@
                   <orig>strohesak</orig>
                   <reg>Strohsack</reg>
                </choice> Vor der Thür, und gehet d<expan>a</expan>s <hi rend="italic">Sacramenti</hi>ren an, wan <lb/>ich ihn ermahne etwas zu Thun, oder nur
-                        ein loch in einen <pb facs="Attems_letter_07_page_02-ve"/>
+                        ein loch in einen <pb xml:id="attems-dipl-pb-26" facs="#facs-07-2_ve"/>
                <lb/>strumpff zu
                         zunähen, so sagt Er, er habe seine <hi rend="italic">Profession</hi>
                <lb/>nicht wegen mir erlehrnet, seye auch nicht zum arbeiten
@@ -1731,7 +2158,7 @@
          </div>
          <div type="letter" xml:id="attems.l.08" n="8">
             <head xml:id="attems-head-12">Mannheim, 24. 9. 1735</head>
-            <pb facs="Attems_letter_08_page_01-re" xml:id="attems-pb-27"/>
+            <pb xml:id="attems-dipl-pb-27" facs="#facs-08-1_re"/>
             <opener xml:id="attems-opener-8">
                <dateline>
                   <placeName>
@@ -1782,7 +2209,7 @@
                         rechten aug <hi rend="strikeout">biß</hi> über <lb/>den scheitel biß auf die <choice>
                   <orig>hirnschallen</orig>
                   <reg>Hirnschale</reg>
-               </choice> zerschnitten hat, man zoge <lb/>sie gleich heraus, und <name type="person">der hoffmeister</name> bande ihr mit halsTuchern <pb facs="Attems_letter_08_page_01-ve"/>
+               </choice> zerschnitten hat, man zoge <lb/>sie gleich heraus, und <name type="person">der hoffmeister</name> bande ihr mit halsTuchern <pb xml:id="attems-dipl-pb-28" facs="#facs-08-1_ve"/>
                <lb/>den Kopff zusa<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
@@ -1875,7 +2302,7 @@
                             d<expan>a</expan>s spill, <lb/>und jedes seine feld<hi rend="italic">musique</hi>, die <hi rend="italic">cuirassiers</hi> Trompeter <choice>
                   <orig>stunden</orig>
                   <reg>standen</reg>
-               </choice> doch <pb facs="Attems_letter_08_page_02-re"/>
+               </choice> doch <pb xml:id="attems-dipl-pb-29" facs="#facs-08-2_re"/>
                <lb/>nur in der <hi rend="italic">parade</hi>, die <hi rend="italic">chefs</hi> stunden alle
                         Vor ihren Regimenten <lb/>es ware recht schön zu sehen, doch die
                         <hi rend="italic" xml:space="preserve">passage</hi> des <name type="place">Rheins</name> ware <lb/>noch Vill schöner. Nach den essen reisete ich <choice>
@@ -1948,7 +2375,7 @@
                         mit ihren <name type="person">
                   <hi rend="italic">Duc</hi>
                </name>
-               <pb facs="Attems_letter_08_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-30" facs="#facs-08-2_ve"/>
                <lb/>nicht, sie hatte zuvor <name type="person">seinen bruder</name>, so sie zu <choice>
                   <orig>heurathen</orig>
                   <reg>heiraten</reg>
@@ -2049,7 +2476,7 @@
                   </name>
                </signed>
             </closer>
-            <pb facs="Attems_letter_08_page_03-re" xml:id="attems-pb-31"/>
+            <pb xml:id="attems-dipl-pb-31" facs="#facs-08-3_re"/>
             <postscript xml:id="attems-postscript-6">
                <label>P. S. </label>
                <p>Ihro Gnaden der <name type="person">frau Mutter</name> Küsse ich <lb/>die
@@ -2077,7 +2504,7 @@
                   </choice>
                   <lb/>die woche ist französische Comedie, wo ich gern hi-<lb/>nein gehe,
                             man gibt aber 2 f., gehet mithin <lb/>mein Monatgeld bald darauf. der
-                            Adel ist hier <pb facs="Attems_letter_08_page_03-ve"/>
+                            Adel ist hier <pb xml:id="attems-dipl-pb-32" facs="#facs-08-3_ve"/>
                   <lb/>gegen die
                             fremde besonders höfflich, habe auch schon <lb/>in der stadt gespeiset.
                             Man sihet mit dem <choice>
@@ -2118,7 +2545,7 @@
          </div>
          <div type="letter" xml:id="attems.l.09" n="9">
             <head xml:id="attems-head-13">Praha, 26. 11. 1735</head>
-            <pb facs="Attems_letter_09_page_01-re" xml:id="attems-pb-33"/>
+            <pb xml:id="attems-dipl-pb-33" facs="#facs-09-1_re"/>
             <opener xml:id="attems-opener-9">
                <dateline>
                   <placeName>
@@ -2158,7 +2585,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>e ich <name type="person">Ihro Gnaden</name> bitten mir doch
-                            d<expan>a</expan>s hier <pb facs="Attems_letter_09_page_01-ve"/>
+                            d<expan>a</expan>s hier <pb xml:id="attems-dipl-pb-34" facs="#facs-09-1_ve"/>
                <lb/>Verbleiben gnädigst zu Verstatten, und die dazue be-<lb/>wegliche
                         Ursachen anzuziehen zu erlauben. Erstlich sagen <lb/>die vier <hi rend="italic">doctores</hi>, so mich <choice>
                   <orig>curiret</orig>
@@ -2191,7 +2618,7 @@
                         ge-<lb/>hört, od<expan>er</expan> es zu einer noch bessern jahrs zeit
                         Villeicht selbst werden er-<lb/>fahren haben, und da fahrt man das Tags mit
                         6 pferden höchstens <lb/>zwey Posten, wie wir es zwischen <name type="place">Regenspurg</name>, und <name type="place">Nürnberg</name> erfahren,
-                        <lb/>Man erfrieret den ganzen Tag auf der strassen, und machet doch <pb facs="Attems_letter_09_page_02-re"/>
+                        <lb/>Man erfrieret den ganzen Tag auf der strassen, und machet doch <pb xml:id="attems-dipl-pb-35" facs="#facs-09-2_re"/>
                <lb/>Keinen weeg, und als dan dauret
                         es ein 4 od<expan>er</expan> 5 Tag nach-<lb/>einander. Wir Können auch nicht
                         Versicheret <add>seyn</add>, ob wir nicht gebürge <lb/>antreffen, da man uns
@@ -2229,7 +2656,7 @@
                         eine 2 stund damit <lb/>gehen muß, und da man sich Trockene will, sagt der
                         fuhrman, <lb/>ich will fahren, ich muß disen Tag widerumen zu haus seyn,
                         <lb/>da erscheinet es wahrhafftig, d<expan>a</expan>s einen nicht alzu wohl
-                        dabey seye. <pb facs="Attems_letter_09_page_02-ve"/>
+                        dabey seye. <pb xml:id="attems-dipl-pb-36" facs="#facs-09-2_ve"/>
                <lb/>Anbey wurde ich
                         zwar an denen <choice>
                   <orig>örtern</orig>
@@ -2289,7 +2716,7 @@
                   <reg>jetzt</reg>
                </choice>, da sie im <lb/>land <hi rend="italic">emploi</hi>ret, und nicht
                             <hi rend="strikeout">h</hi> ReichsHoffRäth worden seyn, <note>Ø</note>
-               <pb facs="Attems_letter_09_page_03-re"/>
+               <pb xml:id="attems-dipl-pb-37" facs="#facs-09-3_re"/>
                <lb/>
                <note>Ø</note>gar nichts
                         helffe, und mithin die angewendete zeit und <lb/>d<expan>a</expan>s
@@ -2344,7 +2771,7 @@
                   <orig>Thätte</orig>
                   <reg>täte/würde</reg>
                </choice> ich Vergess<expan>en</expan>
-               <pb facs="Attems_letter_09_page_03-ve"/>
+               <pb xml:id="attems-dipl-pb-38" facs="#facs-09-3_ve"/>
                <lb/>was ich d<expan>a</expan>s
                         Vorige jahr erlehrnet, und hier Kö<choice>
                   <abbr>n̄</abbr>
@@ -2388,7 +2815,7 @@
                         <lb/>6 uhr mit Meinen <hi rend="italic">Studi</hi>ren fertig seyn, dan der
                         tag lang <lb/>ist, d<expan>a</expan>s ich nacher die leut <hi rend="italic">frequenti</hi>ren kan. Keine <hi rend="italic">Exerci</hi>-<lb/>tien
                         gibt es zu <name type="place">Wezlär</name> auch nicht, und mithin müste ich
-                            <pb facs="Attems_letter_09_page_04-re"/>
+                            <pb xml:id="attems-dipl-pb-39" facs="#facs-09-4_re"/>
                <lb/>schon einmahl
                             d<expan>a</expan>s <choice>
                   <orig>Reuten</orig>
@@ -2433,7 +2860,7 @@
                </name> zu <name type="place">gräz</name> gelehrnet, und noch nichts <hi rend="italic">contra</hi>
                <lb/>gefochten habe, hier hätte ich eben die gelegenheit am besten. <lb/>der
                         bereuter hier hat selbsten 22 pferd, und die <hi rend="italic">cavaliers</hi>
-               <pb facs="Attems_letter_09_page_04-ve"/>
+               <pb xml:id="attems-dipl-pb-40" facs="#facs-09-4_ve"/>
                <lb/>schiken Vill dahin. die <hi rend="italic">Depense</hi> wird hier nichts <lb/>grösser, sondern in
                         Cost und <hi rend="italic">quartier</hi> nur Kleiner alß <lb/>zu <name type="place">Wezlär</name> seyn, dan ich mich um beyde <hi rend="italic">info</hi>rmiert, die <lb/>Meister allein, so ich zu <name type="place">Wezlär</name> nicht haben Kan, wan man <lb/>es doppelt zahlte, werden
                         hier höcher Ko<choice>
@@ -2486,7 +2913,7 @@
          </div>
          <div type="letter" xml:id="attems.l.10" n="10">
             <head xml:id="attems-head-14">Praha, 30. 11. 1735</head>
-            <pb facs="Attems_letter_10_page_01-re" xml:id="attems-pb-41"/>
+            <pb xml:id="attems-dipl-pb-41" facs="#facs-10-1_re"/>
             <opener xml:id="attems-opener-10">
                <dateline>
                   <placeName>
@@ -2519,7 +2946,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>en, d<expan>a</expan>s Er von dem <lb/>
-               <name type="person">hoffmeister</name> dem abschied Verlangte, und ich der Stein <pb facs="Attems_letter_10_page_01-ve"/>
+               <name type="person">hoffmeister</name> dem abschied Verlangte, und ich der Stein <pb xml:id="attems-dipl-pb-42" facs="#facs-10-1_ve"/>
                <lb/>
                <choice>
                   <orig>der beleydigung</orig>
@@ -2542,7 +2969,7 @@
                         mir dan auch der <lb/>Kürzere Theil im reiten alzeit über d<expan>a</expan>s
                         Knye herauf gestig<expan>en</expan>. <lb/>Als ich obbenante hosen anzoge,
                         wolte er sie beyderseits <lb/>gleich ziehen, worauf ich ihme sagte:
-                            d<expan>a</expan>s solches nicht seyn <pb facs="Attems_letter_10_page_02-re"/>
+                            d<expan>a</expan>s solches nicht seyn <pb xml:id="attems-dipl-pb-43" facs="#facs-10-2_re"/>
                <lb/>Könne, indeme Er ja wisse,
                             d<expan>a</expan>s solche anfangs ungleich <lb/>geschnitten gewesen
                         wären, <choice>
@@ -2563,7 +2990,7 @@
                         Villen geschrey <lb/>und Sac. worauf ich ihme sagte: Er solle aus dem zi<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>er, <pb facs="Attems_letter_10_page_02-ve"/>
+               </choice>er, <pb xml:id="attems-dipl-pb-44" facs="#facs-10-2_ve"/>
                <lb/>dan ich keinen
                         groben …, weniger aber d<expan>a</expan>s Sac. in den <lb/>zi<choice>
                   <abbr>m̄</abbr>
@@ -2589,7 +3016,7 @@
                         gegen alles und seine Reu, d<expan>a</expan>s er mitgegangen,
                             <lb/>
                <note>O</note>
-               <pb facs="Attems_letter_10_page_03-re"/>
+               <pb xml:id="attems-dipl-pb-45" facs="#facs-10-3_re"/>
                <lb/>
                <note>O</note>
                <lb/>erkennet, wegen Kleinigkeiten nicht allein alles Verwi-<lb/>sen,
@@ -2614,7 +3041,7 @@
                   <orig>ohnmög-<lb/>lich</orig>
                   <reg>unmög-<lb/>lich</reg>
                </choice> bewerkstelligen. Wan <name type="person">Ihro Gnaden</name> disen
-                        recht Veränderten <pb facs="Attems_letter_10_page_03-ve"/>
+                        recht Veränderten <pb xml:id="attems-dipl-pb-46" facs="#facs-10-3_ve"/>
                <lb/>selbsten
                         sehen wurden, so solten sie sich gewiß Verwundern. <lb/>Er ware auch in
                         Villen dingen eine zeit hero sehr nachläß-<lb/>ßig, wie er dan schon eine
@@ -2654,7 +3081,7 @@
          </div>
          <div type="letter" xml:id="attems.l.11" n="11">
             <head xml:id="attems-head-15">Praha, 25. 1. 1736</head>
-            <pb facs="Attems_letter_11_page_01-re" xml:id="attems-pb-47"/>
+            <pb xml:id="attems-dipl-pb-47" facs="#facs-11-1_re"/>
             <opener xml:id="attems-opener-11">
                <dateline>
                   <placeName>
@@ -2678,7 +3105,7 @@
                         23.<hi rend="superscript" xml:space="preserve">ten</hi> erhalten, und dero
                         gnädigen willen des <lb/>
                <hi rend="italic">Bals</hi> halber daraus ersehen,
-                        Vor welche gnädige er-<lb/>laubnus ich mich Untertänigst bedanke, die <pb facs="Attems_letter_11_page_01-ve"/>
+                        Vor welche gnädige er-<lb/>laubnus ich mich Untertänigst bedanke, die <pb xml:id="attems-dipl-pb-48" facs="#facs-11-1_ve"/>
                <lb/>wochen zwey mahl. Übermorgen
                         wird man <lb/>hier einer frau Rittersstandes, deren <choice>
                   <orig>nahmen</orig>
@@ -2698,7 +3125,7 @@
                   <reg>jetzt</reg>
                </choice> aber die hand geschenket worden, so auch <lb/>hätte abegehauen
                         werden sollen, der Kopff aber solte <lb/>doch herunter; wie ich höre, bauet
-                        man schon die <pb facs="Attems_letter_11_page_02-re"/>
+                        man schon die <pb xml:id="attems-dipl-pb-49" facs="#facs-11-2_re"/>
                <lb/>bühne auf dem
                         schlosß dazue. disen augenblick <lb/>gehet <hi rend="italic">bagage</hi>
                         deren Russen durch mit Villen zügen, <lb/>und Reitpferden, es <hi rend="italic">marchi</hi>ret auch ein <hi rend="italic">compagnie</hi>
@@ -2716,7 +3143,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>et die Russische <hi rend="italic">garde</hi>
-               <pb facs="Attems_letter_11_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-50" facs="#facs-11-2_ve"/>
                <lb/>zu pferd, sie haben blaue <hi rend="italic">grenadiers</hi> hauben <lb/>mit Vergoldeten schildtern,
                         die <hi rend="strikeout">Vess</hi> Vesten, und <lb/>aufschläg seynd Roth,
                         die Röcke blaue, die <choice>
@@ -2744,7 +3171,7 @@
          </div>
          <div type="letter" xml:id="attems.l.12" n="12">
             <head xml:id="attems-head-16">Praha, 25. 2. 1736</head>
-            <pb facs="Attems_letter_12_page_01-re" xml:id="attems-pb-51"/>
+            <pb xml:id="attems-dipl-pb-51" facs="#facs-12-1_re"/>
             <opener xml:id="attems-opener-12">
                <dateline>
                   <placeName>
@@ -2767,7 +3194,7 @@
                   <orig>Würklichen</orig>
                   <reg>wirklichen</reg>
                </choice> geheimen Rath seynd <lb/>ernennet worden, ware es Meine pflichte
-                        <lb/>hochderselben zur obbesagten Neu über-<pb facs="Attems_letter_12_page_01-ve"/>
+                        <lb/>hochderselben zur obbesagten Neu über-<pb xml:id="attems-dipl-pb-52" facs="#facs-12-1_ve"/>
                <lb/>Ko<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
@@ -2790,7 +3217,7 @@
                   <orig>scheellen</orig>
                   <reg>Schellen</reg>
                </choice>
-               <pb facs="Attems_letter_12_page_02-re"/>
+               <pb xml:id="attems-dipl-pb-53" facs="#facs-12-2_re"/>
                <lb/>zu fahren Verbotten ist, wegen
                         welchen lez-<lb/>teren ich auch die freud nicht alzu gros <lb/>zu seyn <choice>
                   <orig>muthmasse</orig>
@@ -2803,7 +3230,7 @@
                   <hi rend="italic">Marquart</hi>
                </name>, ein hiesiger <hi rend="italic">cavalier</hi>, so die <hi rend="italic">com</hi>-<lb/>
                <hi rend="italic">pagnie</hi> Von dem <name type="person">graff Sauer</name> erkauffet,
-                        <lb/>mit Todt abgegangen. <pb facs="Attems_letter_12_page_02-ve"/>
+                        <lb/>mit Todt abgegangen. <pb xml:id="attems-dipl-pb-54" facs="#facs-12-2_ve"/>
                <lb/>Habe
                         auch Vernohmen, d<expan/>s <name type="person">Ihro G<expan>na</expan>den
                             der <lb/>graff Ernst</name> bischoff worden seye, weilen <lb/>ich also
@@ -2823,7 +3250,7 @@
          </div>
          <div type="letter" xml:id="attems.l.13" n="13">
             <head xml:id="attems-head-17">Praha, 17. 3. 1736</head>
-            <pb facs="Attems_letter_13_page_01-re" xml:id="attems-pb-55"/>
+            <pb xml:id="attems-dipl-pb-55" facs="#facs-13-1_re"/>
             <opener xml:id="attems-opener-13">
                <dateline>
                   <placeName>
@@ -2842,7 +3269,7 @@
                         hochdenensel-<lb/>ben mit gegenwärtigen Meinen zeillen zu solc-<lb/>hen
                         alles glük, beständige gesundheit, und <lb/>eine langwährende zufridenheit
                         anwünsche <lb/>anbey aber Unterthänigst bitte mich ferners-<lb/>hin in
-                        hochen Vätterlichen gnaden zu erhalten, <pb facs="Attems_letter_13_page_01-ve"/>
+                        hochen Vätterlichen gnaden zu erhalten, <pb xml:id="attems-dipl-pb-56" facs="#facs-13-1_ve"/>
                <lb/>wie ich dan niemahls
                         Unterlassen werde den <lb/>gütigen hi<choice>
                   <abbr>m̄</abbr>
@@ -2863,7 +3290,7 @@
                         weis <lb/>aber nicht, ob <hi rend="strikeout">er</hi> selber zu gnädigen
                         handen wird <lb/>gekomen seyn, dan mir der damahlige Auf-<lb/>fenthalt
                         unbewust, wie dan ich auch <name type="person">Ihro Gnaden</name>
-               <lb/>Unthertänigst bitte nicht Ungnädig zu nehmen, <pb facs="Attems_letter_13_page_02-re"/>
+               <lb/>Unthertänigst bitte nicht Ungnädig zu nehmen, <pb xml:id="attems-dipl-pb-57" facs="#facs-13-2_re"/>
                <lb/>wan gegenwärtiges Mein
                         schreiben <name type="person">Ihro Gnaden</name>
                <lb/>nicht in der zeit antreffe. da nun schon seit <lb/>langer zeit nichts
@@ -2878,7 +3305,7 @@
                   </name>
                </signed>
             </closer>
-            <pb facs="Attems_letter_13_page_02-ve" xml:id="attems-pb-58"/>
+            <pb xml:id="attems-dipl-pb-58" facs="#facs-13-2_ve"/>
             <lb xml:id="attems-lb-953"/>
             <postscript xml:id="attems-postscript-7">
                <label>P. S. </label>
@@ -2890,7 +3317,7 @@
          </div>
          <div type="letter" xml:id="attems.l.14" n="14">
             <head xml:id="attems-head-18">Praha, 19. 5. 1736</head>
-            <pb facs="Attems_letter_14_page_01-re" xml:id="attems-pb-59"/>
+            <pb xml:id="attems-dipl-pb-59" facs="#facs-14-1_re"/>
             <opener xml:id="attems-opener-14">
                <dateline>
                   <placeName>
@@ -2919,7 +3346,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>er Kleids ersehen. <lb/>Indessen zweiffle ich nicht <name type="person">Ihro Gnaden</name> werden <lb/>beyderseits Meine an
-                        hochdiselbe erlassene <lb/>zwey schreiben wegen glüklicher entbindung <pb facs="Attems_letter_14_page_01-ve"/>
+                        hochdiselbe erlassene <lb/>zwey schreiben wegen glüklicher entbindung <pb xml:id="attems-dipl-pb-60" facs="#facs-14-1_ve"/>
                <lb/>Ihro Gnaden der <name type="person">frau Mutter</name> in gnaden <lb/>überko<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
@@ -2940,7 +3367,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>er hindurch getragen <hi rend="strikeout">habe</hi> worden, bey
-                        <lb/>Keinen hoff, und sonsten an rechtschaffenen <pb facs="Attems_letter_14_page_02-re"/>
+                        <lb/>Keinen hoff, und sonsten an rechtschaffenen <pb xml:id="attems-dipl-pb-61" facs="#facs-14-2_re"/>
                <lb/>orten, wo ich <choice>
                   <orig>jezo</orig>
                   <reg>jetzt</reg>
@@ -2962,7 +3389,7 @@
                   <orig>zeignus</orig>
                   <reg>Zeugnis</reg>
                </choice> geben, wie d<expan>a</expan>s ich meine Klei-<lb/>dung sowohl am
-                        leib, als sonsten <pb facs="Attems_letter_14_page_02-ve"/>
+                        leib, als sonsten <pb xml:id="attems-dipl-pb-62" facs="#facs-14-2_ve"/>
                <lb/>
                <choice>
                   <orig>scho<choice>
@@ -3014,7 +3441,7 @@
          </div>
          <div type="letter" xml:id="attems.l.15" n="15">
             <head xml:id="attems-head-19">Mainz, 11. 9. 1736</head>
-            <pb facs="Attems_letter_15_page_01-re" xml:id="attems-pb-63"/>
+            <pb xml:id="attems-dipl-pb-63" facs="#facs-15-1_re"/>
             <opener xml:id="attems-opener-15">
                <dateline>
                   <placeName>
@@ -3051,7 +3478,7 @@
                </choice> jahren, da Krieg <lb/>gewesen, nicht vill <hi rend="italic">negoci</hi>ret worden, so hat es das <lb/>ansehen, als ob sie es dises
                         mahl recht einbringen <lb/>wolten, die anzahl deren am <name type="place">Mayn</name> stehenden <lb/>schiffen ist nicht zu beschreiben, welchen
                         dan noch täglich <lb/>Ville nachfolgen. hier in <name type="place">Maynz</name> ist es um ein merk-<lb/>liches Todter, gegen Vorigen Jahr,
-                        als die <hi rend="italic">armée</hi> hier <pb facs="Attems_letter_15_page_01-ve"/>
+                        als die <hi rend="italic">armée</hi> hier <pb xml:id="attems-dipl-pb-64" facs="#facs-15-1_ve"/>
                <lb/>gestanden ist. Von Unseren <hi rend="italic">trouppen</hi> ist nicht ein <lb/>Mann mehr alhier, die <hi rend="italic">garnison</hi> bestehet in Mayn-<lb/>zischen, und ober
                         Rheinischen <choice>
                   <orig>Creyß</orig>
@@ -3087,7 +3514,7 @@
                   <orig>Kärn</orig>
                   <reg>Karren</reg>
                </choice> und Von daraus <lb/>auf der <name type="place">donau</name> im
-                            <name type="place">Ungarn</name> wird abgeschiket werden. <pb facs="Attems_letter_15_page_02-re"/>
+                            <name type="place">Ungarn</name> wird abgeschiket werden. <pb xml:id="attems-dipl-pb-65" facs="#facs-15-2_re"/>
                <lb/>Obwohlen d<expan>a</expan>s
                         Ville arbeit daran ist und jeder <hi rend="italic">ponton</hi>
                <lb/>seinen Karn hat, wie auch die bretter, so <choice>
@@ -3143,7 +3570,7 @@
                </choice>en, hat er seinen <hi rend="italic">Tour</hi>
                <lb/>über <name type="place">Maynz</name> genohmen, dan er gesagt, Er seye
                         überall <lb/>in der welt als am <name type="place">Rheinstrohm</name> nicht
-                        gewesen. <pb facs="Attems_letter_15_page_02-ve"/>
+                        gewesen. <pb xml:id="attems-dipl-pb-66" facs="#facs-15-2_ve"/>
                <lb/>Ich hatte die gnad, so
                         offt, als Taffel ware, mit dem <lb/>
                <name type="person">Churfürsten</name>
@@ -3188,7 +3615,7 @@
          </div>
          <div type="letter" xml:id="attems.l.16" n="16">
             <head xml:id="attems-head-20">Leiden, 18. 9. 1736</head>
-            <pb facs="Attems_letter_16_page_01-re" xml:id="attems-pb-67"/>
+            <pb xml:id="attems-dipl-pb-67" facs="#facs-16-1_re"/>
             <opener xml:id="attems-opener-16">
                <dateline>
                   <placeName>
@@ -3244,7 +3671,7 @@
                         dises seye schon d<expan>a</expan>s 20.ste, so Er Verfertige, <lb/>obwohlen
                         Er noch ein Mann Von 40 jahren ist. Er ware sehr höfflich, <lb/>
                <hi rend="italic">explici</hi>rte uns alles mit freuden, und sprache also,
-                            d<expan>a</expan>s ich ihme noch <pb facs="Attems_letter_16_page_01-ve"/>
+                            d<expan>a</expan>s ich ihme noch <pb xml:id="attems-dipl-pb-68" facs="#facs-16-1_ve"/>
                <lb/>d<expan>a</expan>s meiste <choice>
                   <orig>Verstunde</orig>
                   <reg>verstand</reg>
@@ -3306,7 +3733,7 @@
                      <hi rend="italic">quakers</hi>
                   </orig>
                   <reg>Quäkern</reg>
-               </choice>, da Predigte eine alte frau in aller <pb facs="Attems_letter_16_page_02-re"/>
+               </choice>, da Predigte eine alte frau in aller <pb xml:id="attems-dipl-pb-69" facs="#facs-16-2_re"/>
                <lb/>andacht, und heiligkeit, diese <choice>
                   <orig>
                      <hi rend="italic">Sect</hi>
@@ -3361,7 +3788,7 @@
                </choice>. Um 8 Uhr habe ich dem <hi rend="italic">correpeditor</hi>.
                         <lb/>Um 9 Uhr ist das <hi rend="italic">ius publicum</hi>, so wir diser
                         Tagen anfangen <lb/>werden, dise Stund wechßlet Er mit der <hi rend="italic">Capitulation Caroli</hi> 6.<hi rend="superscript">ti</hi>
-               <pb facs="Attems_letter_16_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-70" facs="#facs-16-2_ve"/>
                <lb/>ab. Um 11 uhr ist das <hi rend="italic">collegium Grotij ad ius naturae et gen-</hi>
                <lb/>
                <hi rend="italic">tium</hi>. Und um 12 uhr gehe ich zum <name type="person">
@@ -3456,7 +3883,7 @@
          </div>
          <div type="letter" xml:id="attems.l.17" n="17">
             <head xml:id="attems-head-21">Haag, 28. 9. 1736</head>
-            <pb facs="Attems_letter_17_page_01-re" xml:id="attems-pb-71"/>
+            <pb xml:id="attems-dipl-pb-71" facs="#facs-17-1_re"/>
             <opener xml:id="attems-opener-17">
                <dateline>Auß dem <placeName>
                      <name type="place">haag</name>
@@ -3495,7 +3922,7 @@
                         seits des <name type="place">Rheins</name> im Thal liget, <lb/>beschauet,
                         sie ist wegen des Kriegs Völlig <hi rend="italic">demeubli</hi>ret. <lb/>den
                             13.<hi rend="superscript">ten</hi> speisete ich bey den <name type="person">graff Von der leye</name>, welcher mich <lb/>mit dem
-                            wag<expan>en</expan> bedienen liesse, Er ist ein Mann Von 84 jahren <pb facs="Attems_letter_17_page_01-ve"/>
+                            wag<expan>en</expan> bedienen liesse, Er ist ein Mann Von 84 jahren <pb xml:id="attems-dipl-pb-72" facs="#facs-17-1_ve"/>
                <lb/>aber noch sehr bewegsam, sie
                         ist eine <name type="person">Schönbornin</name>, <lb/>schwester Vom <name type="person">bischoff von Würzburg</name>, Sie erinnerte sich,
                         <lb/>d<expan/>s <name type="person">Ihro Gnaden</name> Vor etlich 20 jahren
@@ -3561,7 +3988,7 @@
                         denen zwey <lb/>anderen schlössern, aber Von einen besonderen <hi rend="italic">goût</hi>, auf <lb/>allen <hi rend="italic">Vazen</hi>, in
                         allen <hi rend="italic">Capitelen</hi>, in allen fenster
                             einfassung<expan>en</expan>
-               <pb facs="Attems_letter_17_page_02-re"/>
+               <pb xml:id="attems-dipl-pb-73" facs="#facs-17-2_re"/>
                <lb/>und wo es immer möglich, seynd
                         falken, ihre haub<expan>en</expan>
                <lb/>oder ein Reiger zu sehen, die <hi rend="italic">meublen
@@ -3624,7 +4051,7 @@
                <lb/>beka<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>en wir <hi rend="italic">contraire</hi> wind bis gegen <name type="place">Nimwegen</name>. <pb facs="Attems_letter_17_page_02-ve"/>
+               </choice>en wir <hi rend="italic">contraire</hi> wind bis gegen <name type="place">Nimwegen</name>. <pb xml:id="attems-dipl-pb-74" facs="#facs-17-2_ve"/>
                <lb/>wo wir doch abends anlangten. den
                         22.<hi rend="superscript" xml:space="preserve">ten</hi> giengen wir <lb/>mit
                         einen Kauffmans schiff, so unser glük ware, <lb/>mit Vollen segeln ab, die
@@ -3709,7 +4136,7 @@
          </div>
          <div type="letter" xml:id="attems.l.18" n="18">
             <head xml:id="attems-head-22">Amsterdam, 6. 10. 1736</head>
-            <pb facs="Attems_letter_18_page_01-re" xml:id="attems-pb-75"/>
+            <pb xml:id="attems-dipl-pb-75" facs="#facs-18-1_re"/>
             <opener xml:id="attems-opener-18">
                <dateline>
                   <placeName>
@@ -3771,7 +4198,7 @@
                <damage>ge</damage>wesen, <damage>die <hi rend="italic">bande</hi>
                </damage>
                         ist sehr gutt, <lb/>die Kleider, und <hi rend="italic" xml:space="preserve">decorationen </hi>
-               <damage>eben</damage>fahls. Eben <damage>disen Tag w</damage>are ich <pb facs="Attems_letter_18_page_01-ve"/>
+               <damage>eben</damage>fahls. Eben <damage>disen Tag w</damage>are ich <pb xml:id="attems-dipl-pb-76" facs="#facs-18-1_ve"/>
                <lb/>in dem garten des <choice>
                   <orig>jud</orig>
                   <reg>Juden</reg>
@@ -3844,7 +4271,7 @@
                <hi rend="italic" xml:space="preserve"> niches</hi> stehen, seynd <lb/>Von
                             <hi rend="italic">veritablen</hi> weisser <hi rend="italic">Genueser</hi> marmor, welche alle in <name type="place">Italien</name>
                <lb/>seynd Verfertiget worden. die <hi rend="italic">ménagerie</hi> Von
-                        ausländischen Vögeln, <lb/>ist in form einer stadt angeleget, so recht <hi rend="italic">Marionetten</hi> gleich sihet. <pb facs="Attems_letter_18_page_02-re"/>
+                        ausländischen Vögeln, <lb/>ist in form einer stadt angeleget, so recht <hi rend="italic">Marionetten</hi> gleich sihet. <pb xml:id="attems-dipl-pb-77" facs="#facs-18-2_re"/>
                <lb/>Zu end einer <hi rend="italic">allée</hi> ist ein grosser Thron Von hölzerner bildhau-<lb/>er arbeit,
                         so mit farben gemahlet, und entzwischen Vergoldet ein <lb/>besonderes
                         schönen <hi rend="italic">effect</hi> machet. Ein <hi rend="italic">theatrum</hi> ist auch merkwür-<lb/>dig in disen garten, dan jedes paar
@@ -3887,7 +4314,7 @@
                </choice> 7 stund<expan>en</expan>, <lb/>so man auf dem <hi rend="italic">canal</hi> fähret, sihet man fast alleweil die <lb/>schönsten gärten zu
                         beyden seiten, so meistens <hi rend="italic">face</hi> dem <hi rend="italic">canal</hi>
                <lb/>machen. Ich hatte offt nicht zeit mich umzudreh<expan>en</expan>, dan
-                            <add>da</add> ich einer-<pb facs="Attems_letter_18_page_02-ve"/>
+                            <add>da</add> ich einer-<pb xml:id="attems-dipl-pb-78" facs="#facs-18-2_ve"/>
                <lb/>seits betrachtete, übersahe ich deme andererseits. d<expan>a</expan>s
                         Rathhaus <lb/>hier in <name type="place">Amsterdam</name>
                <sic>ich</sic> eines der schönsten <choice>
@@ -3970,7 +4397,7 @@
          </div>
          <div type="letter" xml:id="attems.l.19" n="19">
             <head xml:id="attems-head-23">Leiden, 7. 12. 1736</head>
-            <pb facs="Attems_letter_19_page_01-re" xml:id="attems-pb-79"/>
+            <pb xml:id="attems-dipl-pb-79" facs="#facs-19-1_re"/>
             <opener xml:id="attems-opener-19">
                <dateline>
                   <placeName>
@@ -4004,7 +4431,7 @@
                   <expan>mm</expan>
                </choice>erfort anflehen, leztere aber zu Verdienen <lb/>mich fernershin
                         befleissen.</p>
-            <pb facs="Attems_letter_19_page_01-ve" xml:id="attems-pb-80"/>
+            <pb xml:id="attems-dipl-pb-80" facs="#facs-19-1_ve"/>
             <p xml:id="attems-p-34">den ersten dises ist der gros <hi rend="italic">Pensionaire</hi> deren
                         Staaten <lb/>
                <name type="person">herr Von schlingenland</name> ganz <choice>
@@ -4038,7 +4465,7 @@
                   <orig>Todtesfähle</orig>
                   <reg>Todesfälle</reg>
                </choice> durfften dem <name type="person">Prinzen</name>
-               <pb facs="Attems_letter_19_page_02-re"/>
+               <pb xml:id="attems-dipl-pb-81" facs="#facs-19-2_re"/>
                <lb/>wohl den weeg zur
                         Stadhalterschafft erleichteren. <lb/>Über dises nun unterhaltet sich ganz
                             <name type="place">holland</name>. <lb/>
@@ -4071,7 +4498,7 @@
                   <orig>Kunte</orig>
                   <reg>könnte</reg>
                </choice> man nicht grösseres <lb/>Verlang<expan>en</expan> darnach haben,
-                        als die wohlgesinten <pb facs="Attems_letter_19_page_02-ve"/>
+                        als die wohlgesinten <pb xml:id="attems-dipl-pb-82" facs="#facs-19-2_ve"/>
                <lb/>zeigen, in
                         denen <hi rend="italic">caffée</hi> häusern höret man <lb/>sie hefftig <hi rend="italic">disputi</hi>rn. die Englländer solten <lb/>wider das lange
                         außbleiben ihres <name type="person">Königes</name> artlich <lb/>
@@ -4105,7 +4532,7 @@
          </div>
          <div type="letter" xml:id="attems.l.20" n="20">
             <head xml:id="attems-head-24">Leiden, 17. 1. 1737</head>
-            <pb facs="Attems_letter_20_page_01-re" xml:id="attems-pb-83"/>
+            <pb xml:id="attems-dipl-pb-83" facs="#facs-20-1_re"/>
             <opener xml:id="attems-opener-20">
                <dateline>
                   <placeName>
@@ -4133,7 +4560,7 @@
                         <lb/>welcher ich Unterthänigst die hände Küsse. <name type="person">der
                             hof-<lb/>meister</name> hat auch die Rechnung empfangen, <name type="person">Ihro Gnad<expan>en</expan>
                </name>
-               <pb facs="Attems_letter_20_page_01-ve"/>
+               <pb xml:id="attems-dipl-pb-84" facs="#facs-20-1_ve"/>
                <lb/>haben <hi rend="strikeout">ihme</hi>, die Kleider betreffend, seine Meinung <lb/>nicht <choice>
                   <orig>erkennet</orig>
                   <reg>erkannt</reg>
@@ -4160,7 +4587,7 @@
                   <expan>mm</expan>
                </choice>en nach, und <lb/>nach die verhorne Jachten, und Kriegsschiff an,
                         die <lb/>meiste aber in <name type="place">Engelland</name>, wessentwegen
-                        dem <lb/>König Neue Jachten, und Kriegsschiffe entgegen <pb facs="Attems_letter_20_page_02-re"/>
+                        dem <lb/>König Neue Jachten, und Kriegsschiffe entgegen <pb xml:id="attems-dipl-pb-85" facs="#facs-20-2_re"/>
                <lb/>geschiket werden, dan Von denen
                         Vorig seynd <lb/>alle geschädiget, biß auf die <hi rend="italic">louise</hi>
                         Kriegschiff, <lb/>so noch <choice>
@@ -4196,7 +4623,7 @@
                   <hi rend="italic">Gravesande</hi>
                </name> mit
                         Mir. der <name type="person">Prinz Von oranien</name>
-               <pb facs="Attems_letter_20_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-86" facs="#facs-20-2_ve"/>
                <lb/>gehet samt der <name type="person">Prinzessin</name> in drey wochen <lb/>auß dem <name type="place">haag</name> in <name type="place">frisland</name> ab. dises
                         ist alles, <lb/>mit was ich <name type="person">Ihro Gnaden</name>
                <choice>
@@ -4234,7 +4661,7 @@
          </div>
          <div type="letter" xml:id="attems.l.21" n="21">
             <head xml:id="attems-head-25">Leiden, 12. 3. 1737</head>
-            <pb facs="Attems_letter_21_page_01-re" xml:id="attems-pb-87"/>
+            <pb xml:id="attems-dipl-pb-87" facs="#facs-21-1_re"/>
             <opener xml:id="attems-opener-21">
                <dateline>
                   <placeName>
@@ -4261,7 +4688,7 @@
                   <orig>fehrershin</orig>
                   <reg>fernerhin</reg>
                </choice> in hochen Vätterlichen Gnaden <lb/>zu behalten, welche zu
-                        Verdienen ich mir alzeit <lb/>höchstens angelegen seyn lassen werde. <pb facs="Attems_letter_21_page_01-ve"/>
+                        Verdienen ich mir alzeit <lb/>höchstens angelegen seyn lassen werde. <pb xml:id="attems-dipl-pb-88" facs="#facs-21-1_ve"/>
                <lb/>Mit lezten schreiben Von Ihro
                         Gnaden der <name type="person">frau <lb/>GrosMutter</name> habe ich
                         Vernohmen, das <name type="person">Ihro Gnaden <lb/>beyderseits</name> wegen
@@ -4284,7 +4711,7 @@
                   <reg>Zahngeschwür</reg>
                </choice> darauß <lb/>werden solle, dan die baken ware schon stark
                         an-<lb/>geschwollen. der <hi rend="italic">doctor</hi> hat gesagt, Er wolle
-                        mir die <lb/>schmerzen wohl lindern, allein es werde doch alzeit <pb facs="Attems_letter_21_page_02-re"/>
+                        mir die <lb/>schmerzen wohl lindern, allein es werde doch alzeit <pb xml:id="attems-dipl-pb-89" facs="#facs-21-2_re"/>
                <lb/>widerumen <choice>
                   <orig>zuruk</orig>
                   <reg>zurück</reg>
@@ -4320,7 +4747,7 @@
                   <reg>empfand</reg>
                </choice>
                <lb/>es etwas stärker, unnd mithin giengen wir <lb/>dahin, wo mir der Mensch
-                        den zahn ganz glük-<lb/>lich in zwey zügen aus gerissen, die geschwulst <pb facs="Attems_letter_21_page_02-ve"/>
+                        den zahn ganz glük-<lb/>lich in zwey zügen aus gerissen, die geschwulst <pb xml:id="attems-dipl-pb-90" facs="#facs-21-2_ve"/>
                <lb/>aber <choice>
                   <orig>Creuzweiβ</orig>
                   <reg>kreuzweise</reg>
@@ -4383,7 +4810,7 @@
          </div>
          <div type="letter" xml:id="attems.l.22" n="22">
             <head xml:id="attems-head-26">Leiden, 9. 4. 1737</head>
-            <pb facs="Attems_letter_22_page_01-re" xml:id="attems-pb-91"/>
+            <pb xml:id="attems-dipl-pb-91" facs="#facs-22-1_re"/>
             <opener xml:id="attems-opener-22">
                <dateline>
                   <placeName>
@@ -4413,7 +4840,7 @@
                   <orig>betaurung</orig>
                   <reg>Bedauern</reg>
                </choice> ersehen. Wünsche, das solches, <lb/>gleich einige, baldigst Vorbey
-                        gehen solten. Indessen <lb/>glaube ich, das Ihro Gnaden <name type="person">frau Mutter</name> Mein schreiben <lb/>Von 26.<hi rend="superscript">ten</hi> gnädig werden empfangen, die in solchen <pb facs="Attems_letter_22_page_01-ve"/>
+                        gehen solten. Indessen <lb/>glaube ich, das Ihro Gnaden <name type="person">frau Mutter</name> Mein schreiben <lb/>Von 26.<hi rend="superscript">ten</hi> gnädig werden empfangen, die in solchen <pb xml:id="attems-dipl-pb-92" facs="#facs-22-1_ve"/>
                <lb/>enthaltene Unterthänige Bitte
                         widerholle ich in <lb/>gegenwärtigen Meinen schreiben in
                         Unter-<lb/>thänigkeit. Weiβ nicht, ob ich nicht in Meinen <lb/>lezten <name type="person">Ihro Gnaden</name> zu berichten ermanglet habe, das
@@ -4427,7 +4854,7 @@
                <lb/>Von dem <name type="person">
                   <hi rend="italic">General</hi>
                             Wallis</name> in einen <hi rend="italic">Duel</hi> Todgeschossen
-                        <lb/>worden seye, welches sich aber biβ dato noch nicht <pb facs="Attems_letter_22_page_02-re"/>bestättiget hat. das Wetter <choice>
+                        <lb/>worden seye, welches sich aber biβ dato noch nicht <pb xml:id="attems-dipl-pb-93" facs="#facs-22-2_re"/>bestättiget hat. das Wetter <choice>
                   <orig>fanget</orig>
                   <reg>fängt</reg>
                </choice> an besser zu <lb/>werden, jedoch noch etwas Kalt. Nun will ich
@@ -4454,7 +4881,7 @@
          </div>
          <div type="letter" xml:id="attems.l.23" n="23">
             <head xml:id="attems-head-27">Leiden, 3. 5. 1737</head>
-            <pb facs="Attems_letter_23_page_01-re" xml:id="attems-pb-94"/>
+            <pb xml:id="attems-dipl-pb-94" facs="#facs-23-1_re"/>
             <opener xml:id="attems-opener-23">
                <dateline>
                   <placeName>
@@ -4500,7 +4927,7 @@
                             beyderseits</name> Meine <lb/>lezte schreiben gnädig werden empfangen
                         haben, wie <lb/>auch jenes Von dem <name type="person">hoffmeister</name>,
                         wo Er <name type="person">Ihro Gnaden</name>
-               <pb facs="Attems_letter_23_page_01-ve"/>
+               <pb xml:id="attems-dipl-pb-95" facs="#facs-23-1_ve"/>
                <lb/>
                <add>wan </add>die abreyse Von
                         hier berichtet hat. <choice>
@@ -4558,7 +4985,7 @@
                   <orig>jezo</orig>
                   <reg>jetzt</reg>
                </choice> Trage, und die <hi rend="italic">mode</hi> seye, wegen deren
-                        Unkosten <pb facs="Attems_letter_23_page_02-re"/>
+                        Unkosten <pb xml:id="attems-dipl-pb-96" facs="#facs-23-2_re"/>
                <lb/>aber Könne Er es nicht
                             <hi rend="italic">determiniren</hi>, zumahlen Er <lb/>auch schon seit
                         1729 nicht mehr in <name type="place">
@@ -4603,7 +5030,7 @@
                   <reg>miniert</reg>
                </choice> die Sonn, und <lb/>der Thau auch etwas geschwinder. <name type="person">der hoffmeister</name>
                <lb/>hat in der Rechnung von der Reyse des <name type="person">Saurer</name>
-                        nach-<lb/>gesehen, und gefunden, das die Kleydung<hi rend="strikeout">a</hi>, mit <pb facs="Attems_letter_23_page_02-ve"/>
+                        nach-<lb/>gesehen, und gefunden, das die Kleydung<hi rend="strikeout">a</hi>, mit <pb xml:id="attems-dipl-pb-97" facs="#facs-23-2_ve"/>
                <lb/>allen anderen
                         Kleinigkeiten, so ihme in <name type="place">
                   <hi rend="italic">Paris</hi>
@@ -4654,7 +5081,7 @@
          </div>
          <div type="letter" xml:id="attems.l.24" n="24">
             <head xml:id="attems-head-28">Leiden, 14. 5. 1737</head>
-            <pb facs="Attems_letter_24_page_01-re" xml:id="attems-pb-98"/>
+            <pb xml:id="attems-dipl-pb-98" facs="#facs-24-1_re"/>
             <opener xml:id="attems-opener-24">
                <dateline>
                   <placeName>
@@ -4693,7 +5120,7 @@
                   <reg>für</reg>
                </choice> die Seele gott <lb/>dem Allmächtigen zu bitten und anzuflehen
                         niemahls <lb/>ermanglen.</p>
-            <pb facs="Attems_letter_24_page_01-ve" xml:id="attems-pb-99"/>
+            <pb xml:id="attems-dipl-pb-99" facs="#facs-24-1_ve"/>
             <p xml:id="attems-p-43">Anbey folget die gnädig anVerlangete Vollmacht, <lb/>Bitte <name type="person">Ihro Gnaden</name> also Unterthänigst sich in
                         gegen-<lb/>wärtiger gelegenheit Meiner anzunehmen und <lb/>hierinnen alle
                         Richtigkeit zu pflegen, Vor welche <lb/>Vätterliche gnaden ich <name type="person">Ihro Gnaden</name> lebenslang, <lb/>wie billich, Kindlich
@@ -4721,7 +5148,7 @@
                         begriffen <sic>begriffen</sic>
                <lb/>den <hi rend="italic">Plan</hi> über die abkürzung der Reyse zu
                             Verfertig<expan>en</expan>, <lb/>welchen Er <name type="person">Ihro
-                            Gnaden</name> nächsten Posttag einschiken <pb facs="Attems_letter_24_page_02-re"/>
+                            Gnaden</name> nächsten Posttag einschiken <pb xml:id="attems-dipl-pb-100" facs="#facs-24-2_re"/>
                <lb/>wird, Er wird <name type="place">Straßburg</name> mit einen auffenthalt <lb/>Von etlichen
                         Tägen übergehen, und auf <name type="place">Italien</name>, <lb/>besonders
                         wegen der sprach obacht haben. Anfang <lb/>des <hi rend="italic">Juni</hi>
@@ -4768,7 +5195,7 @@
                   <orig>zweymahliges</orig>
                   <reg>zweimaliges</reg>
                </choice>
-               <pb facs="Attems_letter_24_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-101" facs="#facs-24-2_ve"/>
                <lb/>befragen um dem lezten Preiß
                         hat Er nicht weiter <lb/>herunter wollen. Ihro Gnaden der <name type="person">frau Mutter</name> Küß-<lb/>ße ich Unterthänigst die
                         hände, Meinen lieben <lb/>
@@ -4793,7 +5220,7 @@
          </div>
          <div type="letter" xml:id="attems.l.25" n="25">
             <head xml:id="attems-head-29">Leiden, 28. 5. 1737</head>
-            <pb facs="Attems_letter_25_page_01-re" xml:id="attems-pb-102"/>
+            <pb xml:id="attems-dipl-pb-102" facs="#facs-25-1_re"/>
             <opener xml:id="attems-opener-25">
                <dateline>
                   <placeName>
@@ -4827,7 +5254,7 @@
                   <orig>nochmahlen</orig>
                   <reg>nochmals</reg>
                </choice> Unterthänigst <lb/>Bitte, und um <name type="person">Euer
-                            Gnaden</name> gnädigen willen <pb facs="Attems_letter_25_page_01-ve"/>
+                            Gnaden</name> gnädigen willen <pb xml:id="attems-dipl-pb-103" facs="#facs-25-1_ve"/>
                <lb/>zu Vernehmen. das wetter ist hier schön, doch <lb/>dabey etwas Kalt.
                         Gestern habe ich des <name type="person">graff <lb/>obdam</name> garten
                         gesehen, so nach Meinen <hi rend="italic">goût</hi>
@@ -4848,7 +5275,7 @@
                </choice>. das grüne ist besonders gut angebracht, <lb/>dan man allerhand <choice>
                   <orig>baumer</orig>
                   <reg>Bäume</reg>
-               </choice> sihet, so den schönsten <pb facs="Attems_letter_25_page_02-re"/>
+               </choice> sihet, so den schönsten <pb xml:id="attems-dipl-pb-104" facs="#facs-25-2_re"/>
                <lb/>
                <hi rend="italic">effect</hi> machet, wie auch Ville <hi rend="italic">bassins</hi> und <hi rend="italic">fontaines</hi>,
                         <lb/>Man Kan es Klein <hi rend="italic">versailles</hi> nennen. Es seynd
@@ -4876,7 +5303,7 @@
          </div>
          <div type="letter" xml:id="attems.l.26" n="26">
             <head xml:id="attems-head-30">Leiden, 11. 6. 1737</head>
-            <pb facs="Attems_letter_26_page_01-re" xml:id="attems-pb-105"/>
+            <pb xml:id="attems-dipl-pb-105" facs="#facs-26-1_re"/>
             <opener xml:id="attems-opener-26">
                <dateline>
                   <placeName>
@@ -4904,7 +5331,7 @@
                         man dises nur abwarten, beynebenst Verhoffe ich <lb/>doch, das man es auf
                         des <name type="person">deyerlsperg</name> einzig, und alleiniges <lb/>sagen
                         nicht glauben wird, sondern ihme das <hi rend="italic">iuramentum</hi>
-               <pb facs="Attems_letter_26_page_01-ve"/>
+               <pb xml:id="attems-dipl-pb-106" facs="#facs-26-1_ve"/>
                <lb/>antragen wird, an einrichtung
                         dises <hi rend="italic">iuramenti</hi> wird Vill <lb/>gelegen seyn, dan man
                         dadurch auf die feine Ko<choice>
@@ -4939,7 +5366,7 @@
                   <reg>Rücken</reg>
                </choice>, das andere auf <lb/>dem bauch, damit man die farben beyderseits
                         sihet. <lb/>das dritte ist <sic>ist</sic> von lauter Muscheln und schneken,
-                        so <lb/>ich in solcher Menge und ordnung noch nirgend gesehen <pb facs="Attems_letter_26_page_02-re"/>
+                        so <lb/>ich in solcher Menge und ordnung noch nirgend gesehen <pb xml:id="attems-dipl-pb-107" facs="#facs-26-2_re"/>
                <lb/>habe. das Vierte ist Von
                         Corallen, <hi rend="italic">crystal de roche</hi> und <lb/>
                <hi rend="italic">petrifici</hi>r<hi rend="italic">ten</hi> sachen, das fünffte, so
@@ -4970,7 +5397,7 @@
                </choice>en gebracht hat, ware ein <lb/>
                <hi rend="italic">medicus</hi>, so
                             <hi rend="strikeout">sey</hi> seine passion in disen hatte. Vor Kurzen
-                            <pb facs="Attems_letter_26_page_02-ve"/>
+                            <pb xml:id="attems-dipl-pb-108" facs="#facs-26-2_ve"/>
                <lb/>ist Er gestorben und mithin
                         ist es <choice>
                   <orig>jezo</orig>
@@ -5029,7 +5456,7 @@
          </div>
          <div type="letter" xml:id="attems.l.27" n="27">
             <head xml:id="attems-head-31">Brussel, 14. 7. 1737</head>
-            <pb facs="Attems_letter_27_page_01-re" xml:id="attems-pb-109"/>
+            <pb xml:id="attems-dipl-pb-109" facs="#facs-27-1_re"/>
             <opener xml:id="attems-opener-27">
                <dateline>
                   <placeName>
@@ -5059,7 +5486,7 @@
                         die hände Küsse, wird Mein schreiben <lb/>auß <name type="place">
                   <hi rend="italic">Lille</hi>
                </name> empfangen haben. Von dannen giengen
-                            <pb facs="Attems_letter_27_page_01-ve"/>
+                            <pb xml:id="attems-dipl-pb-110" facs="#facs-27-1_ve"/>
                <lb/>wir den 8.<hi rend="superscript">ten</hi> nach <name type="place">
                   <hi rend="italic">Tournay</hi>
                </name>, da sahen wir das <lb/>
@@ -5101,7 +5528,7 @@
                </choice> meistens Verfalletn. Abends Ka<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>en wir auf <pb facs="Attems_letter_27_page_02-re"/>
+               </choice>en wir auf <pb xml:id="attems-dipl-pb-111" facs="#facs-27-2_re"/>
                <lb/>
                <name type="place">
                   <hi rend="italic">Enghien</hi>
@@ -5136,7 +5563,7 @@
                         sie mich schon eingeladen haben, <lb/>wan ich dahin Ko<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>en solte. Übermorgen solte ich <pb facs="Attems_letter_27_page_02-ve"/>
+               </choice>en solte. Übermorgen solte ich <pb xml:id="attems-dipl-pb-112" facs="#facs-27-2_ve"/>
                <lb/>mit dem <name type="person">obrist <hi rend="italic">lieutenant</hi> Wurmbrand</name> nach
                             <lb/>
                <name type="place">
@@ -5196,7 +5623,7 @@
          </div>
          <div type="letter" xml:id="attems.l.28" n="28">
             <head xml:id="attems-head-32">Paris, 31. 7. 1737</head>
-            <pb facs="Attems_letter_28_page_01-re" xml:id="attems-pb-113"/>
+            <pb xml:id="attems-dipl-pb-113" facs="#facs-28-1_re"/>
             <opener xml:id="attems-opener-28">
                <dateline>
                   <placeName>
@@ -5232,7 +5659,7 @@
                <hi rend="italic">exercitium</hi> nicht genug Verwundern <choice>
                   <orig>Kunten</orig>
                   <reg>konnten</reg>
-               </choice>. die <hi rend="italic">gendarmes</hi>, <pb facs="Attems_letter_28_page_01-ve"/>
+               </choice>. die <hi rend="italic">gendarmes</hi>, <pb xml:id="attems-dipl-pb-114" facs="#facs-28-1_ve"/>
                <lb/>
                <hi rend="italic">chevaux
                             légers</hi>, und schweizer <hi rend="italic">Garde</hi> Von <name type="person">herzog <lb/>Von lothringen</name>, jede auß 100 Mann
@@ -5277,7 +5704,7 @@
                   <hi rend="italic">Duc de
                                 Bourbon</hi>
                </name>
-               <lb/>gehörig, der umweg ware Von einer stund, wo wir sonsten <pb facs="Attems_letter_28_page_02-re"/>
+               <lb/>gehörig, der umweg ware Von einer stund, wo wir sonsten <pb xml:id="attems-dipl-pb-115" facs="#facs-28-2_re"/>
                <lb/>Vor hier dahin hätten müssen.
                         Es <hi rend="italic">meriti</hi>ret eine <lb/>eigene Reyse, das schlosß ist
                         etwas alt, weilen der <lb/>
@@ -5331,7 +5758,7 @@
                             <hi rend="italic" xml:space="preserve">Denis </hi>
                </name>
                <hi rend="italic">les tombeaux des Rois</hi>, alß die <hi rend="italic">magnifique abbaye</hi>
-               <pb facs="Attems_letter_28_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-116" facs="#facs-28-2_ve"/>
                <lb/>und Endlich dem schaz; Ich
                         finde, das sowohl <lb/>die tombeaux alß auch der schaz nichtts besonders
                         <lb/>ist. das Closter aber sihet mehr einer <hi rend="italic">résidence</hi>
@@ -5393,7 +5820,7 @@
          </div>
          <div type="letter" xml:id="attems.l.29" n="29">
             <head xml:id="attems-head-33">Paris, 26. 9. 1737</head>
-            <pb facs="Attems_letter_29_page_01-re" xml:id="attems-pb-117"/>
+            <pb xml:id="attems-dipl-pb-117" facs="#facs-29-1_re"/>
             <opener xml:id="attems-opener-29">
                <dateline>
                   <placeName>
@@ -5426,7 +5853,7 @@
                         Keine bessere <hi rend="italic">Gallerie</hi>
                <lb/>gesehen alß dise, und Komet mir Vor, es übertreffe <lb/>solche noch die
                         düsseldorffer. das <hi rend="italic">hôtel de Toulouse</hi>
-               <lb/>übertrifft selbes aber in| <hi rend="italic">goût</hi> Von <hi rend="italic">Meublen</hi>, die <lb/>fenster seynd in form Von <hi rend="italic">Nichen</hi>, und die <pb facs="Attems_letter_29_page_01-ve"/>
+               <lb/>übertrifft selbes aber in| <hi rend="italic">goût</hi> Von <hi rend="italic">Meublen</hi>, die <lb/>fenster seynd in form Von <hi rend="italic">Nichen</hi>, und die <pb xml:id="attems-dipl-pb-118" facs="#facs-29-1_ve"/>
                <lb/>flügel machen sich mit grossen
                         eysernen <lb/>
                <hi rend="italic">ressorts</hi> auf. Alle Pfeiller seynd mit
@@ -5460,7 +5887,7 @@
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
                </choice>er weiβ mit Vergoldeten zierathen. <lb/>dises übertriffet alle
-                        andere in Sessel, <hi rend="italic">canapées</hi>, und <pb facs="Attems_letter_29_page_02-re"/>
+                        andere in Sessel, <hi rend="italic">canapées</hi>, und <pb xml:id="attems-dipl-pb-119" facs="#facs-29-2_re"/>
                <lb/>
                <sic xml:space="preserve">und </sic>
                <choice>
@@ -5511,7 +5938,7 @@
                </choice>en, <lb/>welche man finden Kan. das fünfte zi<choice>
                   <abbr>m̄</abbr>
                   <expan>mm</expan>
-               </choice>er ist <pb facs="Attems_letter_29_page_02-ve"/>
+               </choice>er ist <pb xml:id="attems-dipl-pb-120" facs="#facs-29-2_ve"/>
                <lb/>eine <hi rend="italic">Chymi</hi>sche Apoteke, und das lezte <sic xml:space="preserve">eine </sic>
                <hi rend="italic">laborato-</hi>
                <lb/>
@@ -5568,7 +5995,7 @@
          </div>
          <div type="letter" xml:id="attems.l.30" n="30">
             <head xml:id="attems-head-34">Bologna, 11. 12. 1737</head>
-            <pb facs="Attems_letter_30_page_01-re" xml:id="attems-pb-121"/>
+            <pb xml:id="attems-dipl-pb-121" facs="#facs-30-1_re"/>
             <opener xml:id="attems-opener-30">
                <dateline>
                   <placeName>
@@ -5595,7 +6022,7 @@
                         hoches wohlseyn und selbst erwünscht-<lb/>beständiges Vergnügen anzuwünschen
                         <lb/>mich erkühnen solte, dabey aber Unterthä-<lb/>nigst bitten mich
                         fehrershin in hochen <lb/>Vätterlichen gnaden zu behalten.</p>
-            <pb facs="Attems_letter_30_page_01-ve" xml:id="attems-pb-122"/>
+            <pb xml:id="attems-dipl-pb-122" facs="#facs-30-1_ve"/>
             <p xml:id="attems-p-54">Ich habe dem 27.<hi rend="superscript">ten</hi> Vergangenen Monats <lb/>Zu
                             <name type="place">Inspruk</name> dem <name type="person">
                   <choice>
@@ -5620,7 +6047,7 @@
                <lb/>ist, hat sich stets mit mir unterhalten, <lb/>weilen ich Kürzlich durch
                             <name type="place">lothringen</name> gereiset <lb/>bin, wovon sie mich
                         Villes befraget, sie liebet <lb/>auch sehr französisch zu reden und zu <name type="place">Inspruk</name>
-               <pb facs="Attems_letter_30_page_02-re"/>
+               <pb xml:id="attems-dipl-pb-123" facs="#facs-30-2_re"/>
                <lb/>seynd wenig, so es Können. Alß
                         ich das <lb/>
                <name type="place">schloβ <hi rend="italic">ombras</hi>
@@ -5655,7 +6082,7 @@
                         der neuen <lb/>
                <hi rend="italic">invention</hi> ist, seynd wir über <name type="place">
                   <hi rend="italic">Mantua</hi>
-               </name> hieher <pb facs="Attems_letter_30_page_02-ve"/>
+               </name> hieher <pb xml:id="attems-dipl-pb-124" facs="#facs-30-2_ve"/>
                <lb/>abgegangen. <name type="place">
                   <hi rend="italic">Mantua</hi>
                </name> selbsten gefallet mir
@@ -5710,7 +6137,7 @@
                   </name>
                </signed>
             </closer>
-            <pb facs="Attems_letter_30_page_03-re" xml:id="attems-pb-125"/>
+            <pb xml:id="attems-dipl-pb-125" facs="#facs-30-3_re"/>
             <postscript xml:id="attems-postscript-17">
                <p>Nota</p>
                <p>ob die friauler, u<expan>nd</expan> Stegerl. Thurn eines <lb/>
@@ -5748,7 +6175,7 @@
          </div>
          <div type="letter" xml:id="attems.l.31" n="31">
             <head xml:id="attems-head-35">Roma, 4. 1. 1738</head>
-            <pb facs="Attems_letter_31_page_01-re" xml:id="attems-pb-126"/>
+            <pb xml:id="attems-dipl-pb-126" facs="#facs-31-1_re"/>
             <opener xml:id="attems-opener-31">
                <dateline>
                   <placeName>
@@ -5783,7 +6210,7 @@
                      <reg>zwei</reg>
                   </choice> Prinzen</name> gewesen, <lb/>welche zwey leztere die schönsten
                         herrn Von der <lb/>welt seynd. Am <hi rend="italic">Sylvester</hi> habe ich
-                        bey dem <pb facs="Attems_letter_31_page_01-ve"/>
+                        bey dem <pb xml:id="attems-dipl-pb-127" facs="#facs-31-1_ve"/>
                <lb/>
                <name type="person">Bottschafter Von Malta, <hi rend="italic">Baron</hi> schaden</name>,
                         <lb/>gespeiset, Er ist der einzige Von orden, welcher <lb/>die <hi rend="italic">dépense</hi> Von seinen eigenen Mitteln <lb/>machen Kan,
@@ -5817,7 +6244,7 @@
                         auch, die <hi rend="italic">Comoedi</hi>en aber selb-<lb/>sten seynd nichts
                         gegen denen zu <name type="place">
                   <hi rend="italic">Paris</hi>
-               </name>. <pb facs="Attems_letter_31_page_02-re"/>
+               </name>. <pb xml:id="attems-dipl-pb-128" facs="#facs-31-2_re"/>
                <lb/>Zukünfftigen Montag <choice>
                   <orig>fanget</orig>
                   <reg>fängt</reg>
@@ -5835,7 +6262,7 @@
                </name> nechstens das beylaager
                         <lb/>mit der <name type="person">ältesten Prinzessin, Tochter des
                             <lb/>Königes in Pohlen</name> halten, dessen man <lb/>dannoch <hi rend="italic">confirmation</hi> erwartet. Er <lb/>ist noch etwas
-                        Unpäβlich, dannoch <pb facs="Attems_letter_31_page_02-ve"/>
+                        Unpäβlich, dannoch <pb xml:id="attems-dipl-pb-129" facs="#facs-31-2_ve"/>
                <lb/>wird sowohl
                         an denen <hi rend="italic">apartamenten</hi>
                <lb/>alß andern Nothwendigkeiten Tag und <lb/>Nacht gearbeitet. Nechstens
@@ -5877,7 +6304,7 @@
          </div>
          <div type="letter" xml:id="attems.l.32" n="32">
             <head xml:id="attems-head-36">Roma, 18. 1. 1738</head>
-            <pb facs="Attems_letter_32_page_01-re" xml:id="attems-pb-130"/>
+            <pb xml:id="attems-dipl-pb-130" facs="#facs-32-1_re"/>
             <opener xml:id="attems-opener-32">
                <dateline>
                   <placeName>
@@ -5912,7 +6339,7 @@
                   <orig>gähes</orig>
                   <reg>rasches/schnelles</reg>
                </choice> feuer machen liesse, <lb/>ein baum, so durch die Mauer gegangen,
-                        <lb/>sich entzündet. Mittwoch Mittags hat es auβ-<lb/>gebrochen, alß die <hi rend="italic">bibliotèque</hi>, und <lb/>das <hi rend="italic">archive</hi> im feuer gestanden <pb facs="Attems_letter_32_page_01-ve"/>
+                        <lb/>sich entzündet. Mittwoch Mittags hat es auβ-<lb/>gebrochen, alß die <hi rend="italic">bibliotèque</hi>, und <lb/>das <hi rend="italic">archive</hi> im feuer gestanden <pb xml:id="attems-dipl-pb-131" facs="#facs-32-1_ve"/>
                <lb/>Man hat gleich das Thor mit einer <hi rend="italic">compag-</hi>
                <lb/>
                <hi rend="italic">nie</hi> Soldaten besezet, um alle unordnung <lb/>zu
@@ -5926,7 +6353,7 @@
                   <orig>nahend</orig>
                   <reg>nahe</reg>
                </choice> dabey und haben im hingehen <lb/>dem ganzen gespäβ zugesehen. Es
-                        hat <pb facs="Attems_letter_32_page_02-re"/>
+                        hat <pb xml:id="attems-dipl-pb-132" facs="#facs-32-2_re"/>
                <lb/>wenig gefehlet, das nicht
                         feuer in <lb/>das <hi rend="italic">Magazin</hi> geko<choice>
                   <abbr>m̄</abbr>
@@ -5954,7 +6381,7 @@
                </hi> haben <lb/>dise leute sehr <hi rend="italic">Menagi</hi>ret, weilen sie selbsten <lb/>die spanier nicht leyden Können.
                         Gestern <lb/>abends ware eine <hi rend="italic">cantata</hi> bey den <name type="person">
                   <hi rend="italic">Monsignor</hi>
-                  <pb facs="Attems_letter_32_page_02-ve"/>
+                  <pb xml:id="attems-dipl-pb-133" facs="#facs-32-2_ve"/>
                   <lb/>
                   <hi rend="italic">Almeida
                                 Auditor di Rota</hi>
@@ -5999,7 +6426,7 @@
          </div>
          <div type="letter" xml:id="attems.l.33" n="33">
             <head xml:id="attems-head-37">Roma, 22. 2. 1738</head>
-            <pb facs="Attems_letter_33_page_01-re" xml:id="attems-pb-134"/>
+            <pb xml:id="attems-dipl-pb-134" facs="#facs-33-1_re"/>
             <opener xml:id="attems-opener-33">
                <dateline>
                   <placeName>
@@ -6031,7 +6458,7 @@
                </choice> habe. Noch <lb/>zu mehrer freud, und fast einiger
                         Ver-<lb/>wunderung muβ mir anlaβ geben, das <lb/>
                <name type="person">Ihro
-                            Gnaden</name> solche Würde ohne einiges <pb facs="Attems_letter_33_page_01-ve"/>
+                            Gnaden</name> solche Würde ohne einiges <pb xml:id="attems-dipl-pb-135" facs="#facs-33-1_ve"/>
                <lb/>darlehen zu geben zu einer zeit
                         überkom-<lb/>men haben, wo die erschöpffung des Kayl. <lb/>
                <hi rend="italic">aerar</hi>ij alzu <choice>
@@ -6064,7 +6491,7 @@
                         Gott besonders zu <name type="place">
                   <hi rend="italic">loretto</hi>
                </name>
-                        um glüklichen <pb facs="Attems_letter_33_page_02-re"/>
+                        um glüklichen <pb xml:id="attems-dipl-pb-136" facs="#facs-33-2_re"/>
                <lb/>auβgang diser so
                         wichtigen Sache ange-<lb/>flehet habe. Ich habe dise erfreuliche zeitung
                         <lb/>dem <name type="person">gr<add>af</add> Carl Trautmanstorff</name>
@@ -6089,7 +6516,7 @@
                <add>worunter</add> dan die <lb/>sprach die haubtsächlichste ist, in welcher
                         <lb/>ich noch sehr Ville beschwehrlichkeit finde, <lb/>solche aber zu haben
                         nach gemachten <hi rend="italic">Plan</hi>
-               <pb facs="Attems_letter_33_page_02-ve"/>
+               <pb xml:id="attems-dipl-pb-137" facs="#facs-33-2_ve"/>
                <lb/>mir sehr wenige zeit übrige
                         wäre. In <lb/>betrachtung des <hi rend="italic">Tour</hi> über <name type="place">florenz</name>, <name type="place">
                   <hi rend="italic">Genua</hi>
@@ -6147,7 +6574,7 @@
          </div>
          <div type="letter" xml:id="attems.l.34" n="34">
             <head xml:id="attems-head-38">Trieste, 5. 10. 1738</head>
-            <pb facs="Attems_letter_34_page_01-re" xml:id="attems-pb-138"/>
+            <pb xml:id="attems-dipl-pb-138" facs="#facs-34-1_re"/>
             <opener xml:id="attems-opener-34">
                <dateline>
                   <placeName>
@@ -6208,7 +6635,7 @@
                </choice> weeg haben wir dem garten <lb/>des <name type="person">
                   <hi rend="italic">Doge Pisani</hi>
                </name>, besehen, welcher fast
-                        Königlich ist, <pb facs="Attems_letter_34_page_01-ve"/>
+                        Königlich ist, <pb xml:id="attems-dipl-pb-139" facs="#facs-34-1_ve"/>
                <lb/>und wir ihn
                         nicht genug bewundern <choice>
                   <orig>Kunten</orig>
@@ -6247,7 +6674,7 @@
                   <hi rend="italic">Triest</hi>
                </name> zu <lb/>gehen,
                         allein der wind ware unβ sehr zu <lb/>gegen. den 26.<hi rend="superscript">ten</hi> giengen wir auf das schiff <lb/>schlaffen in hoffnung, der
-                        wind werde sich bey <pb facs="Attems_letter_34_page_02-re"/>
+                        wind werde sich bey <pb xml:id="attems-dipl-pb-140" facs="#facs-34-2_re"/>
                <lb/>der Nacht
                         änderen, Welches wir dan auch dem <lb/>27.<hi rend="superscript">ten</hi>
                         abends Thatten, allein wir Ka<choice>
@@ -6283,7 +6710,7 @@
                      <reg>provveditore</reg>
                   </choice>
                </hi> endlich die er-<lb/>laubnuβ auβbrachten, mit dem
-                        Venetianischen <pb facs="Attems_letter_34_page_02-ve"/>
+                        Venetianischen <pb xml:id="attems-dipl-pb-141" facs="#facs-34-2_ve"/>
                <lb/>schiff hieher zu
                         gehen. Er gabe unβ einen <lb/>
                <hi rend="italic">fante</hi> in ganzer

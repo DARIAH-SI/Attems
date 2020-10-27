@@ -473,7 +473,7 @@
                 <p>
                     <!-- dodam višimo slike -->
                     <img src="{tei:figure/tei:graphic/@url}" alt="naslovna slika"
-                        style="height:500px;"/>
+                        style="height:700px;"/>
                 </p>
             </div>
         </xsl:if>
@@ -559,6 +559,28 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
+        <br/>
+        <!-- Dodani logo -->
+        <div class="row">
+            <div class="small-4 columns text-center">
+                <p>
+                    <!-- dodam višimo slike -->
+                    <img src="logo_uni_graz_4c_CMYK_schriftzug.jpg" alt="Logo Uni Graz"/>
+                </p>
+            </div>
+            <div class="small-4 columns text-center">
+                <p>
+                    <!-- dodam višimo slike -->
+                    <img src="logoZRC-SAZU.png" alt="Logo ZRC SAZU" style="height:150px;"/>
+                </p>
+            </div>
+            <div class="small-4 columns text-center">
+                <p>
+                    <!-- dodam višimo slike -->
+                    <img src="logo_SD18.jpg" alt="Logo DSD18"/>
+                </p>
+            </div>
+        </div>
         <br/>
     </xsl:template>
 

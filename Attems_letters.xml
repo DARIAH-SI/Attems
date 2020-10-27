@@ -810,7 +810,66 @@
          <divGen type="search" xml:id="search">
             <head>Search</head>
          </divGen>
-         <!-- Editorial intro. follows here ...  -->
+         <div type="preface" xml:id="attems-foreword">
+            <head xml:id="attems2-head-5">Foreword</head>
+            <docAuthor xml:id="attems2-docAuthor-1">Metoda Kokole</docAuthor>
+            <p xml:id="attems2-p-5">What you are looking at is the first edition of 34 private letters by an
+               eighteenth-century Styrian nobleman, Count Ignaz Maria von Attems-Heiligenkreuz
+               (the Younger), sent to his father back in Graz during his European Grand Tour.
+               The edition consists of a critical transcription of all the letters, facsimiles
+               of the original manuscript documents and accompanying studies relating to the
+               documents and the Attems family.</p>
+            <p xml:id="attems2-p-6">Until the second decade of the twenty-first century these letters were largely
+               unknown to researchers. They were noticed only by two family historians: Franz
+               Ilwof, in his printed book <hi rend="italic">Die Grafen von Attems</hi>,
+               published in 1897; and much later, in the mid-twentieth century, by a member of
+               the family, Maria Viktoria Attems-Pallavicino, in her typewritten <hi rend="italic">Familiengeschichte</hi>, today preserved within the Attems
+               family archive in the Styrian Provincial Archives in Graz.</p>
+            <p xml:id="attems2-p-7">I came across these letters in 2014 as a result of researching a collection of
+               music manuscripts once belonging to the family of the Attems counts from
+               Slovenska Bistrica. A number of musical pieces, mostly copies of Italian opera
+               arias, bear manuscript annotations, among which appears the name “Ignazio Conte
+               d’Atthembs” and its French equivalent, “Ignace Compte d’Atthembs”. Some of these
+               annotations indicate places and names of operas and even their composers, such
+               as “In Roma. Alle Dame 1738. Il Quinto Fabio. Del Sig. Nicola Logroschino”,
+               which clearly refers to a particular occasion when these materials were
+               acquired. Further investigations into the family led me to its archive in Graz,
+               where I read the letters and saw for myself the evidence for Ignaz’s Grand Tour
+               and his active interest in musical life in the Italian cities that he visited in
+               1738.</p>
+            <p xml:id="attems2-p-8">These letters were sent over a period of four years from twelve different
+               European cities geographically extending from Prague, today the capital of the
+               Czech Republic, to Würzburg, Mainz and Mannheim in central Germany, to Leiden
+               and Amsterdam in the Netherlands, and finally to Brussels and Paris in the
+               Francophone zone and Bologna, Rome and Trieste in the Italian peninsula. Most
+               numerous are the letters from Leiden, Würzburg and Prague: there are nine from
+               Leiden and six from Würzburg and from Prague, the cities where Attems spent
+               several months pursuing his studies at higher educational institutions. </p>
+            <p xml:id="attems2-p-9">The young Styrian aristocrat was a keen observer of contemporary political,
+               economic, religious and cultural life in the places he visited. His letters
+               accordingly contain a wealth of information on his education, but they also
+               constitute a rich source for the history of many more mundane aspects – routes,
+               costs, transport, accommodation, health, clothing, university education,
+               tutoring by a <hi rend="italic">Hoffmaister</hi>, religious issues, economic
+               debates and descriptions of the most celebrated sites and artistic wonders of
+               the time. All these snippets of information are potentially useful to research
+               in history, art, music, the social sciences etc. For general research on the
+               European Grand Tour in the eighteenth century Attems’s letters represent one of
+               the very rare well-documented cases so far discovered of such a tour undertaken
+               by a member of an influential family from Inner Austria.</p>
+            <p xml:id="attems2-p-10">Since the task of presenting satisfactorily a correspondence of this kind calls
+               for specialist knowledge in different branches of the Humanities, an
+               international, multidisciplinary group of researchers drawn from the Research
+               Centre of the Slovenian Academy of Sciences and Arts (Metoda Kokole, Miha
+               Preinfalk, Matija Ogrin and Željko Oset) and the Karl-Franzens-Universität Graz
+               (Gabriele Haug-Moritz, Marlies Raffler, Michael Walter and Florian Zeilinger)
+               was established in late 2018. The group’s project, named “Culture and Politics
+               in mid-eighteenth century Europe – the letters of Count Ignaz Maria von
+               Attems-Heiligenkreuz to his father (1734–1738). A digital edition”, had the good
+               fortune to gain the support of the Kommission für Neuere Geschichte Österreichs
+               in 2019. This, then, is the first fruit of the project – one that it is hoped to
+               follow with further original studies and commentaries.</p>
+         </div>
       </front>
       <body xml:lang="de"><!-- I don't see the point that the title is repeated here --><!--<div>
                 <head>The Letters of Count Ignaz Maria von Attems-Heiligenkreuz to his father
@@ -4656,7 +4715,7 @@
                   </name>
                   <hi rend="italic">demonst</hi>rirt, das die Sonn <lb/>nicht um die erd,
                             noch die erd <lb/>um die Sonn lauffe, sondern <lb/>jedes in seinen <hi rend="italic">axi</hi>, so ein <hi rend="italic">Surprenantes</hi>
-                            <hi rend="italic" xml:space="preserve">experiment</hi> ware. </p>
+                  <hi rend="italic" xml:space="preserve">experiment</hi> ware. </p>
             </postscript>
          </div>
          <div type="letter" xml:id="attems.l.21" n="21">
@@ -6771,5 +6830,1274 @@
          </div>
          <!--</div>-->
       </body>
+      <back>
+         <div type="study" xml:id="attems-comm.1" xml:lang="de">
+            <head xml:id="attems2-head-40">Texte auf Tour. Linguistische Aspekte und Transkriptionsrichtlinien der Briefe
+                    von Ignaz Maria von Attems-Heiligenkreuz an seinen Vater 1734–1738</head>
+            <docAuthor xml:id="attems2-docAuthor-2">(Florian Zeilinger)</docAuthor>
+            <p xml:id="attems2-p-70">Die Briefe, die Ignaz Maria II. von Attems-Heiligenkreuz (1714–1762)<note place="foot" xml:id="zeilinger-ftn1" n="1">Vgl. Sarah Bundschuh, „Die
+                        Verlassenschaftsinventare der Familie Attems-Heiligenkreuz (1715–1773) – Ein
+                        Beitrag zur Geschichte Innerösterreichs“ (Phil. Diss., Universität Graz,
+                        2018), 122, 124–125; Franz Ilwof, <hi rend="italic">Die Grafen von Attems:
+                            Freiherren von Heiligenkreuz in ihrem Wirken in und für Steiermark</hi>,
+                        Forschungen zur Verfassungs- und Verwaltungsgeschichte der Steiermark 2, bk.
+                        1 (Graz: Styria, 1897), 20–22, 202–203; Maria Viktoria Pallavicino-Attems,
+                            <hi rend="italic">Die Mini-Familiengeschichte der Attems</hi>
+                        (Klagenfurt: Leon, 1970), [unpag.].</note> von den verschiedenen Stationen
+                    seiner (Kavaliers-)Tour<note place="foot" xml:id="zeilinger-ftn2" n="2">Zu den
+                        zu bevorzugenden Begriffen Kavalierstour und (dem mehr oder minder
+                        zeitgenössischen) Länderreise u.a. vgl. Mathis Leibetseder, <hi rend="italic">Die Kavalierstour: adlige Erziehungsreisen im 17. und 18.
+                            Jahrhundert</hi>, Beihefte zum Archiv für Kulturgeschichte 56 (Köln:
+                        Böhlau, 2004), 18–23; Hilmar Tilgner, „Kavalierstour“, in: <hi rend="italic">Enzyklopädie der Neuzeit</hi>, hrsg. Friedrich Jaeger (Stuttgart:
+                        Metzler, 2007), 6:523–525.</note> durch Europa an seinen Vater Franz Dismas
+                        (1688–1750)<note place="foot" xml:id="zeilinger-ftn3" n="3">Vgl. Ilwof, <hi rend="italic">Attems</hi>, 203.</note> schrieb, haben schon einen weiten
+                    Weg hinter sich. Nun gehen sie dank ihrer Transkription und Edition wieder ‚auf
+                    Reisen‘. Die folgenden Anmerkungen zu editorischen Entscheidungen rund um die
+                    Transkriptionsrichtlinien sollen die notwendigen Transformationen (die neue
+                    ‚Tour‘) der Texte nachvollziehbar machen.<note place="foot" xml:id="zeilinger-ftn4" n="4"> Für entsprechende notwendige Erläuterungen
+                        der Editions- bzw. Transkriptionsrichtlinien finden vgl. z.B. Grete
+                        Klingenstein, Eva Faber und Antonio Trampus, Hrsg., „Einleitung“, in: <hi rend="italic">Europäische Aufklärung zwischen Wien und Triest: die
+                            Tagebücher des Gouverneurs Karl Graf Zinzendorf 1776–1782</hi>, Bd. 2,
+                            <hi rend="italic">Die Tagebücher 31. Mai 1776 bis 31. Dezember
+                        1778</hi>, Veröffentlichungen der Kommission für Neuere Geschichte
+                        Österreichs 103 (Wien: Böhlau, 2009), I–X; „Transkriptionsrichtlinien“,
+                        Jahresrechnungen der Stadt Basel 1535 bis 1610 – digital, Zugriff am 31
+                        August 2019,
+                       <ref target="http://gams.uni-graz.at/context:srbas?mode=projekt#transkriptionsrichtlinien">http://gams.uni-graz.at/context:srbas?mode=projekt#transkriptionsrichtlinien</ref>.</note>
+                    Sie stammen vom wissenschaftlichen ‚Werkunternehmer‘ (= der Verfasser), der die
+                    von Željko Oset erstellte Transkription korrigierte, überarbeitete und taggte.
+                    Zu diesem Zweck wird auch auf die relevanten sprachlichen Besonderheiten der
+                    Texte eingegangen.</p>
+            <div xml:id="attems-comm.1.1">
+               <head xml:id="attems2-head-41">Die Quellen, ihre Struktur und ihre für die Transkription relevanten
+                        sprachlichen Besonderheiten</head>
+               <p xml:id="attems2-p-71">Die digitale Edition umfasst jene 34 Briefe, die heute im Landesarchiv
+                        Steiermark im Archivbestand <hi rend="italic">A. Attems</hi> unter der
+                        Signatur <hi rend="italic">Familie und Herrschaften, K. 19, H. 87</hi>
+                        (insgesamt 36 Briefe) aufbewahrt werden.<note place="foot" xml:id="zeilinger-ftn5" n="5">Vgl. Steiermärkisches Landesarchiv, A.
+                            Attems, Familie und Herrschaften, K. 19, H. 87, Ignaz Maria von
+                            Attems-Heiligenkreuz, Briefe, 16.11.1734–5.10.1738 [unpag.]. Die letzten
+                            beiden Schreiben wurden von anderer Hand, auf Latein und in
+                            Lateinschrift verfasst, das erste ist datiert (unklar: „<hi rend="italic">8.tn Nbris</hi>“, das wäre nach Ende der Reise) und
+                            unterschrieben (unklar: „<hi rend="italic">Mardon</hi>“), das zweite
+                            adressiert explizit den Graf Attems, beide haben medizinischen
+                            Inhalt.</note> Sie wurden alle von derselben Hand mit schwarzer,
+                        allerdings unterschiedlich stark ausgebleichter Tinte geschrieben, nämlich
+                        von Attems als gebildetem und studierendem<note place="foot" xml:id="zeilinger-ftn6" n="6">Vgl. Bundschuh,
+                            „Verlassenschaftsinventare“, 124; Tilgner, „Kavalierstour“, 523.</note>
+                        Adeligen selbst, worauf auch seine Unterschrift „<hi rend="italic">IgnatiusGraffVonAtthembsPria</hi>“ (<hi rend="italic">Pria</hi> = <hi rend="italic">P[ro]pria [manu]</hi> = <hi rend="italic">mit eigener
+                            Hand</hi>) verweist.</p>
+               <div xml:id="attems-comm.1.1.1">
+                  <head xml:id="attems2-head-42">Die äußere Form</head>
+                  <p xml:id="attems2-p-72">Es handelt sich um jene an seinen Vater adressierten Briefe<note place="foot" xml:id="zeilinger-ftn7" n="7">Zu (privaten) Briefen als
+                                Mittel pragmatischer Kommunikation generell, zum 18. Jahrhundert als
+                                „Jahrhundert des Briefes“, zum ‚natürlichen‘ Schreibstil und zu den
+                                technischen Aspekten der Briefbeförderung vgl. Klaus Beyrer, „Brief:
+                                2. Kommunikationstechnik und Briefbeförderung“, in: <hi rend="italic">Enzyklopädie der Neuzeit</hi>, hrsg. Friedrich
+                                Jaeger (Stuttgart: Metzler, 2005), 2:414-417; Carmen Furger, <hi rend="italic">Briefsteller: das Medium „Brief“ im 17. und frühen
+                                    18. Jahrhundert</hi> (Köln: Böhlau, 2010), 171, 176–177; Robert
+                                Vellusig, “Brief: 1. Gattungsgeschichte”, in: <hi rend="italic">Enzyklopädie der Neuzeit</hi>, hrsg. Friedrich Jaeger
+                                (Stuttgart: Metzler, 2005), 2:406–412; Id., <hi rend="italic">Schriftliche Gespräche: Briefkultur im 18. Jahrhundert</hi>,
+                                Literatur und Leben 54 (Wien: Böhlau, 2000), 21–25, 153–157.</note>
+                            (an „<hi rend="italic">Ihro Gnaden Hoch- und Wohlgebohrner Reichs Graff
+                                Gnädiger herr Vatter</hi>“, eine typisch dreizeilige innere Anrede
+                            des Briefes<note place="foot" xml:id="zeilinger-ftn8" n="8">Vgl. Furger,
+                                    <hi rend="italic">Briefsteller</hi>, 102, 114.</note>). In ihnen
+                            wird jedoch nicht immer nur der Vater angesprochen, manchmal auch beide
+                            Eltern, „<hi rend="italic">Ihro Gnaden beyderseits</hi>“. Weitere Grüße
+                            ergehen auch an andere Familienmitglieder.<note place="foot" xml:id="zeilinger-ftn9" n="9">Z.B. vgl. Attems, Brief vom
+                                16.11.1734.</note> Die Verwandtschaftsbezeichnung „<hi rend="italic">mater Anna Josepha</hi>“<note place="foot" xml:id="zeilinger-ftn10" n="10">Z.B. Attems, Brief vom 8.1.1735.</note> ist dabei
+                            interessant, da es sich dabei weder um Atems’ Mutter noch seine
+                            Großmutter väterlicherseits handelt.<note place="foot" xml:id="zeilinger-ftn11" n="11">Vgl. Bundschuh,
+                                „Verlassenschaftsinventare“, 124–125.</note> Als Kurzform von
+                            lateinisch <hi rend="italic">matertera</hi> könnte es eine <hi rend="italic">Muhme</hi>, eine Mutterschwester bzw. eine weibliche
+                            Verwandte mütterlicherseits meinen,<note place="foot" xml:id="zeilinger-ftn12" n="12">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch von Jacob Grimm und Wilhelm Grimm</hi>, Zugriff am 10
+                                September 2019,
+                               <ref target="http://woerterbuchnetz.de/cgi-bin/WBNetz/wbgui_py?sigle=DWB">http://woerterbuchnetz.de/cgi-bin/WBNetz/wbgui_py?sigle=DWB</ref>, s.v.
+                                „Muhme“; Johann Heinrich Barth, Hrsg, <hi rend="italic">Genealogisch-etymologisches Lexikon</hi> (Reichelsheim:
+                                Genealogie-Service, 2006), 1:s.v. „Matertera“. </note> wobei der
+                            Familienstammbaum der Mutter nur eine Tante Maria Anna und die Frau des
+                            Cousins der Mutter, Josepha Sidonia, verzeichnet.<note place="foot" xml:id="zeilinger-ftn13" n="13">Vgl. Constantin von Wurzbach, Hrsg,
+                                    <hi rend="italic">Biographisches Lexikon des Kaiserthums
+                                    Oesterreich</hi> (Wien: Kaiserlich-königlichen Hof- und
+                                Staatsdruckerei, 1888), s.v. „Wildenstein, Cajetan“. Or handelt es
+                                sich um Attems’ Schwester Josefa?, vgl. <hi rend="italic">Biographisches Lexikon</hi>, s.v. “Wildenstein, Cajetan”;
+                                Ilwof, <hi rend="italic">Attems</hi>, 20, 203.</note> Ein einzelner
+                            Brief vom 6.10.1734 ist direkt an Attems’ Mutter und ein weiterer vom
+                            15.12.1734, wohl in irrtümlicher Mischung, an die „<hi rend="italic">Reichs Gräffin Gnädiger herr Vatter</hi>“ adressiert. Attems deutet
+                            auch weitere Schreiben an, die nicht überliefert wurden.<note place="foot" xml:id="zeilinger-ftn14" n="14">Beispielsweise schreibt
+                                er am 15.12.1734, Vater und Mutter adressierend, „<hi rend="italic">Ihro Gnaden werden meine zwey schreiben alß eines von Nürnberg,
+                                    und eines Von hier empfangen haben, wie auch Ihro Gnaden die
+                                    frau Mutter zwey Von hier auß</hi>“, wovon (aufgrund der knappen
+                                Angaben) zumindest das Nürnberger Schreiben nicht überliefert ist
+                                und sich auch die an die Mutter nicht im Bestand befinden. Daneben
+                                erwähnt Attems bzgl. zwei Schreiben, die überhaupt an seine Mutter
+                                gingen, Post-Probleme, nämlich am 8.1.1735: „<hi rend="italic">der
+                                    brieff, so Ihro Gnaden der frau Mutter nicht zu gekomen, hielte
+                                    meinen glückwunsch zu derselben geburtstag in sich</hi>“, und am
+                                17.3.1736: „<hi rend="italic">den 10.ten dises habe ich an Ihro
+                                    Gnaden die frau Mutter geschriben, weis aber nicht, ob er selber
+                                    zu gnädigen handen wird gekomen seyn, dan mir der damahlige
+                                    Auffenthalt unbewust</hi>“. Zur Geschwindigkeit und
+                                Zuverlässigkeit der Post vgl. Beyrer, „Brief 2“, 414.</note> Zudem
+                            sind in diesem Bestand weder die (Antwort-)Briefe des Vaters noch die
+                            der Mutter oder von anderen, z.B. vom Bruder Dismas (erwähnt am
+                            8.1.1735), überliefert.</p>
+                  <p xml:id="attems2-p-73">Meist finden sich am Briefkopf der Ort und das Datum, an dem der Brief
+                            verfasst wurde. Eine Ausnahme bilden die ersten drei Briefe, bei denen
+                            Ort und Datum jeweils am Schluss vermerkt wurden. Erst danach fand
+                            Attems zur später beibehaltenen Form. Für den ersten Monat verwendet er
+                            die damals gebräuchlichere Form <hi rend="italic">Jänner</hi> statt <hi rend="italic">Januar</hi>, für <hi rend="italic">Februar</hi> das
+                            Wort <hi rend="italic">Hornung</hi>.<note place="foot" xml:id="zeilinger-ftn15" n="15">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „Jänner“, s.v. „Hornung“.</note> Die
+                            Herbst-Monatsnamen werden abgekürzt, wobei für September, Oktober und
+                            November die arabische Ziffer (z.B. „<hi rend="italic">9bris</hi>“), für
+                            Dezember schließlich die römische Ziffer („<hi rend="italic">Xbris</hi>“) verwendet wird. Ein einziges Mal wird auch eine Tageszeit
+                            angegeben: Der Brief vom 25.1.1736 wurde „<hi rend="italic">den 25.ten
+                                Jenner 1736. um 11 uhr Mittags</hi>“ geschrieben.</p>
+                  <p xml:id="attems2-p-74">30 der 34 Briefe sind drei bis vier Seiten lang, manchmal relativ groß,
+                            manchmal dichter, bei geringer werdendem Platz manchmal auch besonders
+                            eng beschrieben. Vier Briefe sind fünf oder mehr Seiten lang, der
+                            längste erstreckt sich über acht Seiten. Die Schrift ist meist ziemlich
+                            ‚schön‘ und entsprechend leserlich, davon weicht am ehesten die wohl
+                            schnell und daher unsauber geschriebene <hi rend="italic">Nota</hi> auf
+                            einem Beiblatt zum Schreiben vom 11.12.1737 mit Fragen zu
+                            Verwandtschaftsverhältnissen ab.</p>
+               </div>
+               <div xml:id="attems-comm.1.1.2">
+                  <head xml:id="attems2-head-43">Sprachliche Merkmale</head>
+                  <p xml:id="attems2-p-75">Die Briefe des 18. Jahrhunderts sind auf Neuhochdeutsch<note place="foot" xml:id="zeilinger-ftn16" n="16">Vgl. Wilhelm Schmidt, <hi rend="italic">Geschichte der deutschen Sprache: ein Lehrbuch für
+                                    das germanistische Studium</hi>, 11. Aufl. (Stuttgart: Hirzel,
+                                2013), 347–348; Gerhart Wolff, <hi rend="italic">Deutsche
+                                    Sprachgeschichte von den Anfängen bis zur Gegenwart: ein
+                                    Studienbuch</hi>, 6. Aufl. (Tübingen: Francke, 2009),
+                                133.</note> in Kurrentschrift geschrieben, enthalten aber auch in
+                            Lateinschrift geschriebene lateinische, französische, italienische und
+                            niederländische Begriffe bzw. Fremdwörter. Hierbei kommt es vor, dass
+                            die als fremdsprachlich aufgefassten Wortstämme in Lateinschrift, ihre
+                            ‚deutschen‘ Endungen jedoch in Kurrentschrift geschrieben werden, z.B.
+                                „<hi rend="italic">Accademist</hi>en“ (&lt;hi
+                                rend="italic"&gt;Accademist&lt;/hi&gt;en).<note place="foot" xml:id="zeilinger-ftn17" n="17">Der Unterschied zwischen
+                                Lateinschrift und Kurrentschrift ist v.a. anhand des auffällig
+                                unterschiedlichen ⟨e⟩s zu erkennen.</note> Auch ein versucht
+                            niederländischer Satz, mit dem Attems Gehörtes festhält, findet sich im
+                            Brief aus Leiden vom 17.1.1737: „<hi rend="italic">Wan ich Mein
+                                galonirtes Kleid an habe, so bleibet alles stehen, und die buben
+                                schreyen gleich, [hier:] dat it en deytse vorst</hi>“. Besonders
+                            gerne streut Attems französische Wörter ein, z.B. „<hi rend="italic">noblesse</hi>“, „<hi rend="italic">goût</hi>“, „<hi rend="italic">musique</hi>“, „<hi rend="italic">niche</hi>“, „<hi rend="italic">papillons</hi>“, wobei nur „<hi rend="italic">pompe</hi>“<note place="foot" xml:id="zeilinger-ftn18" n="18"> Attems, Brief,
+                                19.5.1736; für die Lesehilfe in diesem und anderen Fällen dankt der
+                                Verfasser Marlies Raffler.</note> aufgrund des Schriftbilds schwer
+                            lesbar ist. Das französische Wort <hi rend="italic">tour</hi>, das von
+                            vielen Zeitgenossen mit unterschiedlichem Geschlecht verwendet wurde,
+                            ist bei ihm, wie in der Ausgangssprache, männlich.<note place="foot" xml:id="zeilinger-ftn19" n="19">Vgl. Attems, Brief, 16.11.1734. In
+                                zeitgenössischen Quellen wird aber sowohl die männliche (<hi rend="italic">den/le Tour vollbringen</hi>) als auch die
+                                weibliche (<hi rend="italic">die große Tour</hi>) verwendet, vgl.
+                                Leibetseder, <hi rend="italic">Kavalierstour</hi>, 19–20.</note>
+                            Briefe, die französische Ausdrücke enthalten oder komplett auf
+                            Französisch geschrieben wurden, waren charakteristisch für Attems’
+                                Zeit.<note place="foot" xml:id="zeilinger-ftn20" n="20">Vgl. Furger,
+                                    <hi rend="italic">Briefsteller</hi>, 173.</note> Sein Vorhaben
+                            bzw. Vorsatz vom 30.11.1735, künftig vermehrt auf Französisch zu
+                            schreiben, scheint jedoch im Sande verlaufen zu sein.</p>
+                  <p xml:id="attems2-p-76">Neben ‚markierten‘ Fremdwörtern sind auch oft die Eigennamen von Personen
+                            (z.B. „<hi rend="italic">Anna Josepha</hi>“, „<hi rend="italic">Lobkoviz</hi>“), selten Ortsnamen, nämlich französische und
+                            italienische Ortsnamen (z.B. „<hi rend="italic">Paris</hi>“, „<hi rend="italic">Turin</hi>“), und Monatsnamen in Lateinschrift
+                            geschrieben. Insgesamt enthalten die Briefe fast 1000 derart
+                            ausgezeichnete Wörter und Wortgruppen.</p>
+                  <p xml:id="attems2-p-77">Als gängiges Abkürzungszeichen der Kurrentschrift verwendet Attems an
+                            manchen Stellen eine Schlinge als Abkürzung für ⟨er⟩, z.B. <hi rend="italic">od[er]</hi> (od&lt;expan&gt;er&lt;/expan&gt;). Auch
+                            bestimmte Maßeinheiten und Währungen werden abgekürzt.<note place="foot" xml:id="zeilinger-ftn21" n="21">Spezifische Abkürzungen /
+                                Maßeinheiten: „<hi rend="italic">f</hi>“ für <hi rend="italic">Florin</hi> bzw. <hi rend="italic">Gulden</hi>, vgl. Attems,
+                                Brief, 18.9.1736; „<hi rend="italic">Rhtlr</hi>“ für <hi rend="italic">Reichstaler</hi>, vgl. Attems, Brief, 11.9.1736;
+                                vermutlich „<hi rend="italic">st</hi>“, nicht <hi rend="italic">lb</hi>, für <hi rend="italic">Stück</hi>, vgl. Attems, Brief,
+                                17.1.1737.</note> Unklar bleibt ein Zeichen, das nur am Brief vom
+                            6.10.1736 im Briefkopf zwischen der zweiten und dritten Zeile der Anrede
+                            vorkommt und das wie ⟨hh⟩ oder ⟨ss⟩ aussieht. Unklar ist sowohl, ob es
+                            von Attems stammt, als auch, ob es sich um eine Abkürzung handelt.</p>
+                  <p xml:id="attems2-p-78">Ausbesserungen nahm Attems entweder durch Durchstreichung oder, bei
+                            einzelnen Buchstaben, durch Überschreibung vor. Nicht ausgebesserte
+                            orthographische Fehler bzw. Verschreibungen sind selten, sofern die
+                            fehlenden orthografischen Regeln derartige Beobachtungen überhaupt
+                            zulassen. Verschrieben ist z.B. „<hi rend="italic">rien gelb</hi>“ (wohl
+                            statt: <hi rend="italic">rein gelb</hi>) im Brief vom 25.1.1736. Weitere
+                            Fälle orthografischer Fehler (falsche oder fehlende Buchstaben) und
+                            doppelt oder syntaktisch falsch verwendete Wörter sind
+                                gekennzeichnet.<note place="foot" xml:id="zeilinger-ftn22" n="22">Z.B. „<hi rend="italic">angekommmen</hi>“ statt: <hi rend="italic">angekommen</hi>, Attems, Brief vom 8.11.1735; „<hi rend="italic">Von 4 Tagen</hi>“ statt: <hi rend="italic">Vor
+                                    vier Tagen</hi>, Attems, Brief vom 24.9.1735; „<hi rend="italic">Campagnie</hi>“ statt: <hi rend="italic">Compagnie</hi>,
+                                Attems, Brief vom 26.11.1735; „<hi rend="italic">begriffen
+                                    begriffen</hi>“ statt: <hi rend="italic">begriffen</hi>, Attems,
+                                Brief vom 14.5.1737; „<hi rend="italic">etworffen</hi>“ statt: <hi rend="italic">entworfen</hi>, Attems, Brief vom 26.9.1737; „<hi rend="italic">Rariräten</hi>“ statt: <hi rend="italic">Raritäten</hi>, Attems, Brief vom 26.9.1737; „<hi rend="italic">luffen</hi>“ veraltet oder falsch statt: <hi rend="italic">liefen</hi>, Attems, Brief vom 5.10.1738; vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v. „laufen“.</note>
+                            Dabei dürfte es sich um zufällige Schreibfehler wider besseres Wissen
+                            handeln, die dem Schreiber nicht auffielen und somit nicht ausgebessert
+                            wurden.</p>
+                  <p xml:id="attems2-p-79">Die Schreibung der (deutschen) Wörter unterscheidet sich von der heute
+                            orthographisch streng genormten.<note place="foot" xml:id="zeilinger-ftn23" n="23"> Vgl. Wolff, <hi rend="italic">Sprachgeschichte</hi>, 149.</note> Besonders auffallend sind
+                            ⟨eu⟩s statt ⟨ei⟩s, z.B. in „<hi rend="italic">Reutschulle</hi>“ (<hi rend="italic">reuten</hi> als Nebenform von <hi rend="italic">reiten</hi>
+                     <note place="foot" xml:id="zeilinger-ftn24" n="24">Vgl.
+                                Wolff, <hi rend="italic">Sprachgeschichte</hi>, s.v.
+                                „reiten“.</note>), ⟨ü⟩s statt ⟨i⟩s, z.B. in „<hi rend="italic">würtschafft</hi>“, auch fehlende Umlaute bzw. diakritische Punkte,
+                            z.B. „<hi rend="italic">zuruk</hi>“ (<hi rend="italic">zurück</hi>),
+                                „<hi rend="italic">stuk</hi>“ (<hi rend="italic">Stück</hi>) und
+                            zusätzliche Umlaute bzw. diakritische Punkte, z.B. in „<hi rend="italic">feyertäge</hi>“ (<hi rend="italic">Feiertage</hi>), „<hi rend="italic">gässen</hi>“ (<hi rend="italic">Gassen</hi>). Einige
+                            fehlende und zusätzliche Umlaute, ferner ⟨ey⟩s statt ⟨eu⟩s, z.B. in „<hi rend="italic">freyd</hi>“ (<hi rend="italic">Freude</hi>), aus dem
+                            Mittelhochdeutschen erhalten gebliebene Formen wie „<hi rend="italic">kunten</hi>“ (<hi rend="italic">konnten</hi>) und „<hi rend="italic">gäh</hi>“ (<hi rend="italic">jäh</hi>, schnell) und
+                            die regionale Pluralform <hi rend="italic">baumer</hi> (<hi rend="italic">Bäume</hi>) kennzeichnen die von Attems gesprochene
+                            oberdeutsche Variante und ähneln heutigen dialektalen Formen.<note place="foot" xml:id="zeilinger-ftn25" n="25">Vgl. Johann Andreas
+                                Schmeller, Hrsg, <hi rend="italic">Bayerisches Wörterbuch</hi>, 2.
+                                Aufl. (München: Oldenbourg, 1872), 1: s.v. „gæh“; Schmidt, <hi rend="italic">Geschichte</hi>, 188; Theodor Unger und Ferdinand
+                                Khull, Hrsg, <hi rend="italic">Steirischer Wortschatz als Ergänzung
+                                    zu Schmellers Bayerischem Wörterbuch </hi>(Schaan: Sändig,
+                                1982), s.v. „Gache“; Ludwig Zehetner, <hi rend="italic">Das
+                                    bairische Dialektbuch</hi> (München: Beck, 1985), 24, 31; Ludwig
+                                Zehetner, <hi rend="italic">Bairisch</hi>, Dialekt/Hochsprache –
+                                kontrastiv, Sprachhefte für den Deutschunterricht 2 (Düsseldorf:
+                                Schwann, 1977), 16, 45–46, 53, 118.</note>
+                  </p>
+                  <p xml:id="attems2-p-80">Morphologisch auffallend sind die alte Wortform „<hi rend="italic">stunden</hi>“ (<hi rend="italic">standen</hi>)<note place="foot" xml:id="zeilinger-ftn26" n="26">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „stehen“.</note>, das alte bzw.
+                            altertümelnde „<hi rend="italic">seynd</hi>“ (<hi rend="italic">sind</hi>)<note place="foot" xml:id="zeilinger-ftn27" n="27">Häufig
+                                im 16. und 17. Jahrhundert, vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „sind“.</note>, die Konjunktion „<hi rend="italic">weillen</hi>“ (<hi rend="italic">weil</hi>)<note place="foot" xml:id="zeilinger-ftn28" n="28">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v. „weilen(s)“.</note> sowie
+                            Adverbien mit der älteren Endung <hi rend="italic">-en</hi> wie z.B.
+                                „<hi rend="italic">worinnen</hi>“ (<hi rend="italic">worin</hi>)<note place="foot" xml:id="zeilinger-ftn29" n="29">Vgl.
+                                    <hi rend="italic">Deutsches Wörterbuch</hi>, s.v.
+                                „worin“.</note>. Das Präfix <hi rend="italic">ohn-</hi> findet sich
+                            anstelle des heutigen <hi rend="italic">un-</hi>, z.B. in „<hi rend="italic">ohnnothwendig</hi>“. Endungen auf <hi rend="italic">-ul</hi> erinnern an die lateinische Wortwurzel, z.B. „<hi rend="italic">Zettul</hi>“ (<hi rend="italic">Zettel</hi>)<note place="foot" xml:id="zeilinger-ftn30" n="30">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v. „Zettel“.</note>. Heute nicht
+                            mehr gebrauchte und daher erklärungsbedürfte Wörter sind „<hi rend="italic">bruststüker</hi>“ (<hi rend="italic">Brustbilder</hi>)<note place="foot" xml:id="zeilinger-ftn31" n="31">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v.
+                                „Bruststück“.</note>, „<hi rend="italic">etwelche</hi>“ (<hi rend="italic">etliche</hi>)<note place="foot" xml:id="zeilinger-ftn32" n="32">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „etwelch“.</note>, „<hi rend="italic">gebäuen</hi>“ (<hi rend="italic">Gebäude</hi>)<note place="foot" xml:id="zeilinger-ftn33" n="33">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „Gebäu“.</note>, „<hi rend="italic">Geschwestert</hi>“ (<hi rend="italic">Geschwister</hi>)<note place="foot" xml:id="zeilinger-ftn34" n="34">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v. „Geschwester“.</note>, „<hi rend="italic">iezo</hi>“ (ältere Form von <hi rend="italic">jetzt</hi>)<note place="foot" xml:id="zeilinger-ftn35" n="35">Vgl.
+                                    <hi rend="italic">Deutsches Wörterbuch</hi>, s.v.
+                                „jetzt“.</note>, „<hi rend="italic">Leilach</hi>“ (<hi rend="italic">Leintuch</hi>)<note place="foot" xml:id="zeilinger-ftn36" n="36">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v.
+                                „Leilach“.</note>, „<hi rend="italic">Ranfft</hi>“ (<hi rend="italic">Rand</hi>)<note place="foot" xml:id="zeilinger-ftn37" n="37">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v.
+                                „Ranft“.</note>, „<hi rend="italic">Reiger</hi>“ (<hi rend="italic">Reiher</hi>)<note place="foot" xml:id="zeilinger-ftn38" n="38">Vgl.
+                                    <hi rend="italic">Deutsches Wörterbuch</hi>, s.v.
+                                „Fischreiher“.</note>, „<hi rend="italic">Singerin</hi>“ (eine
+                            nicht-kirchliche <hi rend="italic">Sängerin</hi>)<note place="foot" xml:id="zeilinger-ftn39" n="39">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „Singer“.</note>, „<hi rend="italic">Thurn</hi>“ (<hi rend="italic">Turm</hi>)<note place="foot" xml:id="zeilinger-ftn40" n="40">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „Turm“.</note>, „<hi rend="italic">vor</hi>“ (<hi rend="italic">für</hi>)<note place="foot" xml:id="zeilinger-ftn41" n="41">Vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „für“; s.v. „vor“.</note>. Daneben werden
+                            diverse Fach- und Fremdwörter gebraucht. Eine erklärungsbedürftige
+                            Redewendung lautet „<hi rend="italic">so ist der strohesak Vor der
+                                Thür</hi>“<note place="foot" xml:id="zeilinger-ftn42" n="42">Attems,
+                                Brief vom 4.9.1735.</note> (die Freundschaft ist aufgekündigt).</p>
+               </div>
+               <div xml:id="attems-comm.1.1.3">
+                  <head xml:id="attems2-head-44">Erzählform</head>
+                  <p xml:id="attems2-p-81">In den privaten Briefen erzählt Attems, von der förmlichen, der Hofkultur
+                            folgenden Anrede der Eltern abgesehen, in einem relativ ‚natürlichen‘,
+                            an mündlicher Kommunikation orientiertem Schreibstil von dem, was er
+                            erlebt und gesehen hat.<note place="foot" xml:id="zeilinger-ftn43" n="43">Vgl. Furger, <hi rend="italic">Briefsteller</hi>,
+                                176–177.</note> ‚Höflichkeit‘ und ‚Natürlichkeit‘ sind
+                            charakteristisch für die Briefe des 18. Jahrhunderts, des „Jahrhunderts
+                            des Briefes“.<note place="foot" xml:id="zeilinger-ftn44" n="44">Vgl.
+                                Vellusig, „Brief 1“, 409–410.</note> Hinsichtlich der im Gegensatz
+                            zum herkömmlichen Erzählen veränderten erzählerischen Darbietungsweise
+                            bzw. des Stilmittels spannend ist die, allerdings seltene, Verwendung
+                            direkter Reden, bei denen etwas ansatzweise ‚szenisch dargestellt‘ bzw.
+                            relativ ‚lebendig‘ und unmittelbar geschildert wird.<note place="foot" xml:id="zeilinger-ftn45" n="45"> Vgl. Monika Fludernik, <hi rend="italic">Einführung in die Erzähltheorie</hi> (Darmstadt:
+                                WBG, 2006), 47.</note> Besonders das zum Bruch führende
+                            Streitgespräch mit Jakob wird, im Brief vom 30.11.1735, quasi als Dialog
+                            geschildert: „<hi rend="italic">ich: wan aber ich es sage, ant[wort]: so
+                                ist es doch nicht wahr</hi>“. Nach diesem längeren Streitgespräch
+                            ist dann der Strohsack vor der Tür.</p>
+               </div>
+            </div>
+            <div xml:id="attems-comm.1.2">
+               <head xml:id="attems2-head-45">Editorische Grundsätze</head>
+               <div xml:id="attems-comm.1.2.1">
+                  <head xml:id="attems2-head-46">Einzelne Briefe</head>
+                  <p xml:id="attems2-p-82">Folgende besondere Quellenmerkmale einzelner Briefe, die aufgrund des
+                            fehlenden direkten Zusammenhangs mit dem Text nicht transkribiert
+                            wurden, sind festzuhalten: Am ersten Brief vom 16.11.1734 wurden auf der
+                            ersten Seite im Bereich des Briefkopfes zwei mit Bleistift geschriebene
+                            Rechnungen hinzugefügt. Auf der unbeschriebenen Rückseite der letzten
+                            Seite wurden mehrere Rechnungen hinzugefügt, wovon einige ‚auf dem Kopf‘
+                            stehen, das Blatt wurde also von verschiedenen Seiten aus beschrieben.
+                            Außerdem finden sich auf dieser Rückseite zwei unleserliche mit Tinte
+                            geschriebene Zeilen (die beinahe wie ein sinnloses Gekrakel anmuten, um
+                            die Feder zu testen oder zum Schreiben zu bringen). Wer die Rechnungen
+                            wann hinzugefügt hat und ob sie mit dem Brief und seinem Inhalt, der
+                            allerdings auf keine Rechnungen verweist, in Verbindung stehen oder ob
+                            hier nur der freie Platz verwendet bzw. das Papier wiederverwendet
+                            wurde, ist unklar. Im Brief vom 15.12.1734 finden sich ebenso Rechnungen
+                            auf der Rückseite der letzten Seite. Und auch im nächsten Schreiben, vom
+                            8.1.1735, wurde noch eine entsprechende Rechnung auf der ersten Seite
+                            hinzugefügt. Auf der letzten Seite des Schreibens vom 14.7.1737 wurden
+                            zwei Rechnungen mit Tinte hinzugefügt. Weitere Rechnungen finden sich in
+                            den Attems-Briefen nicht. Die Vorhandenen sind Beispiele für eine
+                            ‚alltagsmathematische Zahlensprache‘, die sich nicht an denselben
+                            Adressaten wie die Briefe richtet. Sie wurden von Oset und Zeilinger
+                            nicht transkribiert und können im Rahmen dieser Erläuterungen nicht
+                            näher analysiert werden. Festhalten lässt sich jedoch, dass sich
+                            darunter, ohne das jeweilige Rechenzeichen +, - oder *, Additionen
+                            befinden (z.B., wie heute untereinander geschrieben, 11+85=96),
+                            Subtraktionen (z.B. 475–47=428), Multiplikationen (z.B., wie Additionen
+                                geschrieben,<note place="foot" xml:id="zeilinger-ftn46" n="46">Vgl.
+                                Nina Graf, „Rechenbüchlein: der elementare Rechenunterricht im 18.
+                                und frühen 19. Jahrhundert“ (Dipl. Arb., Universität Graz, 2012),
+                                74–75.</note> 16*5=80, oder, mit einem zusätzlichen senkrechten
+                            Rechenstrich, 13*|4=52; bei mehrstelligen Multiplikanden sind die
+                            Ziffern der Zwischenergebnisse umgekehrt geschrieben, da man den
+                            Multiplikanden zuerst mit der Einerstelle des Multiplikators
+                                multiplizierte<note place="foot" xml:id="zeilinger-ftn47" n="47">Vgl. Graf, „Rechenbüchlein“.</note> wie im Beispiel 26*15),
+                            möglicherweise eine Division (32/4=8, wobei der Divisor oben hinter
+                            einem senkrechten Rechenstrich steht, darunter der Dividend hinter einem
+                            waagrechten Rechenstrich und darunter, unter einem Rechenstrich, der
+                            Quotient; das wäre eine eigenartige Form des Obersichdividierens<note place="foot" xml:id="zeilinger-ftn48" n="48">Vgl. Graf,
+                                „Rechenbüchlein“, 75.</note>), sowie eine paar weiterer Rechnungen,
+                            die sich vom Verfasser bisher nicht bestimmen ließen. Möglicherweise
+                            ersetzt ein Doppelkomma oder Doppelpunkt das Komma, (z.B.
+                            880+427,,30=1307,,30 bzw. 25:-+4:30=29:30), könnte aber auch speziell
+                            Beträge von Gulden und Kreuzer angeben, da manche Rechnungen im
+                            Dezimalsystem nicht aufgehen (1 Gulden = 60 Kreuzer, z.B.
+                            9:15+6:45+9=25:-). Die Zahlen bewegen sich im ein- bis vierstelligen
+                            Bereich.</p>
+                  <p xml:id="attems2-p-83">Besonders auffällig ist der Brief vom 6.10.1736. Auf seiner ersten Seite
+                            wurde offenbar Tinte verschüttet, sodass einige schwarze Flecken Teile
+                            des Textes überdecken, der jedoch noch immer lesbar ist. Auch
+                            eigenartige Figuren wurden dazu gezeichnet. Unklar ist, ob es einen
+                            Zusammenhang zwischen Flecken und Figuren gibt. Bei den relativ abstrakt
+                            gehaltenen Zeichnungen könnte es sich um einfache Muster oder
+                            spielerische Kritzeleien handeln, eine davon könnte jedoch auch (einen
+                            sehr modern anmutenden) Schädel mit einem sichtbaren Auge
+                            darstellen.</p>
+                  <p xml:id="attems2-p-84">Am folgenden Brief vom 31.7.1737 wurden, ebenso am Ende des Textes,
+                            mehrere mit Tinte gezogene kurze gerade Linien hinzugefügt, die ebenso
+                            Rätsel aufgeben.</p>
+               </div>
+               <div xml:id="attems-comm.1.2.2">
+                  <head xml:id="attems2-head-47">Die Transkriptionsregeln</head>
+                  <p xml:id="attems2-p-85">Bei der Transkription der Attemsbriefe handelt es sich um eine
+                            diplomatische Transkription, d.h. eine möglichst buchstabengetreue
+                            Wiedergabe. In einigen Bereichen folgt sie jedoch auch, leicht in den
+                            Text eingreifend, den <hi rend="italic">Empfehlungen zur Edition
+                                frühneuzeitlicher Texte</hi>
+                     <note place="foot" xml:id="zeilinger-ftn49" n="49"> Vgl. „Empfehlungen zur Edition
+                                frühneuzeitlicher Texte: vom Arbeitskreis ‚Editionsprobleme der
+                                Frühen Neuzeit‘“, Regensburger Beiträge zur Heimatforschung, Zugriff
+                                am 9 September 2019,
+                        <ref target="https://www.heimatforschung-regensburg.de/280/1/E-Forum_AHF-Empfehlungen.pdf">https://www.heimatforschung-regensburg.de/280/1/E-Forum_AHF-Empfehlungen.pdf</ref>.,
+                                7–15.</note>. Konkret bedeutet dies folgende
+                            Transkriptionsregeln:</p>
+                  <list type="unordered" xml:id="attems2-list-1">
+                     <item>Vokale werden einschließlich diakritischer Zeichen (übergesetzte
+                                Punkte) beibehalten.</item>
+                     <item>⟨i⟩/⟨j⟩ werden entsprechend dem Lautwert wiedergegeben.</item>
+                     <item>⟨u⟩/⟨v⟩/⟨w⟩ werden entsprechend dem Lautwert wiedergegeben.</item>
+                     <item>⟨y⟩ wird beibehalten, als Ligatur für lateinisch ⟨ii⟩ jedoch
+                                aufgelöst.</item>
+                     <item>Konsonanten werden entsprechend der Vorlage wiedergegeben.</item>
+                     <item>⟨s⟩/⟨ss⟩/⟨ß⟩/⟨sz⟩/⟨z⟩ werden beibehalten, zwischen Lang-s und
+                                Rund-s wird jedoch nicht unterschieden.</item>
+                     <item>Eigennamen werden entsprechend der Vorlage wiedergegeben.</item>
+                     <item>Die Groß- und Kleinschreibung folgt der Vorlage, sofern sie
+                                eindeutig ist (ansonsten wird von den <hi rend="italic">Empfehlungen</hi> Kleinschreibung empfohlen). Auch Satzanfänge
+                                können klein geschrieben sein.</item>
+                     <item>Die Getrennt- und Zusammenschreibung folgt der Vorlage, sofern sie
+                                eindeutig ist.</item>
+                     <item>Orthografische Fehler des Schreibers, die nicht mit den fehlenden
+                                orthografischen Regeln der Zeit zu erklären sind, sondern
+                                tatsächlich Irrtümer darstellen, werden beibehalten (qua
+                                &lt;choice&gt; werden jedoch die Originalform &lt;orig&gt; und eine
+                                korrigierte Form &lt;reg&gt; nebeneinandergestellt).</item>
+                     <item>Zahlzeichen (arabische und römische Ziffern) werden vorlagengetreu
+                                wiedergegeben. Punkte nach Grundzahlen werden nicht wiedergegeben,
+                                nach Ordnungszahlen werden jedoch Punkte gesetzt.</item>
+                     <item>Die Interpunktion dient der Verständnishilfe und muss daher nicht
+                                dem Original folgen. Im Vergleich zum Original werden jedoch kaum
+                                Veränderungen vorgenommen.</item>
+                     <item>Abteilungsstriche werden als einfacher Strich, ⟨-⟩, transkribiert,
+                                da auch Zeilenumbrüche getaggt werden.</item>
+                     <item>Die seltenen Absätze und die (häufigen) Zeilen- und Seitenumbrüche
+                                werden beibehalten.</item>
+                     <item>Kürzungen und Ligaturen werden aufgelöst (zu &lt;choice&gt;
+                                s.u.).</item>
+                     <item>Bei lateinischen Wörtern wird der Buchstabenbestand im Allgemeinen
+                                beibehalten; ⟨j⟩ wird als ⟨i⟩ wiedergegeben, ⟨u⟩ und ⟨v⟩ werden nach
+                                dem Lautwert normalisiert, die Groß- und Kleinschreibung wird
+                                normalisiert, die Getrennt- und Zusammenschreibung folgt der
+                                Vorlage, alle Kürzungen und Ligaturen werden aufgelöst.</item>
+                     <item>Bei französischen Wörtern wird der Buchstabenbestand im
+                                Allgemeinen beibehalten; die Groß- und Kleinschreibung wird
+                                normalisiert, die Getrennt- und Zusammenschreibung folgt der
+                                Vorlage, Apostrophe werden entsprechend den heutigen Regeln
+                                gesetzt.</item>
+                     <item>Bei italienischen Wörtern wird der Buchstabenbestand im
+                                Allgemeinen beibehalten; ⟨j⟩ wird durch ⟨i⟩ ersetzt, ⟨u⟩ und ⟨v⟩
+                                werden nach dem Lautwert normalisiert, die Groß- und Kleinschreibung
+                                wird normalisiert, die Getrennt- und Zusammenschreibung folgt der
+                                Vorlage, alle Kürzungen und Ligaturen werden aufgelöst, Akzente und
+                                Apostrophe werden entsprechend den heutigen orthografischen Regeln
+                                gesetzt.</item>
+                  </list>
+                  <p xml:id="attems2-p-86">Die Transkription musste auch deshalb korrigiert werden, da die nicht den
+                            heutigen orthografischen Regeln folgenden Schreibungen von Wörtern immer
+                            wieder Leseschwierigkeiten bereiten. Neben vielen zeitgenössischen
+                            Schreibungen hatte es der Verfasser v.a. mit zwei wiederkehrenden
+                            Phänomenen zu tun:</p>
+                  <p xml:id="attems2-p-87">(1) Erstens ist das Possessivpronomen in „<hi rend="italic">Ihro
+                                Gnaden</hi>“ nicht als ⟨Ihre⟩, sondern Attems’ und anderen
+                            zeitgenössischen Schreibungen folgend als ⟨Ihro⟩<note place="foot" xml:id="zeilinger-ftn50" n="50">
+                        <hi rend="italic">Ihro</hi>: seit dem 17. Jahrhundert statt dem
+                                Possessivpronomen <hi rend="italic">Ihre</hi> oder <hi rend="italic">Eure</hi> vor Titeln, für beide Geschlechter, Singular und
+                                Plural, in allen Fällen, vgl. <hi rend="italic">Deutsches
+                                    Wörterbuch</hi>, s.v. „Ihro“.</note> zu transkribieren. Das
+                            Problem liegt darin, dass Attems den Vokal am Ende einmal deutlicher,
+                            einmal weniger deutlich als ⟨o⟩ schreibt.</p>
+                  <p xml:id="attems2-p-88">(2) Zweitens sind die Endungen -⟨m⟩ und -⟨n⟩ von Wörtern (Artikel,
+                            Possessivpronomen, Adjektive) im Dativ und Akkusativ zu nennen. Sie
+                            dürfen nicht durchgängig den schon im älteren Deutsch existierenden
+                            Formen wie auch der normierten deutschen Grammatik entsprechend
+                            transkribiert werden,<note place="foot" xml:id="zeilinger-ftn51" n="51">Vgl. <hi rend="italic">Deutsches Wörterbuch</hi>, s.v. „der, die,
+                                das“; Schmidt, <hi rend="italic">Geschichte</hi>, 265–269,
+                                424–429.</note> da Attems häufig den falschen Fall verwendet. Im
+                            Brief vom 16.11.1734 verwendet er dreimal den Akkusativ anstelle des
+                            Dativs (als wiederkehrendes Beispiel: „<hi rend="italic">meinen lieben
+                                geschwestert befehle mich, besonders den [!] franz
+                                antonerl</hi>“<note place="foot" xml:id="zeilinger-ftn52" n="52">Noch deutlicher in späteren Briefen. Angesichts anderer, klar
+                                geschriebener Endungen auf ⟨m⟩ kann das am Ende nach oben gezogene
+                                ⟨n⟩ auch nicht als undeutlich abgekürzte Endung gelten.</note>), im
+                            etwas längeren Schreiben vom 8.1.1735 verwendet er mindestens fünfmal
+                            den Akkusativ anstelle des Dativs (eine Stelle ist unklar), einmal den
+                            Dativ anstelle des Akkusativs und macht daneben zwei weitere Fallfehler.
+                            Der Grund für die auffällig hohe Fehlerzahl bleibt unklar (vielleicht
+                            die fehlende Normierung, der Einfluss umgangssprachlicher Varianten,
+                            eine Rechtschreibschwäche o.a.).</p>
+               </div>
+               <div xml:id="attems-comm.1.2.3">
+                  <head xml:id="attems2-head-48">Die TEI-Kodierung</head>
+                  <p xml:id="attems2-p-89">Die Transkription und Auszeichnung (das Tagging) der Texte erfolgte
+                            mithilfe des auf der Auszeichnungssprache XML (= Extensible Markup
+                            Language) basierenden Encoding-Standards TEI (= Text Encoding
+                            Initiative), aktuell TEI P5,<note place="foot" xml:id="zeilinger-ftn53" n="53"> Vgl. „Guidelines“, Text Encoding Initiative, Zugriff am 9
+                               September 2019, <ref target="https://tei-c.org/guidelines/">https://tei-c.org/guidelines/</ref> ; „TEI P5: Guidelines
+                                for Electronic Text Encoding and Interchange by the TEI Consortium“,
+                                Text Encoding Initiative, Zugriff am 9 September 2019,
+                               <ref target="https://tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf">https://tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf</ref>.</note>
+                            der wiederum die Ausgabe in anderen Dateiformaten (z.B. html, pdf etc.)
+                            erlaubt. Der Verfasser konnte die TEI-Transkription mithilfe der
+                            Reproduktionsscans der Originalbriefe kontrollieren und durchgängig
+                            taggen.</p>
+                  <p xml:id="attems2-p-90">Zum Taggen verschiedener, im Folgenden gelisteten Phänomene, wurden die
+                            standardisierten Elemente von TEI genutzt:<note place="foot" xml:id="zeilinger-ftn54" n="54">Für Elemente, Module etc. vgl. „TEI
+                                Elements“, Text Encoding Initiative, Zugriff am 10 September 2019,
+                               <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</note>
+                  </p>
+                  <list type="unordered" xml:id="attems2-list-2">
+                     <item>Der Briefkopf, bestehend aus dem Ort und dem Datum des Briefs und
+                                der Anrede des Briefempfängers, wird als &lt;opener&gt; getaggt. Die
+                                Zeile mit Ort und Datum wird als &lt;dateline&gt; getaggt, das Datum
+                                selbst als &lt;date when=“JJJJ-MM-TT“&gt; mit dem Attributwert im
+                                ISO-Standardformat, die Anrede als &lt;salute&gt;.</item>
+                     <item>Die einleitenden und schließenden Grußformeln werden mit
+                                &lt;salute&gt; getaggt. Dabei werden die kompletten Anreden à la
+                                    „<hi rend="italic">Ihro Gnaden Hoch- und Wohlgebohrner Reichs
+                                    Graff Gnädiger herr herr Vatter</hi>“ als &lt;salute&gt; mit
+                                inkludiertem Namen getaggt, ähnlich einem heutigen „Sehr geehrter
+                                Herr Attems“/„Dear Sir“. Die TEI-Definition von &lt;salute&gt; ist
+                                offen genug, um diese Gebrauchsweise zu erlauben.<note place="foot" xml:id="zeilinger-ftn55" n="55">
+                           <hi rend="italic">„&lt;salute&gt; (salutation) contains a
+                                        salutation or greeting prefixed to a foreword, dedicatory
+                                        epistle, or other division of a text, or the salutation in
+                                        the closing of a letter, preface, etc.</hi>“, vgl. „Appendix
+                                    C Elements: salute“, Text Encoding Initiative, Zugriff am 9
+                                    September 2019,
+                                   <ref target="https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-salute.html">https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-salute.html</ref>.</note>
+                     </item>
+                     <item>Als &lt;closer&gt; werden der Gruß (&lt;salute&gt;) mit
+                                inkludierter Unterschrift (&lt;signed&gt;&lt;name&gt;) und, bei den
+                                ersten drei Briefen, der am Ende befindlichen &lt;dateline&gt;
+                                getaggt.</item>
+                     <item>Abkürzungen werden mit &lt;expand&gt; aufgelöst (z.B.
+                                d&lt;expand&gt;a&lt;/expand&gt;s), Abkürzungszeichen als
+                                Auswahlmöglichkeit zwischen Abkürzung und ausgeschriebenem Wort
+                                transkribiert (z.B.
+                                Vulcan&lt;choice&gt;&lt;abbr&gt;g&lt;/abbr&gt;&lt;expan&gt;us&lt;/expan&gt;&lt;/choice&gt;).</item>
+                     <item>Der waagrechte Stich (Oberstrich bzw. Makron) als diakritisches
+                                Zeichen über ⟨m⟩ oder ⟨n⟩ als Abkürzung für einen Doppelkonsonanten
+                                wird als Auwahlmöglichkeit zwischen der Abkürzung als Combining
+                                Character aus Unicode und ausgeschriebenem Doppelkonsonant
+                                transkribiert. Als Abkürzungszeichen dient dabei die Combining
+                                Double Tilde (+ 0360).</item>
+                     <item>Bei orthografisch besonders eigenwilligen, d.h. von der heutigen
+                                orthografisch korrekten Form in mehr als einem Zeichen abweichenden
+                                und möglicherweise verwirrende Schreibungen werden als erste
+                                Entschlüsselung und Lesehilfe Transkriptionsvarianten angegeben,
+                                sodass für entsprechende Wörter bzw. Wortteile nun einerseits die
+                                diplomatisch transkribierte Originalform und daneben eine
+                                orthografisch normalisierte Form vorhanden sind (z.B.
+                                &lt;choice&gt;&lt;orig&gt;iezo&lt;/orig&gt;&lt;reg&gt;jetzt&lt;/reg&gt;&lt;/choice&gt;).</item>
+                     <item>Im Originaltext durch die Verwendung der Lateinschrift
+                                ausgezeichnete Wörter und Wortgruppen werden in der Transkription
+                                mit &lt;hi rend="italic"&gt; ausgezeichnet.</item>
+                     <item>Hochgestellte Buchstaben, wie die Zahlwortendungen nach als
+                                Zahlzeichen geschriebenen Ordnungszahlen, werden als &lt;hi
+                                rend="superscript"&gt; ausgezeichnet transkribiert.</item>
+                     <item>Durchgestrichenes wird transkribiert und als &lt;hi
+                                rend="strikeout"&gt; ausgezeichnet.</item>
+                     <item>Unterstreichungen, die höchstwahrscheinlich auch von Attems selbst
+                                stammen, werden als &lt;hi rend="underline"&gt; ausgezeichnet
+                                transkribiert, kommt aber selten vor.</item>
+                     <item>Einfügungen im Text werden mit &lt;add&gt; ausgezeichnet
+                                transkribiert.</item>
+                     <item>Die seltenen Einfügungen am Textrand, wie die jeweils einmal
+                                verwendeten Seitenumbruchssymbole ⟨Ø⟩ und ⟨O⟩,<note place="foot" xml:id="zeilinger-ftn56" n="56">Vgl. Attems, Brief, 26.11.1735;
+                                    Brief, 30.11.1735.</note> werden mit &lt;note&gt; ausgezeichnet
+                                transkribiert.</item>
+                     <item>Unklares bzw. Unleserliches wird mit &lt;unclear&gt; ausgezeichnet
+                                transkribiert.</item>
+                     <item>Beschädigte, z.B. durch Tintenflecken geschwärzte Stellen werden
+                                mit &lt;damage&gt; ausgezeichnet transkribiert.</item>
+                     <item>Von Attems so geschriebene fehlerhafte bzw. unpassende Wörter
+                                werden mit &lt;sic&gt; ausgezeichnet transkribiert.</item>
+                     <item>Zeilen- und Seitenumbrüche werden getaggt (&lt;lb/&gt;,
+                                &lt;pb/&gt;).</item>
+                     <item>Als Postskriptum hinzugefügte Textpassagen werden, sofern es sich
+                                um semantisch eindeutige Postskripta handelt (gekennzeichnet als
+                                    „<hi rend="italic">P. S.</hi>“ oder „<hi rend="italic">Nota</hi>“ oder durch eindeutige Positionierung), als
+                                &lt;postscript&gt; ausgezeichnet. Diese befinden sich auf
+                                Beiblättern oder im freien Bereich auf der letzten Textseite. Die
+                                Position von Brief- und Postskriptumszeilen zueinander wird nicht
+                                genauer angegeben. Meist enthält das PS eine kurze ‚Empfehlung‘
+                                Attems’ an seine Geschwister, z.T. finden sich darin auch Fragen
+                                oder kleinere Schilderungen.</item>
+                  </list>
+                  <p xml:id="attems2-p-91">Auch Namen wurden den genannten Regeln entsprechend transkribiert. Sie
+                            wurden mit dem allgemeinen („generic“) bzw. relativ offenen Element
+                                &lt;name&gt;<note place="foot" xml:id="zeilinger-ftn57" n="57">„<hi rend="italic">&lt;name&gt; (name, proper noun) contains a proper
+                                    noun or noun phrase.</hi>“, „TEI Elements“.</note> mit dem
+                            ebenso offenen Attributwert "person" oder "place" getaggt, um sie als
+                            Entitäten auszuzeichnen und maschinenlesbar zu machen. Personen,
+                            darunter Personennamen (z.B. „<hi rend="italic">Franz Antonerl</hi>“
+                            oder „<hi rend="italic">Voltaire</hi>“), Rollennamen und Wortgruppen
+                            (z.B. „<hi rend="italic">Ihro Gnaden</hi>“ oder „<hi rend="italic">der
+                                Kayser</hi>“), wurden als &lt;name type="person"&gt; getaggt,
+                            Pronomen wurden nicht getaggt. Getaggt wurden somit alle im Text
+                            enthaltenen Personen, deren Namen angegeben sind oder bei denen eine
+                            gewisse Chance besteht, sie im Zuge von weiteren, nicht ausufernden
+                            Recherchen zu identifizieren. So handelt es sich bei „<hi rend="italic">Ihro Gnaden beyderseits</hi>“ um den Vater Franz Dismas und die
+                            Stiefmutter Maria Juliana,<note place="foot" xml:id="zeilinger-ftn58" n="58">Vgl. Bundschuh, „Verlassenschaftsinventare“, 122; Ilwof, <hi rend="italic">Attems</hi>, 19–20, 203.</note> „<hi rend="italic">der Kayser</hi>“ ist Kaiser Karl VI. Nicht getaggt wurden
+                            indefinite Gruppen, wie z.B. „<hi rend="italic">die vier doctores</hi>“
+                            im Brief vom 26.11.1735, oder Regimenter mit den adeligen Namen, wie
+                            z.B. „<hi rend="italic">Von dem lobkowzischen Regiment</hi>“ im Brief
+                            vom 25.2.1736. Orte, darunter Städte, Schlösser, Länder, der Kontinent
+                            Europa, aber auch Flüsse, also Geografika bzw. Toponyme im weiten Sinn,
+                            wurden als &lt;name type="place"&gt; getaggt. Die weiten Begriffe
+                            ermöglichen das Taggen von grundsätzlich allen auffindbaren Personen und
+                            Orten, von denen Attems erzählt. Die Schreibung der Namen folgt dem
+                            Original und den genannten Transkriptionsregeln, sie wurde somit
+                            innerhalb des Textes nicht normalisiert. Durch das Taggen ist allerdings
+                            ein Verweis auf normalisierte Schreibungen bzw. das Vergeben von IDs
+                            möglich. Gerade bei den Namen fällt jedoch auf, dass die Schreibungen
+                            derselben Namen, v.a. bei den Ortsnamen, untereinander kaum variieren,
+                            also doch gewissen (ungeschriebenen) Normen folgen.</p>
+                  <p xml:id="attems2-p-92">Auf Grundlage der getaggten Personen und Orte konnte von Metoda Kokole,
+                            Željko Oset, Miha Preinfalk und Luka Vidmar eine Liste mit
+                            entsprechenden Namen erstellt werden. Dazu konnte der Verfasser dem
+                            Projekt die entsprechenden IDs der <hi rend="italic">Gemeinsamen
+                                Normdatei</hi> (= GND)<note place="foot" xml:id="zeilinger-ftn59" n="59">Zur Suche der GND-IDs vgl. „Katalog der Deutschen
+                                Nationalbibliothek“, Deutsche Nationalbibliothek, Zugriff am 31
+                                August 2019,
+                                   <ref target="https://portal.dnb.de/opac.htm?method=simpleSearch&amp;query">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;query</ref>.</note>
+                            als mögliche Uniform Resource Identifiers (= URIs) zur Authority Control
+                            zur Verfügung stellen. Die Ortsnamen sind problemlos in der GND zu
+                            finden, bei den Personennamen wird es schwieriger. Insgesamt konnten mit
+                            Bearbeitungsstand vom 31.05.2019 über 150<note place="foot" xml:id="zeilinger-ftn60" n="60">Mit Bearbeitungsstand vom 15.11.2019
+                                149 Personennamen exklusive indefinite Namen.</note> Personennamen
+                            (627 Tags) und über 140 Ortsnamen (336 Tags) getaggt werden.</p>
+               </div>
+            </div>
+            <div xml:id="attems-comm.1.3">
+               <head xml:id="attems2-head-49">Primärquellen</head>
+               <p xml:id="attems2-p-93">Steiermärkisches Landesarchiv. A. Attems, Familie und Herrschaften, K. 19, H.
+                        87, Ignaz Maria von Attems-Heiligenkreuz, Briefe, 16.11.1734–5.10.1738.</p>
+               <p xml:id="attems2-p-94">
+                  <hi rend="bold">Die verwendete Literatur ist ausschließlich in den Fußnoten
+                            angegeben.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="study" xml:id="attems-comm.2" xml:lang="en">
+            <head xml:id="attems2-head-50">The Travelling Gentleman Count Ignaz Maria Attems the Younger: His Ancestors
+                    and Descendants in the Slovenska Bistrica Branch of the Attems Family</head>
+            <docAuthor xml:id="attems2-docAuthor-3">(Miha Preinfalk) </docAuthor>
+            <div xml:id="attems-comm.2.1">
+               <head xml:id="attems2-head-51">The young count embarks on a journey</head>
+               <p xml:id="attems2-p-95">In October 1734 the twenty-year-old Count Ignaz Maria Attems left his native
+                        city of Graz in the watchful company of his tutor <hi rend="italic">Hoffmaister</hi> Westerhold and set out on the ‘gentleman’s journey’
+                        (the so-called Grand Tour) that was the compulsory practical part of every
+                        young nobleman’s education. The itinerary led him first to Würzburg and
+                        other German cities, then to Prague, the Dutch city of Leiden and France,
+                        and finally to Italy. The main objective of such journeys was to educate
+                        young noblemen and broaden their horizons, which was seen as a necessary
+                        task for the heir to a hereditary landed property and future active steward
+                        of the territorial estates. On his journey the young count learned about the
+                        culture, art, politics and society of each territory visited, and he wrote
+                        extensively about everything to his family back in Graz (thirty-four letters
+                        to his father have been located to date). After four years, in October 1738,
+                        Ignaz Maria, enriched by a bounty of new experiences, impressions and
+                        knowledge, finally returned to his native Styria. <note place="foot" xml:id="preinfalk-ftn1" n="1">His Grand Tour was first studied, from a
+                            musicological point of view, by Metoda Kokole in 2014. Metoda Kokole,
+                            “Glasbeni utrinki s potovanja štajerskega plemiča po Evropi 18.
+                            stoletja”, <hi rend="italic">Muzikološki zbornik</hi> 51, no. 1 (2015):
+                            58–61. See also her later texts on this subject: Ead., “Migrations of
+                            Musical Repertoire: The Attems Music Collection from around 1744”, in
+                                <hi rend="italic">Musicians’ Mobilities and Music Migrations in
+                                Early Modern Europe: Biographical Patterns and Cultural
+                                Exchanges</hi>, ed. Gesa zur Nieden and Berthold Over (Bielefeld:
+                            Transcript Verlag, 2016), 341–377, and “The Lasting Musical Effects of
+                            the Italian Grand Tours of Ignaz Maria von Attems-Heiligenkreutz
+                            (1714–1762) and Thomas Gray (1716–1771), <hi rend="italic">Arti
+                                musices</hi> 47, nos. 1–2 (2016): 79–90.</note>
+               </p>
+               <p xml:id="attems2-p-96">Who was Ignaz Maria; what family did he belong to; who were his relatives;
+                        and what was the fate of his descendants?</p>
+            </div>
+            <div xml:id="attems-comm.2.2">
+               <head xml:id="attems2-head-52">The origin and rise of the Attems family</head>
+               <p xml:id="attems2-p-97">The Attems were an old noble family named after the Attems Castle in Friuli
+                        (Attimis by Nimis; in Slovenian, Ahten pri Nemah), situated on the
+                        Slavic–Romance linguistic boundary north-east of Udine and south-east of
+                        Gemona. <note place="foot" xml:id="preinfalk-ftn2" n="2">On the Attems family in
+                            general, see, for example: Franz Ilwof, <hi rend="italic">Die Grafen von
+                                Attems: Freiherren von Heiligenkreuz in ihrem Wirken in und für
+                                Steiermark</hi>. Forschungen zur Verfassungs- und
+                            Verwaltungsgeschichte der Steiermark 2, bk. 1 (Graz: Styria, 1897);
+                            Ulrike Frank and Ferdinand Šerbelj, “Kratka zgodovina grofov Attems”, in
+                                <hi rend="italic">Zbornik občine Slovenska Bistrica</hi>, ed. Ferdo
+                            Šerbelj (Slovenska Bistrica: Skupščina občine, Kulturna skupnost, 1990),
+                            2:144–161 (including the list of earlier literature provided there); by
+                            far the most comprehensive work on the Attems, is, however a typewritten
+                            document by Maria Viktoria Attems-Pallavicino entitled <hi rend="italic">Familiengeschichte</hi> in the “Familienarchiv Attems” housed in
+                            the in the Styrian Provincial Archives in Graz. The text was compiled by
+                            a member of the family, Maria Viktoria Attems-Pallavicino (1899–1983),
+                            in the mid-twentieth century (1950–1970) but has never been published.
+                            Individual copies are kept also by members of the family or their
+                            relatives. The contribution at hand is largely based on this monumental
+                            work, especially fascicle VI containing chapters 1–8. </note> Although
+                        the first written mention of the castle dates back to the early twelfth
+                        century, its actual origins reach back further. Whereas some historians link
+                        the first Attems with the German Counts of Montfort, the family left its
+                        earliest, more tangible traces in the thirteenth century after it divided
+                        into the branches of Attems-Orso and Attems-Trident. An important place in
+                        Slovenian history was held by the latter, which produced family lines that
+                        lived and worked in the territory of the Habsburg Monarchy until the
+                        twentieth century, and have survived in Italy and Austria up to modern
+                        times. Their coat of arms features a three-point argent on a red
+                        escutcheon.</p>
+               <p xml:id="attems2-p-98">The rise of the Attems family is closely related to the evolution of the
+                        County of Gorizia under Habsburg rule after 1500. The Attems started to
+                        forge a close affiliation with the Habsburg territories when, shortly before
+                        his death, the new territorial prince of Gorizia, Emperor Maximilian I,
+                        offered the post of court counsellor to Friedrich Attems (1447–1517), who
+                        had already held the high office of court chancellor under Leonard, the last
+                        Count of Gorizia. In the first half of the sixteenth century, the Attems
+                        still mostly lived in their Friuli and Gorizia estates, where they held
+                        important positions as chancellors, counsellors and territorial governors.
+                        The central Attems estate in Gorizia was Heiligenkreuz (in Slovenian, Sveti
+                        Križ, today Vipavski Križ) in the Vipava valley, which Friedrich’s
+                        great-grandson Hermann Attems (1564–1611) bought from the Counts of
+                        Thurn-Valsassina in 1605. That same year Hermann was promoted to the rank of
+                        baron and given the predicate of nobility Heiligenkreuz (twenty-five years
+                        later his widow Ursula and their children were further elevated to the rank
+                        of counts). This marked the establishment of the family line that still
+                        bears the official name of Attems- Heiligenkreuz and distinguishes itself
+                        from the other, likewise still existing, line of Attems-Petzenstein, whose
+                        origins date to the sixteenth century, when Hermann’s second uncle Andreas
+                        Attems (1527–1597) built a palace at Peci in Friuli (in Slovenian, Peč; in
+                        German, Petzenstein: today in Italy, close to Miren in Slovenia) on the
+                        Italian side of the present-day border. Archduke Karl granted that palace
+                        the right to asylum and bestowed upon Andreas Attems the predicate of
+                        Attems-Petzenstein. The castles that gave their names to the two distinct
+                        branches of the Attems family have both become ruins, whereas the Capuchin
+                        monastery that the Attems built in the 1630s still stands today in Vipavski
+                        Križ.</p>
+               <p xml:id="attems2-p-99">In 1582 Friedrich’s grandson Jakob Adam Attems (1526–1590) moved to Graz at
+                        the behest of Archduke Karl, thereby introducing his successors to a new
+                        living environment—that of Styria. The family went on to flourish in this
+                        Habsburg territory under Jakob Adam’s great-grandson Ignaz Maria
+                        (1652–1732), who is considered the founder of the Styrian branch of the
+                        Attems family.</p>
+            </div>
+            <div xml:id="attems-comm.2.3">
+               <head xml:id="attems2-head-53">Grandfather Ignaz Maria the Elder—“the establisher of material and family
+                        foundations”</head>
+               <p xml:id="attems2-p-100">Although he was born on 15 August 1652 in Ljubljana and had no early ties
+                        with Styria,<note place="foot" xml:id="preinfalk-ftn3" n="3">Based on document: NŠAL,
+                            ŽA Ljubljana-Sv. Nikolaj, Matične knjige, R 1643–1653, fol.
+                            304–305.</note> the wealthy landowner and patron of the arts Ignaz Maria
+                        Count Attems became a central figure for Styrian history at the turn of the
+                        eighteenth century.<note place="foot" xml:id="preinfalk-ftn4" n="4">My discussion of
+                            Ignaz Maria the Elder and his successors in general is based mostly on
+                            Attems-Pallavicino’s typescript, VI/1. See note 2.</note> His father
+                        Johann Friedrich (1593–1663), the vidame of Carniola, remarried for the
+                        third time a few years before Ignaz’s birth. After burying two wives who had
+                        given him five children, he married Marquise Franziska Strozzi, who bore him
+                        six more, including Ignaz Maria as the penultimate child. However, the happy
+                        family’s life would soon be shattered: at the age of eleven Ignaz Maria lost
+                        his father, and three years later his mother died as well. Whereas almost
+                        nothing is known about his early childhood, a few further, albeit not
+                        completely reliable, details have been preserved with regard to the boy’s
+                        education. He undoubtedly attended school in Graz, and probably before that
+                        also in Gorizia, whereas claims that he attended the high school in Ruše are
+                        probably erroneous or fabricated.<note place="foot" xml:id="preinfalk-ftn5" n="5">
+                            Barbara Murovec, “Historizirana podoba naročnika: Attemsova družinska
+                            portreta in Rembov avtoportret iz brežiškega gradu”, <hi rend="italic">Acta historiae artis Slovenica</hi> 23, no. 1 (2018): 113–131, 238
+                            (especially 116–117).</note> There is likewise no doubt regarding his
+                        ‘gentleman’s journey’ through Italy, and some indirect indications further
+                        suggest that Ignaz Maria may have also travelled to other lands (e.g.
+                        France). On returning from his journey, he made a short stop in Ljubljana
+                        and ultimately settled down in Styria after being named a councillor of the
+                        Inner Austrian Court Chamber in Graz. <note place="foot" xml:id="preinfalk-ftn6" n="6"> Murovec, “Historizirana podoba naročnika”, 117–120.</note>
+               </p>
+               <p xml:id="attems2-p-101">While his elder brother Johann Franz Anton continued the so-called
+                        Heiligenkreuz branch of the Attems family, Ignaz Maria founded a new family
+                        branch that was later named after Slovenska Bistrica, one of his numerous
+                        estates. Well-known for his prudent investment in landed property and its
+                        diligent management, Ignaz Maria became one of the wealthiest noblemen in
+                        Styria. Thus at the end of the seventeenth century and during the first
+                        decades of the eighteenth century (leaving aside his main residence, the
+                        palace in Graz), his estates comprised the seigniories (demesnes) and
+                        castles of Štatenberg (Stattenberg), Podčetrtek (Windisch Landsberg),
+                        Slovenska Bistrica (Windisch Feistriz), Hartenštajn (Hartenstein), Pilštanj
+                        (Peilenstein) and Brežice (Rann), plus Rajhenburg (Reichenburg), which he
+                        merged with Turn below the castle; all these estates lie today in Slovenia.
+                        Ignaz Maria also bought the seigniory of Gösting near Graz with its office
+                        in Aigen. By hiring distinguished architects and painters, Ignaz Maria
+                        converted his buildings into architectural artworks (one of his most
+                        magnificent commissions was the painting of the Knights’ Hall in Brežice
+                        Castle). His commissions set a trend and standard for Baroque-style building
+                        in Styria. <note place="foot" xml:id="preinfalk-ftn7" n="7">On Ignaz Maria Attems’
+                            commissions and creation of a family empire, see especially Murovec,
+                            “Historizirana podoba naročnika”, 113–131; and Dejan Zadravec,
+                            “Postavitev in postavljavec materialnih in rodbinskih temeljev plemiške
+                            družine Attems na Štajerskem”, in <hi rend="italic">Zbornik občine
+                                Slovenska Bistrica</hi>, vol. 3, <hi rend="italic">Svet med Pohorjem
+                                in Bočem</hi>, ed. Stanislav Gradišnik (Slovenska Bistrica: Zavod za
+                            kulturo Slovenska Bistrica, 2009), 99–114 (especially
+                        100–114).</note>
+               </p>
+               <p xml:id="attems2-p-102">Ignaz Maria was married twice; first in 1685 to Countess Maria Regina
+                            Wurmbrand-Stuppach,<note place="foot" xml:id="preinfalk-ftn8" n="8">Based on
+                            document: DGS, Pfarre Graz—Hl. Blut, TrB 1675–1700, fol. 461.</note> who
+                        bore him seven children: a daughter Karolina (who later married Count
+                        Sigmund Trauttmansdorff)<note place="foot" xml:id="preinfalk-ftn9" n="9">Based on
+                            document: DGS, Pfarre Graz—Hl. Blut, TrB 1700–1714, fol. 390.</note> and
+                        six sons, two of whom died at a tender age. Only the two eldest sons created
+                        their own families, with material foundations provided by their father Ignaz
+                        Maria, who had to this end formed two family trusts out of his vast estate.
+                        The eldest son, Franz Dismas, obtained an inheritance comprising the family
+                        palace in Graz as well as the seignories of Brežice, Gösting, Slovenska
+                        Bistrica, and Štatenberg. His younger brother, Thaddäus Kajetan, inherited
+                        Podčetrtek, Hartenštajn, and Rajhenburg from his father and later also came
+                        into the possession of other landed properties, including Dornava, which his
+                        brother Franz Dismas purchased for him. <note place="foot" xml:id="preinfalk-ftn10" n="10">Zadravec, “Postavitev in postavljalec”, 111. On the Attems at
+                            Rajhenburg Castle, see also Lidija Slana, “Lastniki Rajhenburga med 16.
+                            in 19. stoletjem (1570–1881)”, <hi rend="italic">Kronika</hi> 61, no. 3
+                            (2013): 519–540 (especially 532–536). On the Attems and Dornava, see for
+                            example Igor Weigl, “Dvorec Dornava v času Marije grofice Auersperg,
+                            rojene grofice Attems”, in <hi rend="italic">Grofičini šopki: Marija
+                                Auersperg Attems</hi>, (Kranj: Gorenjski muzej, 2009), 35–44.</note>
+                        The family branch initiated by Thaddäus Kajetan died out in its male line
+                        already in the next generation, whereas the line descending from Franz
+                        Dismas continues today.</p>
+               <p xml:id="attems2-p-103">The two younger sons of Ignaz Maria never married and devoted their lives to
+                        the Church. Ernst Gottlieb (1694–1757) was the Prince-Bishop of Ljubljana in
+                        the period between 1743 and 1757 and demonstrated his architectural fervour
+                        by the renovation of the episcopal palace in Ljubljana as well as an
+                        extensive restoration of the mansion in Goričane (Görtschach, a few
+                        kilometres Nord form Ljubljana). Although he himself spoke poor Slovenian,
+                        Ernst Gottlieb encouraged his clergy to learn and use what was the
+                        predominant language in Carniola. <note place="foot" xml:id="preinfalk-ftn11" n="11">
+                            France M. Dolinar, “Attems (Attemis, Atthembs), Ernest Amadeus
+                            (Gottlieb) Thomas Reichsgraf von (1694–1757)”, in <hi rend="italic">Die
+                                Bischöfe des Heiligen römischen Reiches: 1648 bis 1803</hi>, ed.
+                            Erwin Gatz (Berlin: Duncker &amp; Humblot, 1990), 15–16.</note> The
+                        youngest son, Ferdinand Hyacinth, joined the Jesuit Order and died in Parma
+                        at the early age of twenty-eight years.</p>
+               <p xml:id="attems2-p-104">A few months after the death of his first wife in 1715 Ignaz Maria was wedded
+                            again,<note place="foot" xml:id="preinfalk-ftn12" n="12">Based on document: DGS,
+                            Pfarre Graz—Hl. Blut, TrB 1715–1726, fol. 48.</note> this time to the
+                        twice-widowed Countess Christiana Herberstein, who brought the Vurberk
+                        (Wurmberg) seigniory into the marriage. Both unions, especially the second,
+                        were of strategic value to Ignaz Maria, since both wives were members of the
+                        Styrian nobility, thereby consolidating his status among the territorial
+                        elite. He died in 1732 at the relatively old age of eighty and was buried in
+                        the Franciscan church in Graz. <note place="foot" xml:id="preinfalk-ftn13" n="13">
+                            Based on document: DGS, Pfarre Graz—Hl. Blut, SB 1723–1742, fol.
+                            632.</note> Christiana died five years later.<note place="foot" xml:id="preinfalk-ftn14" n="14">Based on document: DGS, Pfarre Graz—Hl. Blut, SB
+                            1723–1742, fol. 911.</note>
+               </p>
+            </div>
+            <div xml:id="attems-comm.2.4">
+               <head xml:id="attems2-head-54">Father Franz Dismas—the prolific head of family</head>
+               <p xml:id="attems2-p-105">After the death of Ignaz Maria the Attems family branch based in Slovenska
+                        Bistrica was continued by his eldest son Franz Dismas, born in 1688.<note place="foot" xml:id="preinfalk-ftn15" n="15">On Franz Dismas in general and his
+                            successors, see Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/2.</note> More on his life too becomes
+                        revealed only after his transition into adulthood. He received his education
+                        at the archducal collegium in Graz and then, accompanied by his first tutor,
+                        he travelled to the Dutch city of Leiden, where he studied at the local
+                        university for two years. Upon his return (1712) he was appointed
+                        chamberlain and Inner Austrian councillor. A few years later he was promoted
+                        to the position of vice-president of the Styrian territorial estates, and he
+                        was part of the delegation that in 1728 welcomed the imperial family—more
+                        specifically, in July of that year Emperor Karl VI received in Graz the
+                        hereditary homage of the Styrian territorial estates.</p>
+               <p xml:id="attems2-p-106">After his father’s death in 1732 Franz Dismas inherited vast estates and
+                        proved himself to be a good administrator. In 1736 he bought for his brother
+                        the Dornava seigniory from Count Josef Saurau. That same year he was made a
+                        privy counsellor to the emperor and vice-president of the Inner Austrian
+                        Court Chamber; two years later he assumed its presidency. After he had held
+                        this office for over a decade, the Court Chamber was abolished in 1748 as
+                        part of the Theresian reforms. In March 1750 Empress Maria Theresa chose
+                        Franz Dismas in compensation to become president of the highest Inner
+                        Austrian auditing body (its Court). However, his tenure was brief, since he
+                        died that same year. <note place="foot" xml:id="preinfalk-ftn16" n="16">Based on
+                            document: DGS, Pfarre Graz—Hl. Blut, SB 1742–1754, fol. 564.</note>
+               </p>
+               <p xml:id="attems2-p-107">Franz Dismas inherited his father’s flair for art and architecture. It was at
+                        his father’s behest that he too summoned to Styria the Italian architect
+                        Camesini to build him the Štatenberg mansion. Father Ignaz Maria then
+                        designated the mansion as the seat of a new majorat (a property inheritable
+                        where possible through primogeniture) and left it to the children from Franz
+                        Dismas’ second marriage.</p>
+               <p xml:id="attems2-p-108">Just like his father before him, Franz Dismas married twice. In 1713, he tied
+                        the knot for the first time to Countess Sophia Herberstein,<note place="foot" xml:id="preinfalk-ftn17" n="17">Based on document: DGS, Pfarre
+                            Graz—Hl. Blut, TrB 1700–1714, fol. 450.</note> whose mother Christiana
+                        would later become his stepmother. Sophia bore him two sons—one of whom,
+                        Ignaz Maria the younger, would later become the founder of the Slovenska
+                        Bistrica family branch—before dying in 1715 at the young age of
+                            twenty-one.<note place="foot" xml:id="preinfalk-ftn18" n="18">Based on document:
+                            DGS, Pfarre Graz—Hl. Blut, SB 1705–1722, fol. 481.</note> Two years
+                        later the widowed Franz Dismas married again, his new bride being Countess
+                        Juliana Wildenstein.<note place="foot" xml:id="preinfalk-ftn19" n="19">Based on
+                            document: DGS, Pfarre Graz—Hl. Blut, TrB 1715–1726, fol. 122.</note>
+                        This marriage produced seventeen more children, eleven of whom never reached
+                            adulthood.<note place="foot" xml:id="preinfalk-ftn20" n="20">A somewhat
+                            distasteful anecdote has passed down in the family lore: when Franz
+                            Dismas was presented with the funeral costs for another of his children,
+                            he allegedly said: “But it had better be cheaper next year!”</note> Two
+                        sons were unable to hear or speak. This evidently genetic disorder was
+                        probably a result of so-called cousin marriage, since the wife of Franz
+                        Dismas was the daughter of his cousin; in other words, his cousin was at the
+                        same time his mother-in-law.</p>
+               <p xml:id="attems2-p-109">With the eldest son from his first marriage, Ignaz Maria the Younger,
+                        inheriting the property of the family trust set up by his grandfather plus
+                        Vurberk seigniory, Franz Dismas concerned himself mainly with providing for
+                        his younger sons. He removed the seigniory of Gösting and its office in
+                        Aigen from his father’s trust and converted them into allodial (freehold)
+                        estates, which he then left to his son Franz Anton (1729–1788), whom he also
+                        named as his principal heir in his last will and testiment (1749). The
+                        so-called Gösting family branch of the Attems family continued in existence
+                        right up to the twentieth century. Franz Dismas’ eldest son from his second
+                        marriage, named Dismas for short (1718–1765), established a family as well
+                        and took over Štatenberg after his father’s death in 1750. However, having
+                        produced seven daughters and no sons, his family branch died out already in
+                        the next generation.</p>
+               <p xml:id="attems2-p-110">Three of Franz Dismas’ sons devoted their lives to the Church: particularly
+                        the two who suffered from deafness and speech impediments, conditions that
+                        prevented them from living a normal life. Sigmund (1720–1754) joined the
+                        Cistercian Order in Rein, while the younger son, Friedrich (1739–1818),
+                        joined the Augustinian Order in Vorau. Although a third brother, Josef
+                        (1734–1820), was born without any physical or mental disability, he too
+                        embarked on an ecclesiastical career at the request of his old uncle (or,
+                        rather, his grandfather’s brother), Ernst Gottlieb, bishop of Ljubljana, who
+                        smoothed the boy’s way up the ecclesiastical ladder. Josef accordingly
+                        became a canon at Olomouc Cathedral at the age of fifteen. A few years later
+                        he was also given a canonry in Salzburg, which his aged uncle renounced in
+                        his favour. One year after Ernst’s death Josef was admitted in addition to
+                        the cathedral chapter in Passau, thereby becoming at the young age of
+                        twenty-four a canon in three of the most important cathedral chapters of the
+                        Empire. In 1777 the archbishop of Salzburg, Hieronymus Colloredo, appointed
+                        him president of the Court Council. The final years of Josef’s life were
+                        disturbed by the tumultuous Napoleonic Wars. Salzburg initially became a
+                        secular princedom in 1803; a few years later it fell under Austrian rule,
+                        then Bavarian rule, and finally Austrian rule again. During that period
+                        Josef Attems resided variously in Salzburg and Passau, but once a peace
+                        treaty had been concluded he remained in Salzburg, where he died at a very
+                        old age in 1820.</p>
+            </div>
+            <div xml:id="attems-comm.2.5">
+               <head xml:id="attems2-head-55">Ignaz Maria the Younger—a ‘travelling gentleman’</head>
+               <p xml:id="attems2-p-111">On his death in 1750 Franz Dismas, at that time the head of the Slovenska
+                        Bistrica branch of the Attems family, was succeeded by his eldest son Ignaz
+                        Maria (1714–1762),<note place="foot" xml:id="preinfalk-ftn21" n="21">On Ignaz Maria
+                            the Younger, see: Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/3.</note> born on 27 February 1714 in
+                        the Attems palace located in the Sackstrasse in Graz. At his christening he
+                        was given the name Ignaz Maria after his father’s father (who was also his
+                        godfather) plus the names Maximilian, Dismas, Josef and Leander. <note place="foot" xml:id="preinfalk-ftn22" n="22">Based on document: DGS, Pfarre
+                            Graz—Hl. Blut, TB 1707–1720, fol. 410.</note> To avoid confusion with
+                        his grandfather he was—at least until his namesake’s death—known by his
+                        first and last Christian names, i.e. as Ignaz Leander. Since he lost his
+                        mother at a very tender age and his father did not remarry quickly, Ignaz
+                        Leander was placed in foster care, as was customary during that period. His
+                        foster mother was a commoner named Anna Maria Popp. It was only after his
+                        father married again and gave him a stepmother that the boy was taken from
+                        his foster home and returned to his family.</p>
+               <p xml:id="attems2-p-112">After his father’s death Ignaz Maria inherited most of his property, and even
+                        before that he had come into possession of Vurberk via Christiana
+                        Herberstein, the second wife of his grandfather—or, rather, his father’s
+                        stepmother (and mother-in-law). At the age of twenty he set out on a
+                        four-year-long ‘gentleman’s journey’ across Europe (Bohemia, German states,
+                        the Netherlands and Italy). <note place="foot" xml:id="preinfalk-ftn23" n="23">
+                            Kokole, “Glasbeni utrinki”, 57–79.</note> On his return he immediately
+                        offered his services to his native Styria and was appointed as a councillor
+                        of the Inner Austrian government in Graz. He also held the offices of
+                        chamberlain and a privy counsellor at the court of Charles VI, and later
+                        that of his daughter Maria Theresa. Apart from being renowned as an
+                        excellent horse rider, Ignaz Maria was also a passionate hunter. Therefore,
+                        it is not surprising that in Slovenska Bistrica, where he also renovated the
+                        local castle, he ran a riding school founded by his father. Following his
+                        father’s death Ignaz Maria also established a stud farm at Brežice, which
+                        around 1760 boasted 160 mares and foals. Though famous far and wide, this
+                        stud farm was an extremely expensive enterprise.</p>
+               <p xml:id="attems2-p-113">Before long Ignaz Maria also ensured the continuation of his lineage. On
+                        returning from his ‘gentleman’s journey’, he met his future wife: a
+                        noblewoman from the Tyrol, Josefa Countess Khuen-Belasi, who reportedly
+                        distinguished herself “more for her sparkle and authenticity than her
+                        beauty.” At the end of October 1739 Ignaz Maria led her to the altar in the
+                        castle chapel of the Liechtenstein Castle in Guntramsdorf near Vienna.<note place="foot" xml:id="preinfalk-ftn24" n="24">The castle is no longer there; after
+                            the Second World War a garrison of Soviet soldiers did so much damage to
+                            it that it was razed to the ground in 1951.</note> The wedding ceremony
+                        was conducted by Ignaz Maria’s uncle Ernst Gottlieb Attems, then still the
+                        Bishop of Dragovitia (Thrace). Prince Emmanuel of Liechtenstein and Count
+                        Sigismund Friedrich Khevenhüller, a deputy in Lower Austria, acted as best
+                            men.<note place="foot" xml:id="preinfalk-ftn25" n="25">Based on document: EW,
+                            Pfarre Guntramsdorf, Tauf-, Trauungs- und Sterbebuch 1732–1760, fol. 16
+                            (TrB).</note> During the next two decades the young couple produced a
+                        dozen children, among whom only a single son died at a tender age.</p>
+               <p xml:id="attems2-p-114">For most of the time Ignaz Maria resided with his wife and children in the
+                        Attems family palace in the Sackstrasse in Graz. He died in 1762, still
+                        relatively young, at the age of forty-eight. Having suffered from illness
+                        since early childhood, he often donated generous sums of money to honour the
+                        Madonna, including that of Vurberk, as his protectress against hardships.
+                        During the 1760s his health rapidly plummeted after he contracted pneumonia,
+                        which developed into pulmonary edema. In the spring of 1762 Ignaz Maria
+                        travelled for medical consultations to Vienna, from where he never returned.
+                        He died at 8 p.m. on 15 June “am hohen Markt im Albrechtsburgischen Haus”
+                        and found his final resting place in the crypt of the Church of Our Dear
+                        Lady of the Scots in Vienna. <note place="foot" xml:id="preinfalk-ftn26" n="26">Based
+                            on document: EW, Pfarre Wien—St. Stephan, SB 1761–1764, fol.
+                        92.</note>
+               </p>
+               <p xml:id="attems2-p-115">In his last will Ignaz Maria named his eldest son Ferdinand as his principal
+                        heir, while apportioning the residue of his estate among his other children
+                        and instructing his wife to provide them all with education befitting their
+                        rank. At his request Requiems were recited in the Franciscan monastery at
+                        Graz as well as in Slovenska Bistrica, Brežice, Krško and Ptuj.</p>
+               <p xml:id="attems2-p-116">Although she became a widow with eleven children to support at the age of
+                        only forty, his wife Josefa proved to be a decisive, energetic and capable
+                        woman who managed to preserve the family property after her husband’s early
+                        death. She rented out the palace in Graz and moved into a smaller apartment
+                        as well as renouncing her widow’s allowance. Empress Maria Theresa, to whom
+                        Josefa was very close, offered help and invited several of her children to
+                        the imperial court. Josefa herself, apart from being a Dame of the Order of
+                        the Starry Cross, also became the grand mistress of the empress’s daughter,
+                        Archduchess Maria Elisabeth. Like her husband before her, Josefa died, in
+                        the spring of 1784, in Vienna. She was buried in the local Augustinian
+                        church situated a stone’s throw away from her husband’s final resting
+                        place.</p>
+            </div>
+            <div xml:id="attems-comm.2.6">
+               <head xml:id="attems2-head-56">Ill-fated: the children of Ignaz Maria the Younger</head>
+               <p xml:id="attems2-p-117">Destiny scattered Ignaz Maria’s children all over Europe.<note place="foot" xml:id="preinfalk-ftn27" n="27">On the children of Ignaz Maria the Younger, see
+                            Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>,
+                            VI/3.</note> The two eldest daughters Josefa (1740–1802) and Juliana
+                        (1741–1802) became ladies-in-waiting in Vienna and never married. They lived
+                        most of their lives in a shared apartment in the centre of Vienna as well as
+                        finally bidding farewell to this world together—ten days apart from each
+                        other—in May 1802.<note place="foot" xml:id="preinfalk-ftn28" n="28">Based on
+                            document: EW, Pfarre Wien—Unsere Liebe Frau zu den Schotten, SB
+                            1792–1806, fols. 141, 142.</note> All their younger sisters likewise
+                        remained unmarried. The third-born, Anna (1743–1789), was a member of the
+                        monastic chapter (<hi rend="italic">Kapitularin</hi>) at the
+                        Imperial-and-Royal Institution of Noble Ladies (<hi rend="italic">Damenstift</hi>) in Hradčany, while the fourth-born, Amalia
+                        (1744–1818), returned to her mother’s Tyrolean roots by becoming a member of
+                        the Imperial-and-Royal Institution of Noble Ladies in Innsbruck, where she
+                        lived through the tumultuous period that the Tyrol underwent at the turn of
+                        the nineteenth century. After witnessing both the dissolution and
+                        reestablishment of the Institution of Noble Ladies, she became its first
+                        grand dean at the end of 1816 and died soon afterwards, in the early part of
+                        1818. The youngest of the daughters, Theresia (1748–1804), was admitted to
+                        an institution of noble ladies as well, but one further away from home,
+                        since Empress Maria Theresa secured her a place in the secular Institution
+                        of Noble Ladies at Sainte Waudru in the Southern Netherlandish city of Mons.
+                        She, too, was caught up in a turbulent turn of events that were sparked by
+                        the French Revolution and which forced the noble ladies to leave the
+                        institution in Mons. Because the war prevented Theresia from returning to
+                        her native Styria, a noble lady from the d’Argentau family came to her aid
+                        and provided her with shelter in nearby Ochain Castle, which belonged to her
+                        family. Theresia spent more than a decade there before dying in September
+                        1804.</p>
+               <p xml:id="attems2-p-118">Of Ignaz Maria the Younger’s sons, Ferdinand, as the eldest, inherited the
+                        family property and remained in Styria, whereas all the other sons devoted
+                        themselves to military careers or the priesthood, dispersing all over the
+                        globe; Alois (1751–1753) died in childhood. The first to embark on a
+                        military career was the second-born, Ernst, who was promoted to the rank of
+                        colonel and lost his life in 1796 in a battle against the French army at
+                        Lodi, Italy. His younger brother Ignaz (1750–1802), who had nurtured a
+                        passion for weapons since boyhood, enlisted in the army at the age of
+                        nineteen. A few years later he also became a member of the Teutonic Order,
+                        in which he served as a commander in Metlika and Črnomelj, and subsequently
+                        in Velika Nedelja, all of these localities lying within the territory of
+                        present-day Slovenia. He particularly distinguished himself in the war
+                        against the Turks in Hungary but was ultimately compelled to leave the army
+                        due to failing health. Ignaz died at a relatively young age in 1802.</p>
+               <p xml:id="attems2-p-119">A similar fate could have been in store for the youngest of the children,
+                        Leopold (1758–1815), who donned a military uniform at a young age and was
+                        initially expected to join the Teutonic Order but ultimately decided against
+                        doing so. As an officer, he took part in Emperor Joseph II’s military
+                        campaigns and served later in the war against the French, for which he was
+                        promoted to the rank of lieutenant-colonel. During his service in Hungary he
+                        met the almost three decades younger Countess Maria Anna Gavre (1785–1856)
+                        from Flanders and married her in 1803 despite their difference in age. In
+                        the following twelve years the couple produced six children—the last born
+                        after Leopold’s death—all of whom died very young. When, in 1809, a new war
+                        broke out with France, Leopold came out of retirement to take part in the
+                        battles in Tyrol, obtaining in 1811 the rank of general <hi rend="italic">ad
+                            honores.</hi> He died from ill-health in early 1815.</p>
+               <p xml:id="attems2-p-120">The fourth brother, Franz (1754–after 1820), became a soldier and just like
+                        Ignaz took part in the war against the Turks in Hungary and Croatia.
+                        Fighting at his side was his maternal cousin Count Anton Khuen, who lost his
+                        life in the campaign. Franz left the army and married his cousin’s widow
+                        Josefa (née Countess Sándor; 1758–1803), who already had a daughter, Esther,
+                        and a son, Anton. To Franz Attems she bore two more children: a daughter,
+                        Juliana, and a son, Anton. Both children died young, condemning this branch
+                        of the Attems family to early extinction. In 1814 Franz successfully married
+                        his stepdaughter Esther, who inherited from her father vast estates in
+                        Bohemia and Hungary, to his nephew Franz Attems (1783–1847).</p>
+               <p xml:id="attems2-p-121">While four sons of Ignaz Maria the Younger devoted themselves to military
+                        careers, the second-youngest, Hermann (1756–1809), joined the clergy. While
+                        still a boy he was sent to his uncle Josef Attems, a canon of the cathedral
+                        chapter in Salzburg, who secured him one of the local canonries. Hermann
+                        himself later became a canon of Salzburg Cathedral as well as the dean and
+                        cathedral canon of Olomouc. He was universally popular, and his sudden death
+                        in March 1809 was mourned by many.</p>
+               <p xml:id="attems2-p-122">Of the twelve children of Ignaz Maria the Younger, only three sons married.
+                        The lines of two of them died out already in the generation of their
+                        children. Therefore, the sole person to continue the family line became by
+                        right the principal heir of the Slovenska Bistrica branch: the eldest son,
+                        Ferdinand (1746–1820). <note place="foot" xml:id="preinfalk-ftn29" n="29">On Ferdinand
+                            and his successors, see: Attems-Pallavicino, VI/4; Ilwof, <hi rend="italic">Die Grafen von Attems</hi>, 25–81; Frank and Šerbelj,
+                            “Kratka zgodovina”, 153–154.</note> As the main heir, he received a
+                        better education than his siblings, and his mother went to enormous, even
+                        self-sacrificial, lengths to secure her eldest son everything befitting his
+                        rank. Ferdinand completed his law studies at the University of Padua and
+                        then obtained permission to embark on an educational tour, which, unlike his
+                        father’s, lasted merely a year and a half. On returning to Styria, he
+                        immediately offered his services to his homeland and became a member of the
+                        Styrian territorial estates. When his uncle Josef Bernhard Attems died in
+                        1772, Ferdinand inherited his extensive estates—Podčetrtek, Rajhenburg with
+                        Turn and Dornava –and absorbed them into his majorat. The following year he
+                        also found a wife: Baroness Maria Anna Gall of Gallenstein.<note place="foot" xml:id="preinfalk-ftn30" n="30">Based on document: DGS, Pfarre
+                            Graz—Hl. Blut, TrB 1772–1782, fol. 34.</note> Although she was of
+                        Carniolan descent, after the disastrously failed marriage of her parents and
+                        her mother’s death Maria Anna had spent several years with the Ursuline
+                        Order in Graz.<note place="foot" xml:id="preinfalk-ftn31" n="31">On the marriage of
+                            Maria Anna Gall-Gallenstein’s parents, see: Dušan Kos, <hi rend="italic">Zgodovina morale</hi>, vol. 2, <hi rend="italic">Ljubezenske
+                                strasti, prevare in nasilje ter njihovo obravnavanje na Slovenskem
+                                med srednjim vekom in meščansko dobo</hi> (Ljubljana: Založba ZRC,
+                            ZRC SAZU, 2016), 330–344.</note>
+               </p>
+               <p xml:id="attems2-p-123">As a politician, Ferdinand was highly conservative and one of those who,
+                        following the death of Emperor Joseph II, forced his successor Leopold II to
+                        rescind certain reforms and restore the old order. This ultimately cost him
+                        his office of territorial governor in 1791, when—even though he received a
+                        majority vote in the estates’ election—the emperor replaced him with the
+                        runner-up, Karl Thomas Count Breuner. Despite his endeavours to attain the
+                        greatest possible independence from the central government in Vienna, when,
+                        in 1793, war broke out with France, Ferdinand unhesitatingly promised the
+                        young Emperor Franz II 100,000 guldens of assistance from Styria. His
+                        gesture did not go unnoticed, and the emperor reappointed him Styrian
+                        territorial governor in 1801; after Breuner’s death. Ferdinand continued to
+                        occupy this office until he died almost two decades later.</p>
+               <p xml:id="attems2-p-124">As a man of culture and refinement, Ferdinand Attems was the founder and
+                        trustee of the Joanneum Museum in Graz, and it is to his credit that the
+                        Styrian territorial estates bought the mineral springs in Rogaška Slatina in
+                        1803. Thus Ferdinand ensured the revival of the local health resort and
+                        enabled the development of spa tourism. <note place="foot" xml:id="preinfalk-ftn32" n="32">Nikolaus von Preradovich, “Attems, Ferdinand, Graf von Attems,
+                            Freiherr von Heiligenkreuz”, in <hi rend="italic">Deutsche
+                                Biographie</hi>, accessed 20 January 2020,
+                           <ref target="https://www.deutsche-biographie.de/pnd135773067.html#ndbcontent">https://www.deutsche-biographie.de/pnd135773067.html#ndbcontent</ref>.</note>
+                        One of the local mineral springs, the so-called Ferdinand Spring, bore his
+                        name for a long time (until its closure in 1952), and Ferdinand’s memory is
+                        still kept alive in Rogaška Slatina by a bronze bust and a portrait in this
+                        spa resort’s Crystal Hall.</p>
+               <p xml:id="attems2-p-125">Ferdinand died suddenly of a stroke during the night of 23 and 24 May
+                            1820,<note place="foot" xml:id="preinfalk-ftn33" n="33">Based on document: DGS,
+                            Pfarre Graz—Hl. Blut, SB 1808–1829, fol. 333.</note> as (almost
+                        certainly) the last of the siblings. He found his eternal resting place at
+                        the Graz cemetery of Steinfeld, where his successors built a family tomb.
+                        His widow Maria Anna joined him a little under two decades later, in
+                            1839.<note place="foot" xml:id="preinfalk-ftn34" n="34">Based on document: DGS,
+                            Pfarre Graz—Hl. Blut, SB 1830–1861, fol. 133.</note>
+               </p>
+            </div>
+            <div xml:id="attems-comm.2.7">
+               <head xml:id="attems2-head-57">The last hundred and twenty years of the Attems Bistrica family
+                        branch</head>
+               <p xml:id="attems2-p-126">After the death of Ferdinand Attems in 1820, another four generations of his
+                        successors continued the lineage until the end of the Second World War, when
+                        the family was expelled from Slovenian territory. The first head of the
+                        Bistrica family branch was Ferdinand’s eldest son Ignaz (1774–1861).<note place="foot" xml:id="preinfalk-ftn35" n="35">On Ignaz and his successors, see:
+                            Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/5;
+                            Ilwof, <hi rend="italic">Die Grafen von Attems</hi>, 22–201; Frank and
+                            Šerbelj, “Kratka zgodovina”, 154–155.</note> Although, like his father
+                        before him, Ignaz held the office of Styrian territorial governor and acted
+                        as the trustee of the Joanneum Museum in Graz, one of his most important
+                        achievements was to redirect the Southern Railway line across the Semmering
+                        Mountain Pass to Graz and Maribor. Despite his reputation among biographers
+                        as a capable and diligent administrator as well as being a member of the
+                        Styrian estates, he spent the first half of his life in the shadow of his
+                        father, who also chose for him his first wife, Countess Antonia Chorinsky, a
+                        stepdaughter of his close friend Franz Josef, Count of Saurau. The wedding
+                        took place in early 1807, <note place="foot" xml:id="preinfalk-ftn36" n="36">Based on
+                            document: DGS, Pfarre Graz—Dom, TrB 1807–1815, fol. 187.</note> but the
+                        young wife died a little under three years later, at the end of 1809, after
+                        she had given birth to his son and heir Ferdinand and, exhausted by the
+                        wartime conditions that prevailed at that time in Graz, had become
+                        terminally ill.<note place="foot" xml:id="preinfalk-ftn37" n="37">Based on document:
+                            DGS, Pfarre Graz—Hl. Blut, SB 1808–1829, fol. 47; TB 1806–1812, fol.
+                            158.</note>
+               </p>
+               <p xml:id="attems2-p-127">After spending five years as a widower, Ignaz tied the knot again,<note place="foot" xml:id="preinfalk-ftn38" n="38">Based on document: DGS, Pfarre
+                            Graz—Hl. Blut, TrB 1813–1828, fol. 30.</note> this time to a wife of his
+                        own choosing: Countess Aloisia Inzaghi (1793–1879), who belonged to his
+                        extended family, being the stepdaughter of his father’s cousin Rosalia
+                        Inzaghi, née Attems (1761–1841). Among his seven children produced by the
+                        two marriages his daughter Maria (1816–1880), an amateur painter who
+                        produced magnificent still-life paintings with flowers and fruit, left a
+                        particularly noticeable mark on art history. She was married to Count Anton
+                        Alexander Auersperg, a poet better known by the pseudonym of Anastasius
+                        Grün. <note place="foot" xml:id="preinfalk-ftn39" n="39">Maria Attems is mostly known
+                            to history as a still-life painter. On her artistic creations, see
+                            especially the miscellaneous papers collectively entitled <hi rend="italic">Grofičini šopki: Marija Auersperg Attems</hi> (Kranj:
+                            Gorenjski muzej, 2009)); see also: Lidija Tavčar, “Grofičinim šopkom ob
+                            rob: neobjavljeni tihožitji Marije Auersperg Attems”, <hi rend="italic">Acta historiae artis Slovenica</hi> 14 (2009): 171–177; Vesna Kamin
+                            Kajfež, “Marija Auersperg Attems: slikarka v zavetju bidermajerskega
+                            salona”, <hi rend="italic">SLO: časi, kraji, ljudje</hi> 6 (May 2015):
+                            10–15; Miha Preinfalk, “Pesnik, slikarka in glasbenik—oporoke treh
+                            Auerspergov s Šrajbarskega turna”, <hi rend="italic">Kronika</hi> 61,
+                            no. 1 (2013): 85–104. On Anastasius Grün, see especially the monograph
+                            by Dietmar Scharmitzerb (Dietmar Scharmitzer, <hi rend="italic">Anastasius Grün (1806–1876): Leben und Werk</hi> (Vienna: Böhlau
+                            Verlag, 2010) with a list of literature).</note>
+               </p>
+               <p xml:id="attems2-p-128">Ignaz reached the very old age of eighty-seven. In his will, drawn up in 1855
+                        in Brežice, he predictably named his eldest son Ferdinand as his heir,
+                        bequeathed Dornava to his daughter Maria (under her married name of
+                        Auersperg), and the manor in Ptuj to his youngest son, Friedrich. He died at
+                        the end of 1861 and found his final resting place within the family tomb in
+                        the Steinfeld cemetery. <note place="foot" xml:id="preinfalk-ftn40" n="40">Based on
+                            document: DGS, Pfarre Graz—Hl. Blut, SB 1830–1861, fol. 754.</note>
+               </p>
+               <p xml:id="attems2-p-129">After Ignaz the reins of the Bistrica branch of the Attems family were taken
+                        over by his eldest son, Ferdinand (1809–1879),<note place="foot" xml:id="preinfalk-ftn41" n="41">On Ferdinand, see: Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/6.</note> who continued
+                        his father’s and grandfather’s tradition of holding important offices, but
+                        never with the same success. As a district commissary he served in Maribor,
+                        Bruck an der Mur and Celje, ending his career as a government adviser in
+                        Linz. After his father’s death in 1861 he returned to Graz and took charge
+                        of the family inheritance. His marriage to Countess Gabriela
+                        Wurmbrand-Stuppach brought him children, as well as the castle and estate of
+                        Gornja Radgona. He died in 1878 in Graz. <note place="foot" xml:id="preinfalk-ftn42" n="42">Based on document: DGS, Pfarre Graz—Hl. Blut, SB 1862–1878, fol.
+                            681.</note>
+               </p>
+               <p xml:id="attems2-p-130">Ferdinand was initially succeeded by his eldest son Ignaz (1844–1915), a
+                        doctor of laws working in financial administration. <note place="foot" xml:id="preinfalk-ftn43" n="43">On Ignaz, see: Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/6.</note> Although this
+                        Ignaz inherited the family property after his father’s death, he entrusted
+                        it to administrators who, according to his relatives, took selfish advantage
+                        of this privilege. Ignaz married his relative Countess Rosa Attems from
+                        Gösting and spent much time with her in Slovenska Bistrica. After their
+                        marriage remained childless Rosa started to exhibit increasingly strange
+                        behaviour. She refused to let anyone near her except her husband and maid.
+                        She slept throughout the day and became active only during the evening
+                        hours. After Ignaz’s death in early 1915 the family property passed down to
+                        his younger brother Edmund (1847–1929) in accordance with the principle of
+                        primogeniture.</p>
+               <p xml:id="attems2-p-131">Unlike Ignaz, Edmund took greatly after their father and even more after
+                        their uncle Ferdinand.<note place="foot" xml:id="preinfalk-ftn44" n="44">On Edmund,
+                            see: Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>,
+                            VI/6; Frank and Šerbelj, “Kratka zgodovina”, 155–156.</note> Although he
+                        initially studied agriculture and forestry in Graz, his path eventually led
+                        him to administration, in which he forged an illustrious career. Following
+                        the example of his predecessors, he was, among other things, also a
+                        long-standing Styrian territorial governor, the last such before the
+                        disintegration of the Habsburg Monarchy. In the territorial realm he was the
+                        most meritorious for the construction of hospitals, e.g. in Graz,
+                        Mürzzuschlag, and Rottenmann. Edmund was known for his modest, even Spartan,
+                        lifestyle, which many likened to that of Emperor Franz Joseph. A man of many
+                        obligations, he remained a bachelor and devoted his time to his nephews, the
+                        children of his younger brother Emilian.</p>
+               <p xml:id="attems2-p-132">As the second-born, Edmund initially had little say in administering the
+                        family estate, even though his elder brother’s childless marriage clearly
+                        meant that the property would one day pass down to him. On the other hand,
+                        he came to inherit Gornja Radgona after his mother’s death as well as the
+                        Inzaghi trust property of Ober-Kindberg near Bruck an der Mur (in
+                        secundogeniture) after the death of his uncle Friedrich Attems in 1901.
+                        However, the place he held closest to his heart was the seat of the family
+                        estate—Slovenska Bistrica, where he would spend most of his spare time.
+                        Notwithstanding this, he refused ever to go back to it after 1918, when this
+                        part of Styria fell under Yugoslav rule. A catalyst for this decision was
+                        his strained relations with the Slovenes, which dated from a time when he
+                        served as the Styrian territorial governor and, for example, opposed the
+                        establishment of a Slovenian lower gymnasium in Celje, which, as he
+                        maintained, would be detrimental to the interests of the German majority.
+                        Because of his attitude, the Slovenes continued to obstruct the operations
+                        of the territorial government for a long time afterwards. <note place="foot" xml:id="preinfalk-ftn45" n="45">See also: Cvirn, <hi rend="italic">Boj za
+                                Celje</hi>, 53–55.</note>
+               </p>
+               <p xml:id="attems2-p-133">After the First World War Edmund came to terms with the republican
+                        reorganization of ‘German’ Austria and did not reminisce about the old days
+                        with nostalgia. He retained his mental and physical vigour into an extreme
+                        old age until in the winter of 1928/29 he came down with a bad cold that
+                        turned deadly. He died in May 1929 in a spa resort at Bad Hofgastein.</p>
+               <p xml:id="attems2-p-134">Since, as already stated, both Edmund and his elder brother Ignaz remained
+                        childless, the family property passed down to the sons of their younger
+                        brother Emilian (1857–1921): Emilian’s eldest son Ferdinand (1885–1946) took
+                        over the central estate he obtained in primogeniture along with Slovenska
+                        Bistrica, Podčetrtek, Brežice, Olimje, and the palace in Graz, while his
+                        younger brother Edmund (1891–1972) received in secundogeniture the Inzaghi
+                        estate in Ober-Kindberg. <note place="foot" xml:id="preinfalk-ftn46" n="46">On
+                            Emilian, see: Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/7.</note>
+               </p>
+               <p xml:id="attems2-p-135">The last lord of Slovenska Bistrica was therefore Ferdinand Attems, who
+                        assumed Yugoslav citizenship after the First World War and maintained
+                        regular contact with the Yugoslav royal family. During the Second World War
+                        he was drafted into the German Army. Sitting on the recruiting board, he
+                        helped many Slovenian conscripts, which ultimately cost him his position.
+                        Nevertheless, immediately after the war he and his wife, as well as their
+                        two sons, were arrested, found guilty of high treason and sentenced to
+                        forced labour, expulsion from Yugoslavia, and the confiscation of all their
+                        property. Ferdinand and his wife were detained for a while in the penal camp
+                        of Brestrenica, from where all trace was lost of them in early 1946. It is
+                        highly likely that they were executed, along with their son Emil-Hans. <note place="foot" xml:id="preinfalk-ftn47" n="47">Frank and Šerbelj, “Kratka
+                            zgodovina”, 155–158. See also: Attems-Pallavicino, <hi rend="italic">Familiengeschichte</hi>, VI/8.</note>
+               </p>
+               <p xml:id="attems2-p-136">Although the decision to dispossess and criminalize the Slovenska Bistrica
+                        branch of the Attems family was finally repealed in 1993, the centuries-long
+                        bond between the Attems family and the territory of Slovenia was irrevocably
+                        broken.</p>
+               <p xml:id="attems2-p-137">Today, the Attems live mostly in Italy and Austria, although the
+                        Denationalization Act gave them back some of their former estates in
+                        Slovenian Styria.</p>
+            </div>
+            <div xml:id="attems-comm.2.8">
+               <head xml:id="attems2-head-58">Sources</head>
+               <p xml:id="attems2-p-138">NŠAL—Nadškofijski arhiv Ljubljana, ŽA, Matične knjige, Ljubljana-Sv. Nikolaj,
+                        R 1643–1653</p>
+               <p xml:id="attems2-p-139">DGS—Diözese Graz Seckau, Pfarre Graz-Hl. Blut: TB 1707–1720, 1806–1812; TrB
+                        1675–1700, 1700–1714, 1715–1726, 1772–1782, 1813–1828; SB 1705–1722,
+                        1723–1742, 1742–1754, 1808–1829, 1830–1861; and Pfarre Graz-Dom: TrB
+                        1807–1815</p>
+               <p xml:id="attems2-p-140">EW—Erzdiözese Wien, Pfarre Guntramsdorf, Tauf-, Trauungs- und Sterbebuch
+                        1732–1760; Pfarre Wien-St. Stephan: SB 1761–1764; Pfarre Wien-Unsere Liebe
+                        Frau zu den Schotten: SB 1792–1806</p>
+               <p xml:id="attems2-p-141">
+                  <hi rend="bold">The literature is cited in footnotes.</hi>
+               </p>
+            </div>
+         </div>
+      </back>
    </text>
 </TEI>

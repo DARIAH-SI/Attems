@@ -5,9 +5,9 @@
    <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
-            <title>The letters of Count Ignaz Maria von Attems-Heiligenkreuz to his father
+            <title>The Letters of Count Ignaz Maria von Attems-Heiligenkreuz to his Father
                (1734–1738)</title>
-            <title>A digital edition</title>
+            <title>A Digital Edition</title>
             <author xml:id="IMA">Ignaz Maria von Attems</author>
             <respStmt>
                <resp>Diplomatic Transcription of German Letters</resp>
@@ -16,13 +16,8 @@
             </respStmt>
             <respStmt>
                <resp>Authors of Scholarly Texts</resp>
-               <name>Gabriele Haug-Moritz</name>
-               <name>Metoda Kokole</name>
-               <name>Željko Oset</name>
-               <name>Miha Preinfalk</name>
-               <name>Marlies Raffler</name>
-               <name>Luka Vidmar</name>
                <name>Florian Zeilinger</name>
+               <name>Miha Preinfalk</name>
             </respStmt>
             <respStmt>
                <resp>English Proofreading</resp>
@@ -41,12 +36,12 @@
             <respStmt>
                <resp>Edited by</resp>
                <name>Metoda Kokole</name>
-               <name>Gabriele Haug-Moritz</name>
             </respStmt>
             <funder>Kommission für Neuere Geschichte Österreichs (project)</funder>
             <funder>Research Centre of the Slovenian Academy of Sciences and Arts (within research
                programmes P6-0004, P6-0024, and P6-0052 (A) finaced by Slovenian Research
                Agency)</funder>
+            <funder>DARIAH-SI (project)</funder>
             <funder>Dr. Johannes Attems (reproduction costs and image copyright)</funder>
             <funder>Universalmuseum Joanneum Graz (image copyright)</funder>
             <funder>Pokrajinski muzej Ptuj Ormož (image copyright)</funder>
@@ -104,8 +99,7 @@
                sites and artistic wonders of the time, etc. Furthermore, he provided his father with
                current news and didn’t fail to inform him of some of his visits to music events,
                concerts, dances and operatic productions, too. The digital edition consists of the
-               facsimiles of the letters, a diplomatic transcription and scholarly comments (in
-               English) on persons and places.</p>
+               facsimiles of the letters, a diplomatic transcription and studies.</p>
          </abstract>
          <abstract xml:lang="sl">
             <p>Pred vami je kritična in komentirana izdaja malo znanega primarnega vira iz 18.
@@ -121,8 +115,7 @@
                turističnih atrakcij ter čudes tistega časa. Nadalje pisec očetu pošilja tudi sveže
                novice iz političnega sveta ter mu ne pozabi poročati tudi o nekaterih obiskih
                glasbenih prireditev, koncertov, plesov in opernih predstav. Pričujoča spletna izdaja
-               prinaša digitalizirane originale pisem, diplomatski prepis in komentarje (v angleškem
-               jeziku) omenjenih geografskih in osebnih imen.</p>
+               prinaša digitalizirane originale pisem, diplomatski prepis in študije.</p>
          </abstract>
          <abstract xml:lang="de">
             <p>Dies ist die kritische, kommentierte Edition einer wenig bekannten Quelle zu einer
@@ -139,8 +132,7 @@
                u.v.m. Darüber hinaus versorgt er seinen Vater mit aktuellen Nachrichten und
                berichtet ihm auch vom Besuch musikalischer Veranstaltungen wie Konzerte, Opern und
                Tänze. Die digitale Edition enthält Faksimiles der Briefe, eine diplomatische
-               Transkription und wissenschaftliche Kommentare (auf Englisch) zu Personen und
-               Orten.</p>
+               Transkription und wissenschaftliche Studien.</p>
          </abstract>
          <textClass>
             <keywords xml:lang="en">
@@ -783,23 +775,22 @@
       <front>
          <titlePage>
             <docTitle>
-               <titlePart>The Letters of Count Ignaz Maria von Attems-Heiligenkreuz to his father
+               <titlePart>The Letters of Count Ignaz Maria von Attems-Heiligenkreuz to his Father
                   (1734–1738)</titlePart>
-               <titlePart>A digital edition</titlePart>
+               <titlePart>A Digital Edition</titlePart>
             </docTitle>
-            <byline>Diplomatic transcription by <name>Željko Oset</name> and <name>Florian
+            <byline>Edited by <name>Metoda Kokole</name></byline>
+            <byline>Diplomatic Transcription by <name>Željko Oset</name> and <name>Florian
                   Zeilinger</name>
             </byline>
-            <byline>Scholarly Texts by <name>Gabriele Haug-Moritz</name>, <name>Metoda
-               Kokole</name>, <name>Željko Oset</name>, <name>Miha Preinfalk</name>, <name>Marlies
-                  Raffler</name>, <name>Luka Vidmar</name> and <name>Florian
-               Zeilinger</name></byline>
+            <byline>Scholarly Texts by <name>Florian Zeilinger</name> and <name>Miha Preinfalk</name></byline>
             <figure>
                <graphic url="https://sidih.si/cdn/3/thumbnail.jpg"/>
             </figure>
             <docImprint>
-               <publisher>Research Centre of Slovenian Academy Of Sciences and Arts</publisher>
-               <publisher>University of Graz</publisher>
+               <publisher>Slovenian Society for Eighteenth-Century Studies (SD18)</publisher>
+               <publisher>Research Centre of the Slovenian Academy of Sciences and Arts</publisher>
+               <publisher>Karl-Franzens-Universität Graz </publisher>
                <docDate>2020</docDate>
             </docImprint>
          </titlePage>

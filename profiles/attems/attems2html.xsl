@@ -270,13 +270,14 @@
 
     <!-- od tukaj naprej dodam za novo procesiranje kolofona in naslovnice: po zgledu na e-MAMS -->
     <xsl:param name="images_on_titlepage">
-        <p>IMAGES ON TITLE-PAGE:<br/> Portrait of Count Ignaz Maria von Attems (1714–1762) painted
+        <p>IMAGES ON THE COVER PAGE:<br/> Portrait of Count Ignaz Maria von Attems (1714–1762) painted
             by Adriaen Carpentiers, dated in Rome 1738. (Universalmuseum Joanneum, Inv. Nr. Eg897;
             by kind permission)<br/> Portrait of Count Franz Dismas von Attems (1691–1750) painted
             by Josef Digl in 1738. (Pokrajinski muzej Ptuj Ormož, 240 x 167 cm, inv. no. G 1100 S,
             ©2015 Marjan Laznik; by kind permission)<br/> Part of the letter from dated in Würzburg
             on 15 December 1734, Steiermärkische Landesarchiv, Familienarchiv Attems, Briefe des
-            Grafen Ignaz Attems, K. 19, H. 87; by kind permission). </p>
+            Grafen Ignaz Attems, K. 19, H. 87; by kind permission).</p>
+        <p>The cover page is designed by Žiga Okorn (Uvid.si d.o.o.).</p>
     </xsl:param>
 
     <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
@@ -340,7 +341,7 @@
     </doc>
     <xsl:template match="tei:titleStmt" mode="kolofon">
         <!-- avtor -->
-        <p>
+        <!--<p>
             <xsl:for-each select="tei:author">
                 <span itemprop="author">
                     <xsl:choose>
@@ -370,9 +371,9 @@
                     <br/>
                 </xsl:if>
             </xsl:for-each>
-        </p>
+        </p>-->
         <!-- Naslov mora vedno biti, zato ne preverjam, če obstaja. -->
-        <!-- spremenil procesiranje naslova, tako da je vse v bold, za druge naslove pa se predpostavlja, da so anglešli, zato so ločeni z / -->
+        <!-- spremenil procesiranje naslova, tako da je vse v bold, za druge naslove pa se predpostavlja, da so angleški, zato so ločeni z / -->
         <p itemprop="name" style="font-size: 1.6em; font-weight: bold;">
             <xsl:for-each select="tei:title">
                 <xsl:value-of select="."/>

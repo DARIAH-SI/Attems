@@ -66,8 +66,9 @@
             </availability>
             <idno type="ISBN"/>
             <idno type="DOI"/>
+            <idno type="URI">https://zalozba.zrc-sazu.si/p/1634</idno>
             <idno type="URI">https://dariah-si.github.io/Attems/</idno>
-            <idno type="hdl">http://hdl.handle.net/20.500.12325/9</idno>
+            <idno type="hdl">http://hdl.handle.net/20.500.12325/40</idno>
             <idno type="COBISS.SI"/>
          </publicationStmt>
          <sourceDesc>

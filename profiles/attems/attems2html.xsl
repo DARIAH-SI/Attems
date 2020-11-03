@@ -390,7 +390,7 @@
         <br/>
         <xsl:if test="tei:funder">
             <p>
-                <xsl:text>This project was enabled by:</xsl:text>
+                <xsl:text>Acknowledgements:</xsl:text>
                 <br/>
                 <xsl:for-each select="tei:funder">
                     <xsl:value-of select="."/>
@@ -474,7 +474,7 @@
                 <p>
                     <!-- dodam višimo slike -->
                     <img src="{tei:figure/tei:graphic/@url}" alt="naslovna slika"
-                        style="height:700px;"/>
+                        style="height:700px;" onclick="alert('Portrait of Count Ignaz Maria von Attems (1714–1762) painted by Adriaen Carpentiers, dated in Rome 1738. (Universalmuseum Joanneum, Inv. Nr. Eg897; by kind permission)\nPortrait of Count Franz Dismas von Attems (1691–1750) painted by Josef Digl in 1738. (Pokrajinski muzej Ptuj Ormož, 240 x 167 cm, inv. no. G 1100 S, ©2015 Marjan Laznik; by kind permission)\nPart of the letter from dated in Würzburg on 15 December 1734, Steiermärkische Landesarchiv, Familienarchiv Attems, Briefe des Grafen Ignaz Attems, K. 19, H. 87; by kind permission).\n\nThe cover page is designed by Žiga Okorn (Uvid.si d.o.o.).')"/>
                 </p>
             </div>
         </xsl:if>
@@ -565,20 +565,23 @@
         <div class="row">
             <div class="small-4 columns text-center">
                 <p>
-                    <!-- dodam višimo slike -->
-                    <img src="logo_uni_graz_4c_CMYK_schriftzug.jpg" alt="Logo Uni Graz"/>
+                    <a href="http://www.oesterreichische-geschichte.at" target="_blank">
+                        <img src="logo-Kommission.jpg" alt="Logo Kommision für neuere Geschichte Österreichs" style="height:150px;"/>
+                    </a>
                 </p>
             </div>
             <div class="small-4 columns text-center">
                 <p>
-                    <!-- dodam višimo slike -->
-                    <img src="logoZRC-SAZU.png" alt="Logo ZRC SAZU" style="height:150px;"/>
+                    <a href="https://www.zrc-sazu.si/" target="_blank">
+                        <img src="logoZRC-SAZU.png" alt="Logo ZRC SAZU" style="height:150px;"/>
+                    </a>
                 </p>
             </div>
             <div class="small-4 columns text-center">
                 <p>
-                    <!-- dodam višimo slike -->
-                    <img src="logo_SD18.jpg" alt="Logo DSD18"/>
+                    <a href="http://sd18.zrc-sazu.si/" target="_blank">
+                        <img src="logo_SD18.jpg" alt="Logo DSD18"/>
+                    </a>
                 </p>
             </div>
         </div>

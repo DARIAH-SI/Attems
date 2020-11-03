@@ -25,7 +25,7 @@
             </respStmt>
             <respStmt>
                <resp>German Proofreading</resp>
-               <name>Gabriele Haug-Moritz</name>
+               <name>Florian Zeilinger</name>
             </respStmt>
             <respStmt>
                <resp>TEI-XML Encoding</resp>
@@ -36,6 +36,7 @@
             <respStmt>
                <resp>Edited by</resp>
                <name>Metoda Kokole</name>
+               <name>Gabriele Haug-Moritz</name>
             </respStmt>
             <funder>Kommission für Neuere Geschichte Österreichs (project)</funder>
             <funder>Research Centre of the Slovenian Academy of Sciences and Arts (within research
@@ -51,7 +52,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Slovenian Society for Eighteenth-Century Studies (SD18), ZRC SAZU, Institute
-               of Musicology, and Karl-Franzens-Universität Graz</authority>
+               of Musicology, and Commission for Modern Austrian History, Vienna</authority>
             <publisher>Založba ZRC (Novi trg 2, SI–1000 Ljubljana)</publisher>
             <pubPlace>Ljubljana</pubPlace>
             <date when="2020">2020</date>
@@ -780,7 +781,7 @@
                   (1734–1738)</titlePart>
                <titlePart>A Digital Edition</titlePart>
             </docTitle>
-            <byline>Edited by <name>Metoda Kokole</name></byline>
+            <byline>Edited by <name>Metoda Kokole</name> and <name>Gabriele Haug-Moritz</name></byline>
             <byline>Diplomatic Transcription by <name>Željko Oset</name> and <name>Florian
                   Zeilinger</name>
             </byline>
@@ -791,7 +792,7 @@
             <docImprint>
                <publisher>Slovenian Society for Eighteenth-Century Studies (SD18)</publisher>
                <publisher>Research Centre of the Slovenian Academy of Sciences and Arts</publisher>
-               <publisher>Karl-Franzens-Universität Graz </publisher>
+               <publisher>Commission for Modern Austrian History, Vienna</publisher>
                <docDate>2020</docDate>
             </docImprint>
          </titlePage>

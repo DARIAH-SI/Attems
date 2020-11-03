@@ -561,6 +561,10 @@
             </xsl:choose>
         </xsl:for-each>
         <br/>
+        <br/>
+        <!-- dodam še podatke za slike na naslovnici -->
+        <xsl:copy-of select="$images_on_titlepage"/>
+        <br/>
         <!-- Dodani logo -->
         <div class="row">
             <div class="small-4 columns text-center">

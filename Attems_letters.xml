@@ -781,11 +781,13 @@
                   (1734–1738)</titlePart>
                <titlePart>A Digital Edition</titlePart>
             </docTitle>
-            <byline>Edited by <name>Metoda Kokole</name> and <name>Gabriele Haug-Moritz</name></byline>
+            <byline>Edited by <name>Metoda Kokole</name> and <name>Gabriele
+               Haug-Moritz</name></byline>
             <byline>Diplomatic Transcription by <name>Željko Oset</name> and <name>Florian
                   Zeilinger</name>
             </byline>
-            <byline>Scholarly Texts by <name>Florian Zeilinger</name> and <name>Miha Preinfalk</name></byline>
+            <byline>Scholarly Texts by <name>Florian Zeilinger</name> and <name>Miha
+                  Preinfalk</name></byline>
             <figure>
                <graphic url="https://sidih.si/cdn/3/thumbnail.jpg"/>
             </figure>
@@ -810,13 +812,24 @@
          </divGen>
          <div type="preface" xml:id="attems-foreword">
             <head xml:id="attems2-head-5">Foreword</head>
-            <docAuthor xml:id="attems2-docAuthor-1">Metoda Kokole</docAuthor>
             <p xml:id="attems2-p-5">What you are looking at is the first edition of 34 private
                letters by an eighteenth-century Styrian nobleman, Count Ignaz Maria von
                Attems-Heiligenkreuz (the Younger), sent to his father back in Graz during his
                European Grand Tour. The edition consists of a critical transcription of all the
                letters, facsimiles of the original manuscript documents and accompanying studies
                relating to the documents and the Attems family.</p>
+            <p xml:id="attems2-p-5b">Count Ignaz Maria Attems-Heiligenkreuz (Graz, 1714 – Vienna,
+               1762), the founder of the branch of the Attems family with its seat at Slovenska
+               Bistrica (Ger. Windisch Feistritz), spent four years abroad: from November 1734 to
+               October 1738, the period strongly marked by the Polish succession war, which shaped
+               the Austrian youth, too. From his native Graz in Styria Ignaz Attems travelled first
+               to the North, to Würzburg and some other German towns, the first half of the year
+               1735 he studied in Prague and later he inscribed himself to the University of Leiden
+               as candidatus iuris. In July 1737 he finished with his official university education
+               and travelled to Belgium, France and finally to Italy, where he remained from late
+               1737 to September 1738. After his return to Graz he was appointed, starting in 1739,
+               to a series of high positions in the Inner-Austrian government and the Habsburg court
+               in Vienna.</p>
             <p xml:id="attems2-p-6">Until the second decade of the twenty-first century these
                letters were largely unknown to researchers. They were noticed only by two family
                historians: Franz Ilwof, in his printed book <hi rend="italic">Die Grafen von
@@ -824,17 +837,17 @@
                member of the family, Maria Viktoria Attems-Pallavicino, in her typewritten <hi
                   rend="italic">Familiengeschichte</hi>, today preserved within the Attems family
                archive in the Styrian Provincial Archives in Graz.</p>
-            <p xml:id="attems2-p-7">I came across these letters in 2014 as a result of researching a
-               collection of music manuscripts once belonging to the family of the Attems counts
-               from Slovenska Bistrica. A number of musical pieces, mostly copies of Italian opera
-               arias, bear manuscript annotations, among which appears the name “Ignazio Conte
-               d’Atthembs” and its French equivalent, “Ignace Compte d’Atthembs”. Some of these
-               annotations indicate places and names of operas and even their composers, such as “In
-               Roma. Alle Dame 1738. Il Quinto Fabio. Del Sig. Nicola Logroschino”, which clearly
-               refers to a particular occasion when these materials were acquired. Further
-               investigations into the family led me to its archive in Graz, where I read the
-               letters and saw for myself the evidence for Ignaz’s Grand Tour and his active
-               interest in musical life in the Italian cities that he visited in 1738.</p>
+            <p xml:id="attems2-p-7">Metoda Kokole came across these letters in 2014 as a result of
+               researching a collection of music manuscripts once belonging to the family of the
+               Attems counts from Slovenska Bistrica. A number of musical pieces, mostly copies of
+               Italian opera arias, bear manuscript annotations, among which appears the name
+               “Ignazio Conte d’Atthembs” and its French equivalent, “Ignace Compte d’Atthembs”.
+               Some of these annotations indicate places and names of operas and even their
+               composers, such as “In Roma. Alle Dame 1738. Il Quinto Fabio. Del Sig. Nicola
+               Logroschino”, which clearly refers to a particular occasion when these materials were
+               acquired. Further investigations into the family led me to its archive in Graz, where
+               I read the letters and saw for myself the evidence for Ignaz’s Grand Tour and his
+               active interest in musical life in the Italian cities that he visited in 1738.</p>
             <p xml:id="attems2-p-8">These letters were sent over a period of four years from twelve
                different European cities geographically extending from Prague, today the capital of
                the Czech Republic, to Würzburg, Mainz and Mannheim in central Germany, to Leiden and
@@ -855,17 +868,18 @@
                eighteenth century Attems’s letters represent one of the very rare well-documented
                cases so far discovered of such a tour undertaken by a member of an influential
                family from Inner Austria.</p>
-            <p xml:id="attems2-p-10">Since the task of presenting satisfactorily a correspondence of
-               this kind calls for specialist knowledge in different branches of the Humanities, an
-               international, multidisciplinary group of researchers drawn from the Research Centre
-               of the Slovenian Academy of Sciences and Arts (Metoda Kokole, Miha Preinfalk, Matija
-               Ogrin and Željko Oset) and the Karl-Franzens-Universität Graz (Gabriele Haug-Moritz,
-               Marlies Raffler, Michael Walter and Florian Zeilinger) was established in late 2018.
-               The group’s project, named “Culture and Politics in mid-eighteenth century Europe –
-               the letters of Count Ignaz Maria von Attems-Heiligenkreuz to his father (1734–1738).
-               A digital edition”, had the good fortune to gain the support of the Kommission für
-               Neuere Geschichte Österreichs in 2019. This, then, is the first fruit of the project
-               – one that it is hoped to follow with further original studies and commentaries.</p>
+            <p xml:id="attems2-p-10">The task of presenting the correspondence as a digital edition
+               was possible due to collaboration of an international, multidisciplinary group of
+               researchers. The research team, directed by Metoda Kokole and Gabriele Haug-Moritz,
+               was established in late 2018, come from the Research Centre of the Slovenian Academy of
+               Sciences and Arts (Metoda Kokole, Miha Preinfalk, Matija Ogrin and Željko Oset) and
+               the Karl-Franzens-Universität Graz (Gabriele Haug-Moritz, Marlies Raffler, Michael
+               Walter and Florian Zeilinger) was established in late 2018. The group’s project,
+               named “Culture and Politics in mid-eighteenth century Europe – the letters of Count
+               Ignaz Maria von Attems-Heiligenkreuz to his father (1734–1738). A digital edition”,
+               had the good fortune to gain the support of the Kommission für Neuere Geschichte
+               Österreichs in 2019. This, then, is the first fruit of the project – one that it is
+               hoped to follow with further original studies and commentaries.</p>
          </div>
       </front>
       <body xml:lang="de">

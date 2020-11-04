@@ -7158,7 +7158,7 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                         >Geschwestert</hi>“ (<hi rend="italic">Geschwister</hi>)<note place="foot"
                         xml:id="zeilinger-ftn34" n="34">Vgl. <hi rend="italic">Deutsches
                            Wörterbuch</hi>, s.v. „Geschwester“.</note>, „<hi rend="italic"
-                     >iezo</hi>“ (ältere Form von <hi rend="italic">jetzt</hi>)<note place="foot"
+                     >jezo</hi>“ (ältere Form von <hi rend="italic">jetzt</hi>)<note place="foot"
                         xml:id="zeilinger-ftn35" n="35">Vgl. <hi rend="italic">Deutsches
                            Wörterbuch</hi>, s.v. „jetzt“.</note>, „<hi rend="italic">Leilach</hi>“
                         (<hi rend="italic">Leintuch</hi>)<note place="foot" xml:id="zeilinger-ftn36"
@@ -7291,7 +7291,7 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                      <item>Eigennamen werden entsprechend der Vorlage wiedergegeben.</item>
                      <item>Die Groß- und Kleinschreibung folgt der Vorlage, sofern sie eindeutig ist
                         (ansonsten wird von den <hi rend="italic">Empfehlungen</hi> Kleinschreibung
-                        empfohlen). Auch Satzanfänge können klein geschrieben sein.</item>
+                        empfohlen). Auch Satzanfänge können kleingeschrieben sein.</item>
                      <item>Die Getrennt- und Zusammenschreibung folgt der Vorlage, sofern sie
                         eindeutig ist.</item>
                      <item>Orthografische Fehler des Schreibers, die nicht mit den fehlenden
@@ -7377,7 +7377,7 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                      der wiederum die Ausgabe in anderen Dateiformaten (z.B. html, pdf etc.)
                      erlaubt. Der Verfasser konnte die TEI-Transkription mithilfe der
                      Reproduktionsscans der Originalbriefe kontrollieren und durchgängig taggen.</p>
-                  <p xml:id="attems2-p-90">Zum Taggen verschiedener, im Folgenden gelisteten
+                  <p xml:id="attems2-p-90">Zum Taggen verschiedener, im Folgenden gelisteter
                      Phänomene, wurden die standardisierten Elemente von TEI genutzt:<note
                         place="foot" xml:id="zeilinger-ftn54" n="54">Für Elemente, Module etc. vgl.
                         „TEI Elements“, Text Encoding Initiative, Zugriff am 10 September 2019, <ref
@@ -7430,11 +7430,11 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                      <item>Hochgestellte Buchstaben, wie die Zahlwortendungen nach als Zahlzeichen
                         geschriebenen Ordnungszahlen, werden als &lt;hi rend="superscript"&gt;
                         ausgezeichnet transkribiert.</item>
-                     <item>Durchgestrichenes wird transkribiert und als &lt;hi rend="strikeout"&gt;
+                     <item>Durchgestrichenes wird transkribiert und als &lt;del&gt;
                         ausgezeichnet.</item>
                      <item>Unterstreichungen, die höchstwahrscheinlich auch von Attems selbst
                         stammen, werden als &lt;hi rend="underline"&gt; ausgezeichnet transkribiert,
-                        kommt aber selten vor.</item>
+                        kommen aber selten vor.</item>
                      <item>Einfügungen im Text werden mit &lt;add&gt; ausgezeichnet
                         transkribiert.</item>
                      <item>Die seltenen Einfügungen am Textrand, wie die jeweils einmal verwendeten

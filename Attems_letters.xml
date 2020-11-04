@@ -62,15 +62,15 @@
                      target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
                      Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
                </p>
-               <p rend="CIP"
-                  ><![CDATA[<p>CIP - Kataložni zapis o publikaciji<br/> Narodna in univerzitetna knjižnjica, Ljubljana</p><br/>]]></p>
+               <p rend="CIP"><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
+<a href="https://cobiss.si/" target="_blank">COBISS.SI</a>-ID=<a href="http://cobiss6.izum.si/scripts/cobiss?command=DISPLAY&amp;base=99999&amp;rid=35292675&amp;fmt=13&amp;lani=si" target="_blank">35292675</a><br/>
+ISBN 978-961-05-0486-3 (html)<br/>]]></p>
             </availability>
-            <idno type="ISBN"/>
-            <idno type="DOI"/>
+            <idno type="ISBN">978-961-05-0486-3</idno>
             <idno type="URI">https://zalozba.zrc-sazu.si/p/1634</idno>
             <idno type="URI">https://dariah-si.github.io/Attems/</idno>
             <idno type="hdl">http://hdl.handle.net/20.500.12325/40</idno>
-            <idno type="COBISS.SI"/>
+            <idno type="COBISS.SI">35292675</idno>
          </publicationStmt>
          <sourceDesc>
             <p>Briefe des Grafen Ignaz von Attems. StLA, Familienarchiv Attems, K. 19, H. 87</p>

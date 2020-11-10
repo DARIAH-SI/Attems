@@ -88,20 +88,21 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
       </fileDesc>
       <profileDesc>
          <abstract xml:lang="en">
-            <p>This is a critical and commented edition of a little known primary source of a
+            <p>This is a critical edition with commentary of a little known primary source of a
                typical eighteenth-century European Grand Tour – 34 family letters of a member of a
                wealthy noble family from the Inner-Austrian capital city of Graz, Ignaz Maria von
-               Attems-Heiligenkreuz (1714–1762) addressed over the four-year period (November 1734
-               to September 1738) to his father. These letters are now deposited in the
-               Steiermärkisches Landesarchiv in Graz in the Attems Family fund (Familienarchiv
+               Attems-Heiligenkreuz (1714–1762) addressed over a four-year period (November 1734 to
+               September 1738) to his father. These letters are today deposited in the
+               Steiermärkisches Landesarchiv in Graz in the Attems Family archive (Familienarchiv
                Attems, Briefe des Grafen Ignaz Attems, K. 19, H. 87). The correspondence is not only
-               very informative on Attems’s education but also constitute a rich source for the
-               history of many everyday aspects – routes, transport, costs, accommodation, health,
+               very informative on Attems’s education but also constitutes a rich source for the
+               history of many everyday matters – routes, transport, costs, accommodation, health,
                clothing, education, religious issues, economic debates, descriptions of the foremost
-               sites and artistic wonders of the time, etc. Furthermore, he provided his father with
-               current news and didn’t fail to inform him of some of his visits to music events,
-               concerts, dances and operatic productions, too. The digital edition consists of the
-               facsimiles of the letters, a diplomatic transcription and studies.</p>
+               sites and artistic wonders of the time, etc. Furthermore, Ignaz Maria provided his
+               father with current news and took good care to inform him as well about some of his
+               visits to musical events, concerts, balls and operatic productions. The digital
+               edition consists of facsimiles of the letters, a diplomatic transcription and
+               studies.</p>
          </abstract>
          <abstract xml:lang="sl">
             <p>Pred vami je kritična in komentirana izdaja malo znanega primarnega vira iz 18.
@@ -871,15 +872,15 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
             <p xml:id="attems2-p-10">The task of presenting the correspondence as a digital edition
                was possible due to collaboration of an international, multidisciplinary group of
                researchers. The research team, directed by Metoda Kokole and Gabriele Haug-Moritz,
-               was established in late 2018, come from the Research Centre of the Slovenian Academy of
-               Sciences and Arts (Metoda Kokole, Miha Preinfalk, Matija Ogrin and Željko Oset) and
-               the Karl-Franzens-Universität Graz (Gabriele Haug-Moritz, Marlies Raffler, Michael
-               Walter and Florian Zeilinger) was established in late 2018. The group’s project,
-               named “Culture and Politics in mid-eighteenth century Europe – the letters of Count
-               Ignaz Maria von Attems-Heiligenkreuz to his father (1734–1738). A digital edition”,
-               had the good fortune to gain the support of the Kommission für Neuere Geschichte
-               Österreichs in 2019. This, then, is the first fruit of the project – one that it is
-               hoped to follow with further original studies and commentaries.</p>
+               was established in late 2018, come from the Research Centre of the Slovenian Academy
+               of Sciences and Arts (Metoda Kokole, Miha Preinfalk, Matija Ogrin and Željko Oset)
+               and the Karl-Franzens-Universität Graz (Gabriele Haug-Moritz, Marlies Raffler,
+               Michael Walter and Florian Zeilinger) was established in late 2018. The group’s
+               project, named “Culture and Politics in mid-eighteenth century Europe – the letters
+               of Count Ignaz Maria von Attems-Heiligenkreuz to his father (1734–1738). A digital
+               edition”, had the good fortune to gain the support of the Kommission für Neuere
+               Geschichte Österreichs in 2019. This, then, is the first fruit of the project – one
+               that it is hoped to follow with further original studies and commentaries.</p>
          </div>
       </front>
       <body xml:lang="de">
@@ -6883,8 +6884,8 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                Transkriptionsrichtlinien sollen die notwendigen Transformationen (die neue ‚Tour‘)
                der Texte nachvollziehbar machen.<note place="foot" xml:id="zeilinger-ftn4" n="4">
                   Für entsprechende notwendige Erläuterungen der Editions- bzw.
-                  Transkriptionsrichtlinien vgl. z.B. Grete Klingenstein, Eva Faber und
-                  Antonio Trampus, Hrsg., „Einleitung“, in: <hi rend="italic">Europäische Aufklärung
+                  Transkriptionsrichtlinien vgl. z.B. Grete Klingenstein, Eva Faber und Antonio
+                  Trampus, Hrsg., „Einleitung“, in: <hi rend="italic">Europäische Aufklärung
                      zwischen Wien und Triest: die Tagebücher des Gouverneurs Karl Graf Zinzendorf
                      1776–1782</hi>, Bd. 2, <hi rend="italic">Die Tagebücher 31. Mai 1776 bis 31.
                      Dezember 1778</hi>, Veröffentlichungen der Kommission für Neuere Geschichte
@@ -6930,7 +6931,7 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                            >Enzyklopädie der Neuzeit</hi>, hrsg. Friedrich Jaeger (Stuttgart:
                         Metzler, 2005), 2:414-417; Carmen Furger, <hi rend="italic">Briefsteller:
                            das Medium „Brief“ im 17. und frühen 18. Jahrhundert</hi> (Köln: Böhlau,
-                           2010), 171, 176–177; Robert Vellusig, „Brief: 1. Gattungsgeschichte“, in:
+                        2010), 171, 176–177; Robert Vellusig, „Brief: 1. Gattungsgeschichte“, in:
                            <hi rend="italic">Enzyklopädie der Neuzeit</hi>, hrsg. Friedrich Jaeger
                         (Stuttgart: Metzler, 2005), 2:406–412; Id., <hi rend="italic">Schriftliche
                            Gespräche: Briefkultur im 18. Jahrhundert</hi>, Literatur und Leben 54
@@ -7380,7 +7381,8 @@ ISBN 978-961-05-0486-3 (html)<br/>]]></p>
                   <p xml:id="attems2-p-90">Zum Taggen verschiedener, im Folgenden gelisteter
                      Phänomene, wurden die standardisierten Elemente von TEI genutzt:<note
                         place="foot" xml:id="zeilinger-ftn54" n="54">Für Elemente, Module etc. vgl.
-                        „TEI Elements“, Text Encoding Initiative, Zugriff am 10. September 2019, <ref
+                        „TEI Elements“, Text Encoding Initiative, Zugriff am 10. September 2019,
+                           <ref
                            target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html"
                            >https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</note>
                   </p>
